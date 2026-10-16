@@ -1,52 +1,53 @@
 ## Technical Guides
 
-Blog_March_15_2022_Ukraine_War.pdf
-Blog_OT Zero Trust Drives Cyber Safe Vehicles _ TXOne Networks.pdf
-ITvsOT.pdf
-TXOne00522 SMB Manufacturing White Paper Design_4p_180722.pdf
-The-OT-Zero-Trust-Guide-to-Compliance-with-the-NIS-Regulations-TXOne-WP-2207.pdf
-
-
 ### Cybersecurity guidance
-* [3 OT Zero Trust Defenses for SMB Manufacturing (TXOne Networks White Paper Design 4p 180722)](https://media.txone.com/prod/uploads/2022/08/3-OT-Zero-Trust-Defenses-for-SMB-Manufacturing-TXOne-WP-2208.pdf)
 
-* [4 Ways to Repel Cyber Warfare-related Malware (TXOne Networks Blog 2022).](4%20Ways%20to%20Repel%20Cyber%20Warfare-related%20Malware%20TXOne%20Networks.pdf)
+* [3 OT Zero Trust Defenses for SMB Manufacturing (TXOne Networks White Paper Design 4p 180722)](published/https://media.txone.com/prod/uploads/2022/08/3-OT-Zero-Trust-Defenses-for-SMB-Manufacturing-TXOne-WP-2208.pdf)
 
-* [Best Practices for Pharmaceutical Manufacturers: Trend Micro Portable Security™ 3 (TXOne Networks 202009)](TMPS3-Best-Practices-for-Pharmaceutical-Manufacturers-TXOne-202009.pdf)
+* [4 Ways to Repel Cyber Warfare-related Malware (TXOne Networks Blog 2022).](published/4_Ways_to_Repel_Cyber_Warfare-related_Malware_TXOne_Networks.pdf)
 
-* [Cyber Criminals Hack the Hops (TXOne Networks Blog 2022)](Cyber%20Criminals%20Hack%20the%20Hops.pdf)
+* [Best Practices for Pharmaceutical Manufacturers: Trend Micro Portable Security™ 3 (TXOne Networks 202009)](published/TMPS3-Best-Practices-for-Pharmaceutical-Manufacturers-TXOne-202009.pdf)
 
-* [Cyber Safe Green Energy (TXOne Networks WP 202205 22050914485)](Cyber-Safe-Green-Energy-TXOne-WP-202205_22050914485.pdf)
+* [Blog Ukraine War](Blog_March_15_2022_Ukraine_War.pdf)
 
-* [Future-proofing Critical Services Against Tomorrow’s Cyber Threats (TXOne Networks WP 2210)](Futureproofing-Critical-Services-Against-Tomorrows-Cyber-Threats-TXOne-WP-2210.pdf)
+* [Blog OT Zero Trust Drives Cyber Safe Vehicles](Blog_OT Zero Trust Drives Cyber Safe Vehicles _ TXOne Networks.pdf)
 
-* [How Trend Micro Portable Security™ 3 Streamlines NERC CIP Compliance (TXOne Networks Case Study 202109)](How-TMPS3-streamlines-NERC-CIP-compliance-TXOne-Casestudy-202109.pdf)
+* [Cyber Criminals Hack the Hops (TXOne Networks Blog 2022)](published/Cyber_Criminals_Hack_the_Hops.pdf)
 
-* [Modern warfare weaponizes hackers against critical infrastructure (TXOne Networks 2022)](Modern%20warfare%20weaponizes%20hackers%20against%20critical%20infrastructure%20TXOne%20Networks.pdf)
+* [Cyber Safe Green Energy (TXOne Networks WP 202205 22050914485)](published/Cyber-Safe-Green-Energy-TXOne-WP-202205_22050914485.pdf)
 
-* [Oil and gas infrastructure at risk in the face of cyber warfare (TXOne Networks Blog 2022)](Oil%20and%20gas%20infrastructure%20at%20risk%20in%20the%20face%20of%20cyber%20warfare%20TXOn%20Networks.pdf)
+* [Future-proofing Critical Services Against Tomorrow’s Cyber Threats (TXOne Networks WP 2210)](published/Futureproofing-Critical-Services-Against-Tomorrows-Cyber-Threats-TXOne-WP-2210.pdf)
 
-* [OT Digital Safety (TXOne Networks 2022)]
+* [How Trend Micro Portable Security™ 3 Streamlines NERC CIP Compliance (TXOne Networks Case Study 202109)](published/How-TMPS3-streamlines-NERC-CIP-compliance-TXOne-Casestudy-202109.pdf)
 
-* [OT Zero Trust Drives Automobile Quality (TXOne Networks Blog 2022).](20220831%20OT%20Zero%20Trust%20Drives%20Automobile%20Quality.pdf)
+* [Modern warfare weaponizes hackers against critical infrastructure (TXOne Networks 2022)](published/Modern_warfare_weaponizes_hackers_against_critical_infrastructure_TXOne_Networks.pdf)
 
-* [OT Zero Trust Ready for European Union NIS 2 Directive (TXOne Networks Blog 2022)](Blog_OT%20Zero%20Trust%20Ready%20for%20European%20Union%20NIS%202%20Directive%20TXOne%20Networks.pdf)
+* [Oil and gas infrastructure at risk in the face of cyber warfare (TXOne Networks Blog 2022)](published/Oil_and_gas_infrastructure_at_risk_in_the_face_of_cyber_warfare_TXOn_Networks.pdf)
 
-* [OTZT – KO Cyber Threats with OT Zero Trust (TXOne Networks 2022)](https://www.txone.com/resources/blog/ot-zero-trust-risk-assessment/)
+* [OT Digital Safety (TXOne Networks 2022)](published/ITvsOT.pdf)
 
-* [Secure the Nordic Lights with OT Zero Trust (TXOne Networks Blog 2022)](Blog_Secure%20the%20Nordic%20Lights%20with%20OT%20Zero%20Trust%20TXOne%20Networks.pdf)
+* [OT Zero Trust Drives Automobile Quality (TXOne Networks Blog 2022).](published/20220831_OT_Zero_Trust_Drives_Automobile_Quality.pdf)
 
-* [Securing Autonomous Mobile Robots (TXOne Networks WP 2021)](Securing-Autonomous-Mobile-Robots-TXOne-WP-202110.pdf)
+* [OT Zero Trust Guide to Compliance with the NIS Regulations (TXOne Networks Blog 2022)](The-OT-Zero-Trust-Guide-to-Compliance-with-the-NIS-Regulations-TXOne-WP-2207.pdf)
 
-* [SEMI E187 Compliance Reference Guide – The Asset Security Life Cycle (TXOne Networks 2022)](SEMI-E187-Compliance-Reference-Guide.pdf)
+* [OT Zero Trust Ready for European Union NIS 2 Directive (TXOne Networks Blog 2022)](published/Blog_OT_Zero_Trust_Ready_for_European_Union_NIS_2_Directive_TXOne_Networks.pdf)
 
-* [Supply Chain Security: Are SBOMs Ready? (TXOne Networks 2022)](TXOne00322-SBOMs-White-Paper-Design_00422_230522.pdf)
+* [OTZT.  KO Cyber Threats with OT Zero Trust (TXOne Networks 2022)](https://www.txone.com/resources/blog/ot-zero-trust-risk-assessment/)
 
-* [The OT Zero Trust Handbook (TXOne Networks 202205)](The-OT-Zero-Trust-Handbook-TXOne-Networks-202205.pdf)
+* [Secure the Nordic Lights with OT Zero Trust (TXOne Networks Blog 2022)](published/Blog_Secure_the_Nordic_Lights_with_OT_Zero_Trust_TXOne_Networks.pdf)
 
-* [To Secure Oil and Gas Critical Infrastructure, Nordics Shall Strengthen Defenses in Cyberspace (TXOne Networks Blog 2022)](ToSecureOil_GasCriticalInfrastructure_NordicsShallStrengthenDefensesinCyberspace.pdf)
+* [Securing Autonomous Mobile Robots (TXOne Networks WP 2021)](published/Securing-Autonomous-Mobile-Robots-TXOne-WP-202110.pdf)
+
+* [SEMI E187 Compliance Reference Guide – The Asset Security Life Cycle (TXOne Networks 2022)](published/SEMI-E187-Compliance-Reference-Guide.pdf)
+
+* [Supply Chain Security: Are SBOMs Ready? (TXOne Networks 2022)](published/TXOne00322-SBOMs-White-Paper-Design_00422_230522.pdf)
+
+* [The OT Zero Trust Handbook (TXOne Networks 202205)](published/The-OT-Zero-Trust-Handbook-TXOne-Networks-202205.pdf)
+
+* [To Secure Oil and Gas Critical Infrastructure, Nordics Shall Strengthen Defenses in Cyberspace (TXOne Networks Blog 2022)](published/ToSecureOil_GasCriticalInfrastructure_NordicsShallStrengthenDefensesinCyberspace.pdf)
 
 ### Intel® processor tuning guides
+
 * [Deep Learning Boost on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
 
 * [Intel® Distribution of OpenVINO™ Toolkit Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors Based Platform](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
@@ -72,91 +73,147 @@ The-OT-Zero-Trust-Guide-to-Compliance-with-the-NIS-Regulations-TXOne-WP-2207.pdf
 * La Guía para optimizar el WordPress* en la Plataforma de Procesadores Escalables Intel® Xeon® de 3 a Generación
 
 ### Project management guidance
+
 * [It’s Chinese to Me, the PMP® (Project Management Institute 2016)](https://www.projectmanagement.com/articles/356283/it-s-chinese-to-me--the-pmp-sup----sup-#_)
+
 * Applying PMI Project Management Framework to Software Validation of LC/MS Systems (PMI Pharmaceutical Community of Practice Case Study 2011)
+
 * Applying PMI Project Management Framework to Software Validation for GLP Laboratories (PMI Pharmaceutical Community of Practice Case Study)
 
 ### Regulatory compliance guides
+
 * Comparison of Global GLP Regulations Pertaining to LC/MS Instrument Software Validation. SCIEX Whitepaper (SCIEX 2013)
+
 * Comparison of SFDA and FDA Regulations Pertaining to LC/MS Instrument Software Validation. THERQA and QUASAR magazine (2012)
+
 * Crosswalks: UK Data Security and Protection Toolkit (DSPT) and OT Zero Trust for NHS (National Health System) (TXOne Networks 2024)
+
 * OT Zero Trust Geared for NERC CIP, NIST, Chilean Standard for Cybersecurity in the Electricity Sector including crosswalk (TXOne Networks 2024)
+
 * Review of cybersecurity law and regulations in Baltic States (TXOne Networks 2024)
+
 * Review of regulations pertaining to the energy sector in Finland (TXOne Networks 2024)
+
 * Summary Comparison of Global GLP Regulations Pertaining to LCMS Instrument Software Validation. Quasar RQA Members Magazine (SCIEX 2013)
+
 * The OT Zero Trust Guide to Compliance with the NIS Regulations (TXOne Networks 2022)
 
 ### Risk assessment guidance
+
 * Fibonacci Sequences Improve GAMP 5® Risk Assessment for GLP Computerized Systems (SCIEX 2013)
 
 ### Software validation guides
+
 * Answers to Software Validation Questions for Every GLP Lab. MassSpectator Magazine Issue 5 (SCIEX 2014)
+
 * Considerations When Validating Your Analyst Software Per GAMP 5. SCIEX Whitepaper (SCIEX 2010)
+
 * Current Topics for Software Validation for the GLP Lab. Mass Spectator Journal Issue 5 (SCIEX 2014)
 
 ### System guides for Intel® customers
+
 * Intel® System Health Inspector User Guide. Intel Customer Guide (2022)
 
 ### GLP software validation documentation
+
 * SCIEX Analyst Software Risk Assessment
+
 * SCIEX Analyst Software Validation Plan
+
 * SCIEX Analyst User and Functional Requirements Specification
+
 * SCIEX Analyst System Design and Configuration Specification
+
 * SCIEX Analyst Test Plan
+
 * SCIEX Analyst Traceability Matrix to show how tests validated requirements
+
 * SCIEX Analyst Installation Qualification Protocol to test the environment and installation
+
 * SCIEX Analyst Operational Qualification protocol to test software functions
+
 * SCIEX Analyst Performance Qualification Protocol for performance testing
+
 * FDA CFR Part 11 Assessment to demonstrate compliance with Part 11 regulations
+
 * Cybersecurity Policy and Procedure Recommendations for the GLP Laboratory
 
 ### Standard Operating Procedures
+
 * Standard Operating Procedures for Analyst Software
+
 * Standard Operating Procedures for GLP Lab Cybersecurity
+
 * ISMS Mobile SOP for Mobile Device Security Template
 
 ### ISO/IEC 27001 Information Security Management System (ISMS) for Mobile Devices
+
 * ISMS Mobile Policy
+
 * ISMS Mobile Scope
+
 * ISMS Mobile Project Plan (MS Project)
+
 * ISMS Mobile Risk Assessment Methodology
+
 * ISMS Mobile Risk Assessment
+
 * ISMS Mobile Risk Treatment Plan
+
 * ISMS Mobile Statement of Applicability (SoA)
+
 * ISMS Mobile Password Policy Template
+
 * Overview ISMS for Mobile Devices – presentation
 
 ## Training Courses
 
 ### API documentation
+
 * [IOTA JSON-RPC Reference Version 1.0](https://docs.iota.org/iota-api-ref)
 
 ### Blockchain training materials
+
 * [Connecting an IoT Device to I3 and IOTA.](https://blog.iota.org/connecting-an-iot-device-to-i3-and-iota-ddb724f2a662/)
+
 * [Introduction to IoT, I3, and IOTA.](https://blog.iota.org/intro-to-iot-i3-iota-633c1a2f0125/)
+
 * [USC Trojan Blockchain Society 2019 Speaker Event featuring the IOTA Coffee Supply Chain with the IOTA Data Marketplace](https://github.com/NelsonPython/USCTrojanBlockchainSocietyApr2019Meetup)
 
 ### Capture The Flag (CTF) challenges
+
 * Challenges for forensic analysis of Modbus network traffic (2025)
 
 ### Continuing education courses
+
 * 2023 PMI PDU course: Can AI be a Member of Your Team?
+
 * 2021 PMI PDU course: Learning to Learn: How Techniques for Human and Machine-Learning Can Accelerate Project Team Growth
 
 ### Software training courses
+
 * [IOTA Documentation – Version 1.0](https://docs.iota.org)
+
 * Code Style and Code Navigation (Amazon in-house 2023)
+
 * General Purpose GPU Programming (Amazon in-house 2023)
+
 * How to Schedule and Manage Jobs on HPC Clusters (On-premises and AWS Cloud) (Amazon in-house 2023)
+
 * Introduction to Git/GitHub and Git Best Practices for Software Developers (Amazon in-house 2023)
+
 * Managing Data Science Experiments for Autonomous Systems (Amazon in-house 2023)
+
 * QA and Software Release Management for Managers (Amazon in-house 2023)
+
 * Setting up a Development Environment with Virtual Machines (Amazon in-house 2023)
+
 * Train the Trainer: Developing Text and Video Training for Hybrid Workplaces (Amazon in-house 2023)
 
 ## Technical Reports – NASA
 
 ### Technical Advisory
+
 * [Guidance for the Verification and Validation of Neural Networks, published in March 2007 by Wiley-IEEE Computer Society Press (ISBN: 978-0-470-08457-1).](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119134671)
 
 * The State of AI in Critical Infrastructure, FBI Artificial Intelligence Cross Sector Council (Infragard AI-CSC) research initiative (Infragard 2025)
@@ -224,58 +281,85 @@ The-OT-Zero-Trust-Guide-to-Compliance-with-the-NIS-Regulations-TXOne-WP-2207.pdf
 ## Marketing Research and Sales Support Documentation
 
 ### Infographics
+
 * OT Digital Safety Infographic (TXOne Networks 2024)
+
 * OT Zero Trust Infographic (TXOne Networks 2024)
+
 * Securing Medical Devices – Key Cybersecurity Use Cases (TXOne Networks 2024)
+
 * Securing Micro Grids
+
 * The Four Cornerstones of OT Zero Trust (TXOne Networks 2024)
+
 * TXOne Networks/Trend Micro Portable Security™ 3
 
 ### Market Research and Sales Support Documentation
+
 * Better than Hindsight – OT Foresight (TXOne Networks 2024)
+
 * Biggest Cyber Threats to Smart Cities (TXOne Networks 2024)
+
 * Can my Solar Panels be Hacked?
+
 * Critical Infrastructure: A Mass Casualty Threat – Part I (TXOne Networks 2024)
+
 * Critical Infrastructure: Another Mass Casualty Threat – Part II (TXOne Networks 2024)
+
 * CyberSmart Retail
+
 * Cyber Threats to Smart Cities
+
 * Growing Cyber Threats from Farm to Plate (TXOne Networks 2024)
+
 * ML CTI 101 (Machine Learning – Cyber Threat Intelligence) (TXOne Networks 2024)
+
 * Oil and Gas Automation Under Attack (TXOne Networks 2024)
+
 * OT Cybersecurity Market Review (TXOne Networks 2024)
+
 * OT Foresight Strike
+
 * OT Zero Trust Asset Life Cycle (TXOne Networks 2024)
+
 * OT Zero Trust Boosts Healthcare Cybersecurity (TXOne Networks 2024)
+
 * OT Zero Trust Drives Automobile Quality (TXOne Networks 2024)
+
 * OT Zero Trust Wipes Malware from Cone Zone
+
 * Outlook Forms/Intranet Integration (Mirage Resorts 1998)
+
 * Pharmaceuticals: 2x Dose of OT Zero Trust Cybersecurity (TXOne Networks 2024)
+
 * Portable Security Inspections for Oil Rig Tech (TXOne Networks 2024)
+
 * Protect Retail Point of Sale (PoS)
+
 * Satellite Security – It’s About Time (TXOne Networks 2024)
+
 * Smart City OT Vulnerabilities (TXOne Networks 2024)
+
 * Smart Factory – Digital Twin Dilemma
+
 * Summary ERwin Methods Guide (Hitachi 1999)
+
 * Summary Working on a Web Farm (Load Balancing) (Hitachi 1999)
+
 * The Haunted House of Hacks – OT Zero Trust for Building Systems (TXOne Networks 2024)
+
 * The Security Checkpoint (TXOne Networks 2024)
+
 * Virtual Pirates, Robots, and Oil Rigs (TXOne Networks 2024)
+
 * Visibility versus Protection (TXOne Networks 2024)
+
 * What are Cyber Threats and Vulnerabilities? (TXOne Networks 2024)
+
 * Zero Trust Philosophy Demystified (NIST SP 800-207 explained) (TXOne Networks 2024)
 
-## Poetry and Prose
-* Norm, As I Am (English Edition) – A children’s book published in 2023 with pen name: Cy Nelson, ISBN: 978-1-998924-39-4 (English Paperback), ISBN: 978-1-998924-40-0 (English Kindle e-book)
-* Norm Comme Je Suis! (French Edition) ISBN: 978-1-998924-50-9 (French Paperback), ISBN: 978-1-998924-51-6 (French Kindle e-book)
-* ¡Norm Como Soy! (Spanish Edition) ISBN: 978-4-998924-47-9 (Spanish Paperback), ISBN: 978-1-998924-48-6 (Spanish Kindle e-book)
-* 诺姆就是我 (Norm Jiu Shi Wo, Mandarin Edition) ISBN: 978-1-998924-53-0 (Chinese Paperback), ISBN: 978-1-998924-54-7 (Chinese Kindle e-book)
-* “Goddesses of Malta” – research paper published in 2009 under pen name, Dene’ Nelson, and used as reference for Fatropolis, ISBN 10: 1597190578 (2012)
-* "Forbidden", Arch and Quiver poetry anthology, editor Tanisha Jackland, 2006, p. 52.
-* "Dunes" America at the Millennium poetry anthology, The National Library of Poetry, 1999.
-* "Storm" Editor's Choice Award for Outstanding Achievement in Poetry in A Picture of Elegance poetry anthology, The National Library of Poetry, 1998, p 187.
-* "Polished Rocks" Editor's Choice Award for Outstanding Achievement in Poetry in The Promise of Tomorrow poetry anthology, The National Library of Poetry, 1997, p 153.
-* "Polished Rocks" poem in Echoes From the Silence poetry anthology, editor Shirley J. Mikkelson, Vol. XII, 1996 p. 15.
-
 ## Automated Documentation
+
 * Developed Python scripts to generate daily URL link checks for >700 URLS embedded in Intel Tuning Guides (2021)
+
 * Developed Python scripts to generate Cybersecurity Maturity Model Certification (CMMC 2.0) compliance templates (Crane Aerospace 2022). CMMC provided guidance for compliance with 32 CFR Part 2002, DFARS 252.204-7012, and DoDI 5200.48 in the implementation of National Institute of Standards and Technology (NIST) SP 800-171. The US Department of War suspended CMMC II in 2026.
