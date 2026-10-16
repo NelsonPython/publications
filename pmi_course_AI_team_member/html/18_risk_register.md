@@ -36,7 +36,8 @@ During class this page contained an interactive risk register.  Participants wor
 
 [National Vulnerability Database (NIST) >80,000 Vulnerabilities](https://nvd.nist.gov/)
 
-[OWASP Top Ten Web and Mobile Risks](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+[OWASP Top Ten Web and Mobile Risks](https://owasp.github.io/www-project-mobile-top-10/2023-risks/)
 
-[California's SB327 law took affect January 2020](https://www.cnn.com/2018/11/09/opinions/cybersecurity-laws-internet-of-things-schneier/index.md)
+[California's SB327 law took affect January 2020](https://californiasecurityauthority.com/california-iot-security-regulations/)
+
  
