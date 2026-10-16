@@ -1,5 +1,12 @@
 ## Technical Guides
 
+Blog_March_15_2022_Ukraine_War.pdf
+Blog_OT Zero Trust Drives Cyber Safe Vehicles _ TXOne Networks.pdf
+ITvsOT.pdf
+TXOne00522 SMB Manufacturing White Paper Design_4p_180722.pdf
+The-OT-Zero-Trust-Guide-to-Compliance-with-the-NIS-Regulations-TXOne-WP-2207.pdf
+
+
 ### Cybersecurity guidance
 * [3 OT Zero Trust Defenses for SMB Manufacturing (TXOne Networks White Paper Design 4p 180722)](https://media.txone.com/prod/uploads/2022/08/3-OT-Zero-Trust-Defenses-for-SMB-Manufacturing-TXOne-WP-2208.pdf)
 
