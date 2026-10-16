@@ -23,11 +23,11 @@
 
 * [OT Zero Trust Drives Automobile Quality (TXOne Networks Blog 2022).](20220831%20OT%20Zero%20Trust%20Drives%20Automobile%20Quality.pdf)
 
-* OT Zero Trust Ready for European Union NIS 2 Directive (TXOne Networks Blog 2022)
+* [OT Zero Trust Ready for European Union NIS 2 Directive (TXOne Networks Blog 2022)](Blog_OT Zero Trust Ready for European Union NIS 2 Directive _ TXOne Networks.pdf)
 
 * [OTZT – KO Cyber Threats with OT Zero Trust (TXOne Networks 2022)](https://www.txone.com/resources/blog/ot-zero-trust-risk-assessment/)
 
-* Secure the Nordic Lights with OT Zero Trust (TXOne Networks Blog 2022)
+* [Secure the Nordic Lights with OT Zero Trust (TXOne Networks Blog 2022)](Blog_Secure the Nordic Lights with OT Zero Trust _ TXOne Networks.pdf)
 
 * [Securing Autonomous Mobile Robots (TXOne Networks WP 2021)](Securing-Autonomous-Mobile-Robots-TXOne-WP-202110.pdf)
 
