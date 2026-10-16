@@ -74,15 +74,15 @@
 
 * [It’s Chinese to Me, the PMP® (Project Management Institute 2016)](https://www.projectmanagement.com/articles/356283/it-s-chinese-to-me--the-pmp-sup----sup-#_)
 
-* [Applying PMI Project Management Framework to Software Validation of LC/MS Systems (PMI Pharmaceutical Community of Practice Case Study 2011)(published/applying_pmi_project_management_framework_to_software_validation_of_lc_ms_systems.pdf)
+* [Applying PMI Project Management Framework to Software Validation of LC/MS Systems (PMI Pharmaceutical Community of Practice Case Study 2011)](published/applying_pmi_project_management_framework_to_software_validation_of_lc_ms_systems.pdf)
 
 * Applying PMI Project Management Framework to Software Validation for GLP Laboratories (PMI Pharmaceutical Community of Practice Case Study)
 
 ### Regulatory compliance guides
 
-* Comparison of Global GLP Regulations Pertaining to LC/MS Instrument Software Validation. SCIEX Whitepaper (SCIEX 2013)
-
-* Comparison of SFDA and FDA Regulations Pertaining to LC/MS Instrument Software Validation. THERQA and QUASAR magazine (2012)
+* [Comparison of Global GLP Regulations Pertaining to LC/MS Instrument Software Validation. SCIEX Whitepaper (SCIEX 2013)](published/comparison_of_global_glp_regulations_pertaining_to_lc_ms_instrument_software_validation)
+  
+* [Comparison of SFDA and FDA Regulations Pertaining to LC/MS Instrument Software Validation. THERQA and QUASAR magazine (2012)](published/comparison_of_sfda_and_fda_regulations_pertaining_to_lc_ms_instrument_software_validation.pdf)
 
 * Crosswalks: UK Data Security and Protection Toolkit (DSPT) and OT Zero Trust for NHS (National Health System) (TXOne Networks 2024)
 
@@ -92,7 +92,7 @@
 
 * Review of regulations pertaining to the energy sector in Finland (TXOne Networks 2024)
 
-* Summary Comparison of Global GLP Regulations Pertaining to LCMS Instrument Software Validation. Quasar RQA Members Magazine (SCIEX 2013)
+* [Summary Comparison of Global GLP Regulations Pertaining to LCMS Instrument Software Validation. Quasar RQA Members Magazine (SCIEX 2013)](published/quaser_123.pdf)
 
 * The OT Zero Trust Guide to Compliance with the NIS Regulations (TXOne Networks 2022)
 
@@ -104,9 +104,11 @@
 
 * Answers to Software Validation Questions for Every GLP Lab. MassSpectator Magazine Issue 5 (SCIEX 2014)
 
-* Considerations When Validating Your Analyst Software Per GAMP 5. SCIEX Whitepaper (SCIEX 2010)
-
+* [Considerations When Validating Your Analyst Software Per GAMP 5. SCIEX Whitepaper (SCIEX 2010)](published/considerations_when_validating_your_analyst_software_per_gamp_5.pdf)
+  
 * Current Topics for Software Validation for the GLP Lab. Mass Spectator Journal Issue 5 (SCIEX 2014)
+
+* [Managing Security for the Analyst Software on Stand Alone Windows 7 Workstations](published/managing_security_for_the_analyst_software_on_stand_alone_windows_7_workstations.pdf)
 
 ### System guides for Intel® customers
 
