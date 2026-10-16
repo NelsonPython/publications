@@ -25,7 +25,7 @@
 
 * [OT Zero Trust Ready for European Union NIS 2 Directive (TXOne Networks Blog 2022)](Blog_OT%20Zero%20Trust%20Ready%20for%20European%20Union%20NIS%202%20Directive%20TXOne%20Networks.pdf)
 
-* [OTZT – KO Cyber Threats with OT Zero Trust](TXOne Networks 2022)](https://www.txone.com/resources/blog/ot-zero-trust-risk-assessment/)
+* [OTZT – KO Cyber Threats with OT Zero Trust (TXOne Networks 2022)](https://www.txone.com/resources/blog/ot-zero-trust-risk-assessment/)
 
 * [Secure the Nordic Lights with OT Zero Trust](TXOne Networks Blog 2022)](Blog_Secure%20the%20Nordic%20Lights%20with%20OT%20Zero%20Trust%20TXOne%20Networks.pdf)
 
