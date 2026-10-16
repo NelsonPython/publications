@@ -144,15 +144,22 @@
 * Verification and Validation of Adaptive Control Systems Flight Control Software.
 
 ### Technical Reports about Autonomous Drones (NASA)
+
 * Challenges Communicating via WiFi with UAVs In-Flight. NASA Ames Research Center. Presented at NASA OSMA SAS 05, USA.
-* Identifying Contingency Requirements Using Obstacle Analysis on an Un-piloted Aerial Vehicle. NASA Ames Research Center. Presented at 13th IEEE International Requirements Engineering Conference 2005, Paris, France.
-* NASA/CR-2003-212281 Towards FAA Certification of UAVs.
-* Software Contingencies for Safe Autonomous Flight. NASA Ames Research Center. Presented at NASA OSMA SAS04, USA.
+
+* [Identifying Contingency Requirements Using Obstacle Analysis on an Un-piloted Aerial Vehicle. NASA Ames Research Center. Presented at 13th IEEE International Requirements Engineering Conference 2005, Paris, France.](https://www.researchgate.net/publication/220428004_Using_obstacle_analysis_to_identify_contingency_requirements_on_an_unpiloted_aerial_vehicle)
+
+* [NASA/CR-2003-212281 Towards FAA Certification of UAVs.](https://ntrs.nasa.gov/api/citations/20040014961/downloads/20040014961.pdf)
+  
+* [Software Contingencies for Safe Autonomous Flight. NASA Ames Research Center. Presented at NASA OSMA SAS04] (USA.https://ntrs.nasa.gov/citations/20060051702)
 
 ### Technical Reports about Software Quality (NASA)
 * [From Research to Industry: The Role of Software Engineering Standards. Tutorial presented at the 17th IEEE International Conference in Automated Software Engineering Conference in Edinburgh, Scotland.](https://www.se.cs.uni-saarland.de/conferences/ASE/ase2002/tutorials.html)
+
 * [NASA/CR-2004-212819 Product-oriented Software Certification Process for Software Synthesis. NASA Ames Research Center.](https://ntrs.nasa.gov/api/citations/20040034049/downloads/20040034049.pdf)
+
 * [NASA/TR 2004-212805 Survey of Software Assurance Techniques for Highly Reliable Systems. NASA Ames Research Center.](https://ntrs.nasa.gov/citations/20040034185)
+
 * [What Makes Code Review Trustworthy? Nelson and Schumann, Hawaii International Conference On System Sciences, HICSS 04.](https://ui.adsabs.harvard.edu/abs/2004hics.conf..594N/abstract)
 
 ## Marketing Research and Sales Support Documentation
