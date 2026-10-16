@@ -104,7 +104,7 @@
 
 * Answers to Software Validation Questions for Every GLP Lab. MassSpectator Magazine Issue 5 (SCIEX 2014)
 
-* [Considerations When Validating Your Analyst® Software Per GAMP 5. SCIEX Whitepaper (SCIEX 2010)](published/considerations_when_validating_your_analyst_software_per_gamp_5.pdf)
+* [Considerations When Validating Your Analyst® Software Per GAMP® 5. SCIEX Whitepaper (SCIEX 2010)](published/considerations_when_validating_your_analyst_software_per_gamp_5.pdf)
   
 * Current Topics for Software Validation for the GLP Lab. Mass Spectator Journal Issue 5 (SCIEX 2014)
 
@@ -112,7 +112,7 @@
 
 ### System guides for Intel® customers
 
-* Intel® System Health Inspector User Guide. Intel Customer Guide (2022)
+* Intel® System Health Inspector User Guide. Intel® Customer Guide (2022)
 
 ### GLP software validation documentation
 
