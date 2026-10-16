@@ -24,3 +24,5 @@ Project managers left with a comprehensive AI Risk Register highlighting risks s
 ## PDU Verification
 
 [July ATS AI and IOT Chat Log (Word)](chatlog/July_ATS_AI_and_IOT_Chat_Log.docx)
+
+![Cute image of a clock with robot arms and legs representing an AI scheduling bot](images/01_schedule_bubble.png)
