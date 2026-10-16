@@ -10,7 +10,7 @@
 
 * [Blog Oil and Gas Infrastructure at Risk](Blog_March_15_2022_Ukraine_War.pdf)
 
-* [Blog OT Zero Trust Drives Cyber Safe Vehicles](Blog_OT_Zero_Trust_Drives_Cyber_Safe_Vehicles_TXOne Networks.pdf)
+* [Blog OT Zero Trust Drives Cyber Safe Vehicles](Blog_OT_Zero_Trust_Drives_Cyber_Safe_Vehicles_TXOne_Networks.pdf)
 
 * [Cyber Criminals Hack the Hops (TXOne Networks Blog 2022)](published/Cyber_Criminals_Hack_the_Hops.pdf)
 
