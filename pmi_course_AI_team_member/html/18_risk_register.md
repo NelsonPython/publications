@@ -1,5 +1,6 @@
 ### RISK REGISTER
-Note:  The interactive risk register used during class has been disabled.
+
+*Note:  The interactive risk register used during class has been disabled.*
 
 | Risk ID | What might happen? | Likely to happen? (1-10) | Impact if it happens? (1-10) | Can I detect it? (1-10) | Priority | How to deal with risk? |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
