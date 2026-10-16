@@ -10,7 +10,7 @@
 * [Part 2:  Group Learning](PMI_OC_Sept_2021_ATS_Learning_to_Learn_Part_2_Group_Learning.pdf)
 
 ## Website
-* [Learning to Learn](01_outline.md)
+* [Learning to Learn](html/01_outline.md)
 
 ## Attendees
 * [For PDU verification](PMI_ATS.png)
