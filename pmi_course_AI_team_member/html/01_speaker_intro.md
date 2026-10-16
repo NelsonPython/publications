@@ -1,4 +1,4 @@
-### I'm your instructor, Nelson, a PMP certified project manager
+### I'm your instructor, Cy Nelson, a PMP certified project manager
 
 2020: I achieved my Project Management Professional Certification in 2012  
 2017: As Director of Programs, I started the Project Management Institute Chapter Coachella Valley (PMICIE-CV)  
