@@ -92,7 +92,7 @@
 
 * Review of regulations pertaining to the energy sector in Finland (TXOne Networks 2024)
 
-* [Summary Comparison of Global GLP Regulations Pertaining to LCMS Instrument Software Validation. Quasar RQA Members Magazine (SCIEX 2013)](published/Quaser_123.pdf)
+* [Summary Comparison of Global GLP Regulations Pertaining to LCMS Instrument Software Validation. Quasar RQA Members Magazine (SCIEX 2013)](published/Quasar_123.pdf)
   
 * The OT Zero Trust Guide to Compliance with the NIS Regulations (TXOne Networks 2022)
 
