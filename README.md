@@ -146,15 +146,15 @@
 
 * NASA/CR-2002-211709 Verification & Validation of Neural Networks for Aerospace Systems. NASA Armstrong Flight Research Center.
 
-* NASA/CR-2003-212806 Certification Processes for Safety-Critical and Mission-Critical Aerospace Software. NASA Ames Research Center.
+* [NASA/CR-2003-212806 Certification Processes for Safety-Critical and Mission-Critical Aerospace Software. NASA Ames Research Center.](https://ntrs.nasa.gov/api/citations/20040014965/downloads/20040014965_Update.pdf)
 
-* On Verification & Validation of Neural Network Based Controllers. Presented at Engineering Applications of Neural Networks EANN, Costa del Sol, Spain.
+* [On Verification & Validation of Neural Network Based Controllers. Presented at Engineering Applications of Neural Networks EANN, Costa del Sol, Spain.](https://www.researchgate.net/publication/228820224_On_verification_validation_of_neural_network_based_controllers)
 
-* Toward V&V of Neural Network Based Controllers. November 2002 presented at WOSS USA.
+* [Toward V&V of Neural Network Based Controllers. November 2002 presented at WOSS USA.](https://dl.acm.org/doi/10.1145/582128.582141)
 
 * V&V Guidelines for Learning Systems.
 
-* Verification & Validation of Adaptive Neural Networks for Aerospace Systems. NASA Dryden (Armstrong) Flight Research Center 2002.
+* [Verification & Validation of Adaptive Neural Networks for Aerospace Systems. NASA Dryden (Armstrong) Flight Research Center 2002.](https://ntrs.nasa.gov/citations/20020079427)
 
 * Verification and Validation of Adaptive Control Systems Flight Control Software.
 
