@@ -5,3 +5,5 @@
 2008-2016: As a PMP, I led software QA projects in 30 countries
 
 My favorite project was testing AI at NASA.
+
+![Robot holding a phone](images/01_speaker_introduction.png)
