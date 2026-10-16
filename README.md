@@ -3,13 +3,13 @@
 ### Cybersecurity guidance
 * [3 OT Zero Trust Defenses for SMB Manufacturing (TXOne Networks White Paper Design 4p 180722)](https://media.txone.com/prod/uploads/2022/08/3-OT-Zero-Trust-Defenses-for-SMB-Manufacturing-TXOne-WP-2208.pdf)
 
-* 4 Ways to Repel Cyber Warfare-related Malware (TXOne Networks Blog 2022).
+* [4 Ways to Repel Cyber Warfare-related Malware (TXOne Networks Blog 2022).](4%20Ways%20to%20Repel%20Cyber%20Warfare-related%20Malware%20TXOne%20Networks.pdf)
 
-* Best Practices for Pharmaceutical Manufacturers: Trend Micro Portable Security™ 3 (TXOne Networks 202009)
+* [Best Practices for Pharmaceutical Manufacturers: Trend Micro Portable Security™ 3 (TXOne Networks 202009)]
 
-* Cyber Criminals Hack the Hops (TXOne Networks Blog 2022)
+* [Cyber Criminals Hack the Hops (TXOne Networks Blog 2022)]
 
-* Cyber Safe Green Energy (TXOne Networks WP 202205 22050914485)
+* [Cyber Safe Green Energy (TXOne Networks WP 202205 22050914485)]
 
 * Future-proofing Critical Services Against Tomorrow’s Cyber Threats (TXOne Networks WP 2210)
 
