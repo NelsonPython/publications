@@ -1,9 +1,9 @@
 ### I'm your instructor, Nelson, a PMP certified project manager
 
-2020: I started i18n to create tech for social good  
-2017: I was the Director of Programs for PMICIE-CV  
+2020: I achieved my Project Management Professional Certification in 2012  
+2017: As Director of Programs, I started the Project Management Institute Chapter Coachella Valley (PMICIE-CV)  
 2008-2016: As a PMP, I led software QA projects in 30 countries
 
-My favorite project was [testing AI at NASA](http://i18nelson.com/NASA.md)
+My favorite project was testing AI at NASA.
 
 ![Speaker Introduction](images/01_speaker_introduction.png)
