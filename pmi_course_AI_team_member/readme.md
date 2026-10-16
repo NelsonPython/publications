@@ -1,12 +1,12 @@
 [THE ORANGE COUNTY CHAPTER OF THE PROJECT MANAGEMENT INSTITUTE presents...](https://www.pmi.org/)
 
+![Cute image of a clock with robot arms and legs representing an AI scheduling bot](html/images/01_schedule_bubble.png)
+
 *Note:  Under Construction - expect broken links*
 
 This 4-PDU class taught project managers how to become innovators. Through engaging lectures and a hands-on experience in the AI Lab, participants discovered cutting-edge management strategies. They gained direct experience with robotic process automation, innovative robot speech techniques, smart goal-oriented decision systems, automated project reporting, and anti-bias solutions.
 
 Project managers left with a comprehensive AI Risk Register highlighting risks specific to various types of AI. Additionally, they evaluated and helped expand PMBOK guidance for managing AI technologies.
-
-## Can AI be a member of your project team?
 
 | COURSE BEGIN | SCHEDULE END | ACTIVITY |
 | :--- | :--- | :--- |
@@ -25,4 +25,3 @@ Project managers left with a comprehensive AI Risk Register highlighting risks s
 
 [July ATS AI and IOT Chat Log (Word)](chatlog/July_ATS_AI_and_IOT_Chat_Log.docx)
 
-![Cute image of a clock with robot arms and legs representing an AI scheduling bot](html/images/01_schedule_bubble.png)
