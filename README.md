@@ -1,5 +1,7 @@
 # Technical Publications
 
+by Stacy "Cy" Nelson
+
 ## Technical Guides
 
 ### Cybersecurity guidance
