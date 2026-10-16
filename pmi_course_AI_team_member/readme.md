@@ -4,7 +4,7 @@
 
 ## Can AI be a member of your project team?
 
-[Website](html/01_ai.md)
+[Enter the Interactive Learning Environment](html/01_ai.md)
 
 ## PDU Verification
 
