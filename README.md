@@ -64,9 +64,9 @@
 
 * [WordPress* Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
 
-* [La Guía para optimizar Intel® Select Solutions for Genomics Analytics en la Plataforma de Procesadores Escalables Intel®️ Xeon®️ de 3a Generación](espanol/la_guia_para_optimizar_genomics.pdf)
+* [La Guía para optimizar Intel® Select Solutions for Genomics Analytics en la Plataforma de Procesadores Escalables Intel® Xeon® de 3a Generación](espanol/la_guia_para_optimizar_genomics.pdf)
 
-* [La Guía para optimizar el LAMMPS en la Plataforma de Procesadores Escalables Intel®️ Xeon®️ de 3a Generación](espanol/la_guia_para_optimizar_LAMMPS.pdf)
+* [La Guía para optimizar el LAMMPS en la Plataforma de Procesadores Escalables Intel® Xeon® de 3a Generación](espanol/la_guia_para_optimizar_LAMMPS.pdf)
 
 * [La Guía para optimizar el WordPress* en la Plataforma de Procesadores Escalables Intel® Xeon® de 3 a Generación](espanol/la_guia_para_optimizar_WordPress.pdf)
 
