@@ -8,7 +8,7 @@
 
 * [Best Practices for Pharmaceutical Manufacturers: Trend Micro Portable Security™ 3 (TXOne Networks 202009)](published/TMPS3-Best-Practices-for-Pharmaceutical-Manufacturers-TXOne-202009.pdf)
 
-* [Blog Oil and Gas Infrastructure at Risk](Blog_March_15_2022_Ukraine_War.pdf)
+* [Blog Oil and Gas Infrastructure at Risk](published/Blog_March_15_2022_Ukraine_War.pdf)
 
 * [Blog OT Zero Trust Drives Cyber Safe Vehicles](Blog_OT_Zero_Trust_Drives_Cyber_Safe_Vehicles_TXOne_Networks.pdf)
 
