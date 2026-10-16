@@ -151,8 +151,8 @@
 
 ### Technical Reports about Software Quality (NASA)
 * From Research to Industry: The Role of Software Engineering Standards. Tutorial presented at the 17th IEEE International Conference in Automated Software Engineering Conference in Edinburgh, Scotland.
-* NASA/CR-2004-212819 Product-oriented Software Certification Process for Software Synthesis. NASA Ames Research Center.
-* NASA/TR 2004-212805 Survey of Software Assurance Techniques for Highly Reliable Systems. NASA Ames Research Center.
+* [NASA/CR-2004-212819 Product-oriented Software Certification Process for Software Synthesis. NASA Ames Research Center.](https://ntrs.nasa.gov/api/citations/20040034049/downloads/20040034049.pdf)
+* [NASA/TR 2004-212805 Survey of Software Assurance Techniques for Highly Reliable Systems. NASA Ames Research Center.](https://ntrs.nasa.gov/citations/20040034185)
 * [What Makes Code Review Trustworthy? Nelson and Schumann, Hawaii International Conference On System Sciences, HICSS 04.](https://ui.adsabs.harvard.edu/abs/2004hics.conf..594N/abstract)
 
 ## Marketing Research and Sales Support Documentation
