@@ -3,7 +3,7 @@
 ### Cybersecurity guidance
 * [3 OT Zero Trust Defenses for SMB Manufacturing (TXOne Networks White Paper Design 4p 180722)](https://media.txone.com/prod/uploads/2022/08/3-OT-Zero-Trust-Defenses-for-SMB-Manufacturing-TXOne-WP-2208.pdf)
 
-* 4 Ways to Repel Cyber Warfare-related Malware (TXOne Networks Blog 2022)
+* 4 Ways to Repel Cyber Warfare-related Malware (TXOne Networks Blog 2022).
 
 * Best Practices for Pharmaceutical Manufacturers: Trend Micro Portable Security™ 3 (TXOne Networks 202009)
 
@@ -21,7 +21,7 @@
 
 * OT Digital Safety (TXOne Networks 2022)
 
-* OT Zero Trust Drives Automobile Quality (TXOne Networks Blog 2022)
+* [OT Zero Trust Drives Automobile Quality (TXOne Networks Blog 2022).](20220831 OT Zero Trust Drives Automobile Quality.pdf)
 
 * OT Zero Trust Ready for European Union NIS 2 Directive (TXOne Networks Blog 2022)
 
