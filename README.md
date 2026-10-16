@@ -22,7 +22,6 @@
 * To Secure Oil and Gas Critical Infrastructure, Nordics Shall Strengthen Defenses in Cyberspace (TXOne Networks Blog 2022)
 
 ### Intel® processor tuning guides
-(https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
 * [Deep Learning Boost on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
 * [Intel® Distribution of OpenVINO™ Toolkit Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors Based Platform](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
 * La Guía para optimizar Intel® Select Solutions for Genomics Analytics en la Plataforma de Procesadores Escalables Intel®️ Xeon®️ de 3a Generación
