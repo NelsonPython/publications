@@ -4,8 +4,7 @@
 
 ### What could possibly go wrong with an AV?
 
-![Tesla Crash](images/17_teslaCrash.png)  
-[Tesla crash](https://www.bbc.com/news/world-us-canada-43604440)
+[Tesla crash in the news](https://www.bbc.com/news/world-us-canada-43604440)
 
 ---
 
