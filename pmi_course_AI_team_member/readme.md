@@ -11,8 +11,16 @@ Project managers left with a comprehensive AI Risk Register highlighting risks s
 | COURSE BEGIN | SCHEDULE END | ACTIVITY |
 | :--- | :--- | :--- |
 | 8:00 | 8:05 | [Introduce speaker](html/01_speaker_intro.md) |
-| 8:05 | 8:15 | Introduce Objectives<br>1: [Understand skills that AI can offer your project](html/02_what_is_ai.md)<br>2: [Apply Project Management Book of Knowledge to AI](html/13_pmbok.md)<br>3: [Gain hands-on experience managing AI in the AI Lab](html/02_pmi_thought_leadership.md) |
-| 8:15 | 9:00 | [Review Project Management Book of Knowledge](html/13_pmbok.md)<br>[Consider AI and Quality Management](html/14_pmbok-chapter8.md)<br>[Think about AI Resource Management](html/15_pmbok-chapter9.md)<br>[Experience AI Communications](16_pmbok-chapter10.md)<br>[What new risks does AI introduce to your project?](html/17_pmbok-chapter11.md)<br>[Undertake AI Risk Management](html/18_risk_register.md) |
+| 8:05 | 8:15 | Introduce Objectives
+1: [Understand skills that AI can offer your project](html/02_what_is_ai.md)
+2: [Apply Project Management Book of Knowledge to AI](html/13_pmbok.md)
+3: [Gain hands-on experience managing AI in the AI Lab](html/02_pmi_thought_leadership.md) |
+| 8:15 | 9:00 | [Review Project Management Book of Knowledge](html/13_pmbok.md)
+[Consider AI and Quality Management](html/14_pmbok-chapter8.md)
+[Think about AI Resource Management](html/15_pmbok-chapter9.md)
+[Experience AI Communications](html/16_pmbok-chapter10.md)
+[What new risks does AI introduce to your project?](html/17_pmbok-chapter11.md)
+[Undertake AI Risk Management](html/18_risk_register.md) |
 | 9:00 | 9:10 | 10 minute break |
 | 9:10 | 10:00 | [Will AI take my job?](html/03_a_will_ai_take_my_job.md)<br>[Hands on experience managing AI in the AI Lab](html/03_b_experience_ai_lab.md)<br>[Meet the AI team members from the AI Lab](html/03_c_introduce_ai_lab.md)<br>[Discover self-driving cars on the Las Vegas Strip](html/04_lyft.md)<br>[Consider the future with autonomous vehicles](html/05_future_vehicles.md)<br>[Gain perspective with a brief history of AVs](html/06_av_history.md) |
 | 10:00 | 10:10 | 10 minute break |
