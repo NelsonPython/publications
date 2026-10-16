@@ -189,6 +189,7 @@ Written by Stacy D. Nelson (nickname "Cy")
 * Challenges for forensic analysis of Modbus network traffic (2025)
 
 ### Continuing education courses
+*Note:  Both of these courses are being updated.  Expect broken links or check back later*
 
 * [2023 PMI PDU course: Can AI be a Member of Your Team?](pmi_course_AI_team_member/01_ai.md)
 
