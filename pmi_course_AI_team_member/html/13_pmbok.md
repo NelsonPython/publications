@@ -1,6 +1,5 @@
 ### PMBOK &reg; Project Management Book of Knowledge
 
-![PMBOK](images/13_pmbok.png)  
 Best practices in project management:
 
 * Section 4 Project Integration Management
