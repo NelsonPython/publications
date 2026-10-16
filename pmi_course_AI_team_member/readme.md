@@ -1,8 +1,7 @@
-[THE ORANGE COUNTY CHAPTER OF THE PROJECT MANAGEMENT INSTITUTE presents...](https://www.pmi.org/)
-
 ![Cute image of a clock with robot arms and legs representing an AI scheduling bot](html/images/01_schedule_bubble.png)
-
 *Note:  Under Construction - expect broken links*
+
+[THE ORANGE COUNTY CHAPTER OF THE PROJECT MANAGEMENT INSTITUTE presents...](https://www.pmi.org/)
 
 This 4-PDU class taught project managers how to become innovators. Through engaging lectures and a hands-on experience in the AI Lab, participants discovered cutting-edge management strategies. They gained direct experience with robotic process automation, innovative robot speech techniques, smart goal-oriented decision systems, automated project reporting, and anti-bias solutions.
 
