@@ -147,11 +147,9 @@
 
 ### Technical Reports about Adaptive Software (NASA)
 
-* Guidance for the Independent Verification and Validation of Neural Networks. NASA Ames Research Center IVVNN-Guidance-D001-Unclass-072705.
+* *Guidance for the Independent Verification and Validation of Neural Networks*. NASA Ames Research Center IVVNN-Guidance-D001-Unclass-072705.
 
 * [NASA/CR-2002-211701 Survey of NASA V&V Processes/Methods. NASA Ames Research Center.](https://ntrs.nasa.gov/citations/20020044103)
-
-* NASA/CR-2002-211702 V&V of Advanced Systems at NASA. NASA Ames Research Center.
 
 * [NASA/CR-2002-211703 New Tools for Diagnostic Modeling Environment (DME). NASA Ames Research Center.](https://ntrs.nasa.gov/api/citations/20020045346/downloads/20020045346.pdf)
 
@@ -171,8 +169,8 @@
 
 * [Verification and Validation of Neural Networks for Aerospace Systems](https://ntrs.nasa.gov/citations/20020079427)
   
-* [V and V of Advanced Systems at NASA](https://www.researchgate.net/publication/24324636_V_and_V_of_Advanced_Systems_at_NASA)
-  
+* [NASA/CR-2002-211702 V and V of Advanced Systems at NASA. NASA Ames Research Center.](https://www.researchgate.net/publication/24324636_V_and_V_of_Advanced_Systems_at_NASA)
+
 * [Survey of NASA V and V Processes and Methods](https://www.researchgate.net/publication/24324436_Survey_of_NASA_V_and_V_ProcessesMethods)
 
 * [Formal Verification for a Next Generation Space Shuttle](https://www.researchgate.net/publication/221106041_Formal_Verification_for_a_Next-Generation_Space_Shuttle?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUifX0)
