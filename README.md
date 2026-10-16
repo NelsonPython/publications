@@ -2,23 +2,41 @@
 
 ### Cybersecurity guidance
 * [3 OT Zero Trust Defenses for SMB Manufacturing (TXOne Networks White Paper Design 4p 180722)](https://media.txone.com/prod/uploads/2022/08/3-OT-Zero-Trust-Defenses-for-SMB-Manufacturing-TXOne-WP-2208.pdf)
+
 * 4 Ways to Repel Cyber Warfare-related Malware (TXOne Networks Blog 2022)
+
 * Best Practices for Pharmaceutical Manufacturers: Trend Micro Portable Security™ 3 (TXOne Networks 202009)
+
 * Cyber Criminals Hack the Hops (TXOne Networks Blog 2022)
+
 * Cyber Safe Green Energy (TXOne Networks WP 202205 22050914485)
+
 * Future-proofing Critical Services Against Tomorrow’s Cyber Threats (TXOne Networks WP 2210)
+
 * How Trend Micro Portable Security™ 3 Streamlines NERC CIP Compliance (TXOne Networks Case Study 202109)
+
 * Modern warfare weaponizes hackers against critical infrastructure (TXOne Networks 2022)
+
 * Oil and gas infrastructure at risk in the face of cyber warfare (TXOne Networks Blog 2022)
+
 * OT Digital Safety (TXOne Networks 2022)
+
 * OT Zero Trust Drives Automobile Quality (TXOne Networks Blog 2022)
+
 * OT Zero Trust Ready for European Union NIS 2 Directive (TXOne Networks Blog 2022)
+
 * [OTZT – KO Cyber Threats with OT Zero Trust (TXOne Networks 2022)](https://www.txone.com/resources/blog/ot-zero-trust-risk-assessment/)
+
 * Secure the Nordic Lights with OT Zero Trust (TXOne Networks Blog 2022)
+
 * Securing Autonomous Mobile Robots (TXOne Networks WP 2021)
+
 * SEMI E187 Compliance Reference Guide – The Asset Security Life Cycle (TXOne Networks 2022)
+
 * Supply Chain Security: Are SBOMs Ready? (TXOne Networks 2022)
+
 * The OT Zero Trust Handbook (TXOne Networks 202205)
+
 * To Secure Oil and Gas Critical Infrastructure, Nordics Shall Strengthen Defenses in Cyberspace (TXOne Networks Blog 2022)
 
 ### Intel® processor tuning guides
