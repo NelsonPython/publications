@@ -153,7 +153,7 @@
 * From Research to Industry: The Role of Software Engineering Standards. Tutorial presented at the 17th IEEE International Conference in Automated Software Engineering Conference in Edinburgh, Scotland.
 * NASA/CR-2004-212819 Product-oriented Software Certification Process for Software Synthesis. NASA Ames Research Center.
 * NASA/TR 2004-212805 Survey of Software Assurance Techniques for Highly Reliable Systems. NASA Ames Research Center.
-* What Makes Code Review Trustworthy? Nelson and Schumann, Hawaii International Conference On System Sciences, HICSS 04.
+* [What Makes Code Review Trustworthy? Nelson and Schumann, Hawaii International Conference On System Sciences, HICSS 04.](https://ui.adsabs.harvard.edu/abs/2004hics.conf..594N/abstract)
 
 ## Marketing Research and Sales Support Documentation
 
