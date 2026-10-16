@@ -1,6 +1,6 @@
 ### RISK REGISTER
 
-During class this page contained an interactive risk register.  Participants worked in groups to identify risks and add risk mitigations.  All participants received a copy of the final register.  The interactive tool was disabled after the class completed the assignment.
+During class this page also contained an interactive risk register.  Participants worked in groups to identify risks and add risk mitigations.  All participants received a copy of the final register.  The interactive tool was disabled after the class completed the assignment.
 
 
 | Risk ID | What might happen? | Likely to happen? (1-10) | Impact if it happens? (1-10) | Can I detect it? (1-10) | Priority | How to deal with risk? |
