@@ -29,11 +29,11 @@
 
 * Secure the Nordic Lights with OT Zero Trust (TXOne Networks Blog 2022)
 
-* Securing Autonomous Mobile Robots (TXOne Networks WP 2021)
+* [Securing Autonomous Mobile Robots (TXOne Networks WP 2021)](Securing-Autonomous-Mobile-Robots-TXOne-WP-202110.pdf)
 
 * SEMI E187 Compliance Reference Guide – The Asset Security Life Cycle (TXOne Networks 2022)
 
-* Supply Chain Security: Are SBOMs Ready? (TXOne Networks 2022)
+* [Supply Chain Security: Are SBOMs Ready? (TXOne Networks 2022)](TXOne00322-SBOMs-White-Paper-Design_00422_230522.pdf)
 
 * The OT Zero Trust Handbook (TXOne Networks 202205)
 
