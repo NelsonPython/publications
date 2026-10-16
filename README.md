@@ -190,7 +190,7 @@ Written by Stacy D. Nelson (nickname "Cy")
 
 ### Continuing education courses
 
-* 2023 PMI PDU course: Can AI be a Member of Your Team?
+* [2023 PMI PDU course: Can AI be a Member of Your Team?](pmi_course_AI_team_member/01.htm)
 
 * 2021 PMI PDU course: Learning to Learn: How Techniques for Human and Machine-Learning Can Accelerate Project Team Growth
 
