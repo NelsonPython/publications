@@ -1,4 +1,4 @@
-![Cute image of a clock with robot arms and legs representing an AI scheduling bot](html/images/01_schedule_bubble.png)
+![Cute image of a clock with robot arms and legs representing an AI scheduling bot](html/images/schedule_bubble.png)
 
 *Note:  Under Construction - expect broken links*
 
