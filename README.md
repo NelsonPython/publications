@@ -104,11 +104,11 @@
 
 * Answers to Software Validation Questions for Every GLP Lab. MassSpectator Magazine Issue 5 (SCIEX 2014)
 
-* [Considerations When Validating Your Analyst Software Per GAMP 5. SCIEX Whitepaper (SCIEX 2010)](published/considerations_when_validating_your_analyst_software_per_gamp_5.pdf)
+* [Considerations When Validating Your Analyst® Software Per GAMP 5. SCIEX Whitepaper (SCIEX 2010)](published/considerations_when_validating_your_analyst_software_per_gamp_5.pdf)
   
 * Current Topics for Software Validation for the GLP Lab. Mass Spectator Journal Issue 5 (SCIEX 2014)
 
-* [Managing Security for the Analyst Software on Stand Alone Windows 7 Workstations](published/managing_security_for_the_analyst_software_on_stand_alone_windows_7_workstations.pdf)
+* [Managing Security for the Analyst® Software on Stand Alone Windows 7 Workstations](published/managing_security_for_the_analyst_software_on_stand_alone_windows_7_workstations.pdf)
 
 ### System guides for Intel® customers
 
@@ -116,23 +116,23 @@
 
 ### GLP software validation documentation
 
-* SCIEX Analyst Software Risk Assessment
+* SCIEX Analyst® Software Risk Assessment
 
-* SCIEX Analyst Software Validation Plan
+* SCIEX Analyst® Software Validation Plan
 
-* SCIEX Analyst User and Functional Requirements Specification
+* SCIEX Analyst® User and Functional Requirements Specification
 
-* SCIEX Analyst System Design and Configuration Specification
+* SCIEX Analyst® System Design and Configuration Specification
 
-* SCIEX Analyst Test Plan
+* SCIEX Analyst® Test Plan
 
-* SCIEX Analyst Traceability Matrix to show how tests validated requirements
+* SCIEX Analyst® Traceability Matrix to show how tests validated requirements
 
-* SCIEX Analyst Installation Qualification Protocol to test the environment and installation
+* SCIEX Analyst® Installation Qualification Protocol to test the environment and installation
 
-* SCIEX Analyst Operational Qualification protocol to test software functions
+* SCIEX Analyst® Operational Qualification protocol to test software functions
 
-* SCIEX Analyst Performance Qualification Protocol for performance testing
+* SCIEX Analyst® Performance Qualification Protocol for performance testing
 
 * FDA CFR Part 11 Assessment to demonstrate compliance with Part 11 regulations
 
@@ -140,7 +140,7 @@
 
 ### Standard Operating Procedures
 
-* Standard Operating Procedures for Analyst Software
+* Standard Operating Procedures for Analyst® Software
 
 * Standard Operating Procedures for GLP Lab Cybersecurity
 
@@ -148,7 +148,7 @@
 
 ### ISO/IEC 27001 Information Security Management System (ISMS) for Mobile Devices
 
-* ISMS Mobile Policy
+* Information Security Management System (ISMS) Mobile Policy
 
 * ISMS Mobile Scope
 
