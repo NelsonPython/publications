@@ -125,22 +125,37 @@
 * The State of AI in Critical Infrastructure, FBI Artificial Intelligence Cross Sector Council (Infragard AI-CSC) research initiative (Infragard 2025)
 
 ### Technical Reports about Spacecraft (NASA JPL)
-* Planning for the V&V of Mars Science Laboratory Mission (later named, Curiosity). 2004 IEEE Aerospace Conference, USA.
-* Formal Verification for a Next-Generation Space Shuttle. Presented at Goddard FAABS, Washington DC.
-* User Guide for Livingstone Model Verifier and JMPL2SMV. NASA Ames Research Center.
-* User Guide for Livingstone PathFinder. NASA Ames Research Center.
+
+* [Planning for the V&V of Mars Science Laboratory Mission (later named, Curiosity). 2004 IEEE Aerospace Conference, USA.] (https://ui.adsabs.harvard.edu/abs/2004aero....1...83F/abstract)
+
+* [Formal Verification for a Next-Generation Space Shuttle. Presented at Goddard FAABS, Washington DC.]
+
+* [User Guide for Livingstone Model Verifier and JMPL2SMV. NASA Ames Research Center.]
+
+* [User Guide for Livingstone PathFinder. NASA Ames Research Center.]
 
 ### Technical Reports about Adaptive Software (NASA)
+
 * Guidance for the Independent Verification and Validation of Neural Networks. NASA Ames Research Center IVVNN-Guidance-D001-Unclass-072705.
+
 * NASA/CR-2002-211701 Survey of NASA V&V Processes/Methods. NASA Ames Research Center.
+
 * NASA/CR-2002-211702 V&V of Advanced Systems at NASA. NASA Ames Research Center.
+
 * NASA/CR-2002-211703 New Tools for Diagnostic Modeling Environment (DME). NASA Ames Research Center.
+
 * NASA/CR-2002-211709 Verification & Validation of Neural Networks for Aerospace Systems. NASA Armstrong Flight Research Center.
+
 * NASA/CR-2003-212806 Certification Processes for Safety-Critical and Mission-Critical Aerospace Software. NASA Ames Research Center.
+
 * On Verification & Validation of Neural Network Based Controllers. Presented at Engineering Applications of Neural Networks EANN, Costa del Sol, Spain.
+
 * Toward V&V of Neural Network Based Controllers. November 2002 presented at WOSS USA.
+
 * V&V Guidelines for Learning Systems.
+
 * Verification & Validation of Adaptive Neural Networks for Aerospace Systems. NASA Dryden (Armstrong) Flight Research Center 2002.
+
 * Verification and Validation of Adaptive Control Systems Flight Control Software.
 
 ### Technical Reports about Autonomous Drones (NASA)
@@ -151,7 +166,7 @@
 
 * [NASA/CR-2003-212281 Towards FAA Certification of UAVs.](https://ntrs.nasa.gov/api/citations/20040014961/downloads/20040014961.pdf)
   
-* [Software Contingencies for Safe Autonomous Flight. NASA Ames Research Center. Presented at NASA OSMA SAS04] (USA.https://ntrs.nasa.gov/citations/20060051702)
+* [Software Contingencies for Safe Autonomous Flight. NASA Ames Research Center. Presented at NASA OSMA SAS04] ()
 
 ### Technical Reports about Software Quality (NASA)
 * [From Research to Industry: The Role of Software Engineering Standards. Tutorial presented at the 17th IEEE International Conference in Automated Software Engineering Conference in Edinburgh, Scotland.](https://www.se.cs.uni-saarland.de/conferences/ASE/ase2002/tutorials.html)
