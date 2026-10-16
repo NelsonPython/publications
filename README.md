@@ -21,7 +21,7 @@
 
 * OT Digital Safety (TXOne Networks 2022)
 
-* [OT Zero Trust Drives Automobile Quality (TXOne Networks Blog 2022).](20220831 OT Zero Trust Drives Automobile Quality.pdf)
+* [OT Zero Trust Drives Automobile Quality (TXOne Networks Blog 2022).](20220831%20OT%20Zero%20Trust%20Drives%20Automobile%20Quality.pdf)
 
 * OT Zero Trust Ready for European Union NIS 2 Directive (TXOne Networks Blog 2022)
 
