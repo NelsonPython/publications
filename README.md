@@ -7,7 +7,7 @@
 
 * [Best Practices for Pharmaceutical Manufacturers: Trend Micro Portable Security™ 3 (TXOne Networks 202009)]
 
-* [Cyber Criminals Hack the Hops (TXOne Networks Blog 2022)]
+* [Cyber Criminals Hack the Hops (TXOne Networks Blog 2022)](Cyber%20Criminals%20Hack%20the%20Hops.pdf)
 
 * [Cyber Safe Green Energy (TXOne Networks WP 202205 22050914485)]
 
