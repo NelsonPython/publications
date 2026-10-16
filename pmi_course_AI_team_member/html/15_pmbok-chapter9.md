@@ -1,9 +1,5 @@
 ### PMBOK &reg; Chapter 9 Project Resource Mgmt
 
----
-
-![Schedule](images/12_schedule.png)
-
 #### How will you manage your AI resources?
 
 * 9.1 Plan AI Resource Management
