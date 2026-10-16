@@ -27,7 +27,7 @@
 
 * [OTZT – KO Cyber Threats with OT Zero Trust (TXOne Networks 2022)](https://www.txone.com/resources/blog/ot-zero-trust-risk-assessment/)
 
-* [Secure the Nordic Lights with OT Zero Trust](TXOne Networks Blog 2022)](Blog_Secure%20the%20Nordic%20Lights%20with%20OT%20Zero%20Trust%20TXOne%20Networks.pdf)
+* [Secure the Nordic Lights with OT Zero Trust (TXOne Networks Blog 2022)](Blog_Secure%20the%20Nordic%20Lights%20with%20OT%20Zero%20Trust%20TXOne%20Networks.pdf)
 
 * [Securing Autonomous Mobile Robots (TXOne Networks WP 2021)](Securing-Autonomous-Mobile-Robots-TXOne-WP-202110.pdf)
 
