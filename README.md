@@ -185,7 +185,7 @@
 
 * [NASA/CR-2003-212281 Towards FAA Certification of UAVs.](https://ntrs.nasa.gov/api/citations/20040014961/downloads/20040014961.pdf)
   
-* [Software Contingencies for Safe Autonomous Flight. NASA Ames Research Center. Presented at NASA OSMA SAS04] ()
+* [Software Contingencies for Safe Autonomous Flight. NASA Ames Research Center. Presented at NASA OSMA SAS04](https://ntrs.nasa.gov/citations/20060043792)
 
 ### Technical Reports about Software Quality (NASA)
 * [From Research to Industry: The Role of Software Engineering Standards. Tutorial presented at the 17th IEEE International Conference in Automated Software Engineering Conference in Edinburgh, Scotland.](https://www.se.cs.uni-saarland.de/conferences/ASE/ase2002/tutorials.html)
