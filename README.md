@@ -1,18 +1,16 @@
-# Technical Publications
-
 ## Technical Guides
 
 ### Cybersecurity guidance
 
-* [3 OT Zero Trust Defenses for SMB Manufacturing (TXOne Networks White Paper Design 4p 180722)](published/https://media.txone.com/prod/uploads/2022/08/3-OT-Zero-Trust-Defenses-for-SMB-Manufacturing-TXOne-WP-2208.pdf)
+* [3 OT Zero Trust Defenses for SMB Manufacturing (TXOne Networks White Paper Design 4p 180722)](https://media.txone.com/prod/uploads/2022/08/3-OT-Zero-Trust-Defenses-for-SMB-Manufacturing-TXOne-WP-2208.pdf)
 
 * [4 Ways to Repel Cyber Warfare-related Malware (TXOne Networks Blog 2022).](published/4_Ways_to_Repel_Cyber_Warfare-related_Malware_TXOne_Networks.pdf)
 
 * [Best Practices for Pharmaceutical Manufacturers: Trend Micro Portable Security™ 3 (TXOne Networks 202009)](published/TMPS3-Best-Practices-for-Pharmaceutical-Manufacturers-TXOne-202009.pdf)
 
-* [Blog Ukraine War](Blog_March_15_2022_Ukraine_War.pdf)
+* [Blog Oil and Gas Infrastructure at Risk](Blog_March_15_2022_Ukraine_War.pdf)
 
-* [Blog OT Zero Trust Drives Cyber Safe Vehicles](Blog_OT Zero Trust Drives Cyber Safe Vehicles _ TXOne Networks.pdf)
+* [Blog OT Zero Trust Drives Cyber Safe Vehicles](Blog_OT_Zero_Trust_Drives_Cyber_Safe_Vehicles_TXOne Networks.pdf)
 
 * [Cyber Criminals Hack the Hops (TXOne Networks Blog 2022)](published/Cyber_Criminals_Hack_the_Hops.pdf)
 
@@ -24,13 +22,11 @@
 
 * [Modern warfare weaponizes hackers against critical infrastructure (TXOne Networks 2022)](published/Modern_warfare_weaponizes_hackers_against_critical_infrastructure_TXOne_Networks.pdf)
 
-* [Oil and gas infrastructure at risk in the face of cyber warfare (TXOne Networks Blog 2022)](published/Oil_and_gas_infrastructure_at_risk_in_the_face_of_cyber_warfare_TXOn_Networks.pdf)
-
 * [OT Digital Safety (TXOne Networks 2022)](published/ITvsOT.pdf)
 
 * [OT Zero Trust Drives Automobile Quality (TXOne Networks Blog 2022).](published/20220831_OT_Zero_Trust_Drives_Automobile_Quality.pdf)
 
-* [OT Zero Trust Guide to Compliance with the NIS Regulations (TXOne Networks Blog 2022)](The-OT-Zero-Trust-Guide-to-Compliance-with-the-NIS-Regulations-TXOne-WP-2207.pdf)
+* [OT Zero Trust Guide to Compliance with the NIS Regulations (TXOne Networks Blog 2022)](published/The-OT-Zero-Trust-Guide-to-Compliance-with-the-NIS-Regulations-TXOne-WP-2207.pdf)
 
 * [OT Zero Trust Ready for European Union NIS 2 Directive (TXOne Networks Blog 2022)](published/Blog_OT_Zero_Trust_Ready_for_European_Union_NIS_2_Directive_TXOne_Networks.pdf)
 
