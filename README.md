@@ -60,7 +60,6 @@
 
 ### System guides for Intel® customers
 * Intel® System Health Inspector User Guide. Intel Customer Guide (2022)
-* Regulatory Compliance Templates
 
 ### GLP software validation documentation
 * SCIEX Analyst Software Risk Assessment
@@ -94,12 +93,12 @@
 ## Training Courses
 
 ### API documentation
-* IOTA JSON-RPC Reference Version 1.0 of https://docs.iota.org/iota-api-ref
+* [IOTA JSON-RPC Reference Version 1.0](https://docs.iota.org/iota-api-ref)
 
 ### Blockchain training materials
-* Connecting an IoT Device to I3 and IOTA. https://blog.iota.org/connecting-an-iot-device-to-i3-and-iota-ddb724f2a662/
-* Introduction to IoT, I3, and IOTA. https://blog.iota.org/intro-to-iot-i3-iota-633c1a2f0125/
-* USC Trojan Blockchain Society 2019 Speaker Event featuring the IOTA Coffee Supply Chain with the IOTA Data Marketplace,https://github.com/NelsonPython/USCTrojanBlockchainSocietyApr2019Meetup
+* [Connecting an IoT Device to I3 and IOTA.](https://blog.iota.org/connecting-an-iot-device-to-i3-and-iota-ddb724f2a662/)
+* [Introduction to IoT, I3, and IOTA.](https://blog.iota.org/intro-to-iot-i3-iota-633c1a2f0125/)
+* [USC Trojan Blockchain Society 2019 Speaker Event featuring the IOTA Coffee Supply Chain with the IOTA Data Marketplace](https://github.com/NelsonPython/USCTrojanBlockchainSocietyApr2019Meetup)
 
 ### Capture The Flag (CTF) challenges
 * Challenges for forensic analysis of Modbus network traffic (2025)
