@@ -1,12 +1,10 @@
-### [RISK REGISTER](ai_add_risk.md)
+### RISK REGISTER
 
 | Risk ID | What might happen? | Likely to happen? (1-10) | Impact if it happens? (1-10) | Can I detect it? (1-10) | Priority | How to deal with risk? |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
 | 1 | AI Risk 1 | 1 | 1 | 1 | Low | Plan 1 to avoid or reduce risk |
 | 2 | AI Risk 2 | 5 | 5 | 5 | Medium | Plan 2 to avoid or reduce risk |
 | 3 | AI Risk 3 | 10 | 10 | 10 | High | Plan 3 to avoid or reduce risk |
-
-### [Go to the AI Risk Register](ai_add_risk.md)
 
 ---
 
