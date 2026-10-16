@@ -9,17 +9,17 @@
 
 * [Cyber Criminals Hack the Hops (TXOne Networks Blog 2022)](Cyber%20Criminals%20Hack%20the%20Hops.pdf)
 
-* [Cyber Safe Green Energy (TXOne Networks WP 202205 22050914485)]
+* [Cyber Safe Green Energy (TXOne Networks WP 202205 22050914485)](Cyber-Safe-Green-Energy-TXOne-WP-202205_22050914485.pdf)
 
-* Future-proofing Critical Services Against Tomorrow’s Cyber Threats (TXOne Networks WP 2210)
+* [Future-proofing Critical Services Against Tomorrow’s Cyber Threats (TXOne Networks WP 2210)](Futureproofing-Critical-Services-Against-Tomorrows-Cyber-Threats-TXOne-WP-2210.pdf)
 
-* How Trend Micro Portable Security™ 3 Streamlines NERC CIP Compliance (TXOne Networks Case Study 202109)
+* [How Trend Micro Portable Security™ 3 Streamlines NERC CIP Compliance (TXOne Networks Case Study 202109)](How-TMPS3-streamlines-NERC-CIP-compliance-TXOne-Casestudy-202109.pdf)
 
-* Modern warfare weaponizes hackers against critical infrastructure (TXOne Networks 2022)
+* [Modern warfare weaponizes hackers against critical infrastructure (TXOne Networks 2022)](Modern%20warfare%20weaponizes%20hackers%20against%20critical%20infrastructure%20TXOne%20Networks.pdf)
 
-* Oil and gas infrastructure at risk in the face of cyber warfare (TXOne Networks Blog 2022)
+* [Oil and gas infrastructure at risk in the face of cyber warfare (TXOne Networks Blog 2022)](Oil%20and%20gas%20infrastructure%20at%20risk%20in%20the%20face%20of%20cyber%20warfare%20TXOn%20Networks.pdf)
 
-* OT Digital Safety (TXOne Networks 2022)
+* [OT Digital Safety (TXOne Networks 2022)]
 
 * [OT Zero Trust Drives Automobile Quality (TXOne Networks Blog 2022).](20220831%20OT%20Zero%20Trust%20Drives%20Automobile%20Quality.pdf)
 
