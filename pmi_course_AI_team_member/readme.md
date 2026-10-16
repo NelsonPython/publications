@@ -25,4 +25,4 @@ Project managers left with a comprehensive AI Risk Register highlighting risks s
 
 [July ATS AI and IOT Chat Log (Word)](chatlog/July_ATS_AI_and_IOT_Chat_Log.docx)
 
-![Cute image of a clock with robot arms and legs representing an AI scheduling bot](images/01_schedule_bubble.png)
+![Cute image of a clock with robot arms and legs representing an AI scheduling bot](html/images/01_schedule_bubble.png)
