@@ -80,7 +80,7 @@
 
 ### Regulatory compliance guides
 
-* [Comparison of Global GLP Regulations Pertaining to LC/MS Instrument Software Validation. SCIEX Whitepaper (SCIEX 2013)](published/comparison_of_global_glp_regulations_pertaining_to_lc_ms_instrument_software_validation)
+* [Comparison of Global GLP Regulations Pertaining to LC/MS Instrument Software Validation. SCIEX Whitepaper (SCIEX 2013)](published/comparison_of_global_glp_regulations_pertaining_to_lc_ms_instrument_software_validation.pdf)
   
 * [Comparison of SFDA and FDA Regulations Pertaining to LC/MS Instrument Software Validation. THERQA and QUASAR magazine (2012)](published/comparison_of_sfda_and_fda_regulations_pertaining_to_lc_ms_instrument_software_validation.pdf)
 
