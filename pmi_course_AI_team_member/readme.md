@@ -1,6 +1,6 @@
 [THE ORANGE COUNTY CHAPTER OF THE PROJECT MANAGEMENT INSTITUTE presents...](https://www.pmi.org/)
 
-## AI Team Member
+## Can AI be a member of your project team?
 
 [Website](html/01_ai.md)
 
