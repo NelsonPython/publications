@@ -119,11 +119,11 @@
 * 2021 PMI PDU course: Learning to Learn: How Techniques for Human and Machine-Learning Can Accelerate Project Team Growth
 
 ### Software training courses
+* [IOTA Documentation – Version 1.0](https://docs.iota.org)
 * Code Style and Code Navigation (Amazon in-house 2023)
 * General Purpose GPU Programming (Amazon in-house 2023)
 * How to Schedule and Manage Jobs on HPC Clusters (On-premises and AWS Cloud) (Amazon in-house 2023)
 * Introduction to Git/GitHub and Git Best Practices for Software Developers (Amazon in-house 2023)
-* [IOTA Documentation – Version 1.0](https://docs.iota.org)
 * Managing Data Science Experiments for Autonomous Systems (Amazon in-house 2023)
 * QA and Software Release Management for Managers (Amazon in-house 2023)
 * Setting up a Development Environment with Virtual Machines (Amazon in-house 2023)
@@ -133,6 +133,7 @@
 
 ### Technical Advisory
 * [Guidance for the Verification and Validation of Neural Networks, published in March 2007 by Wiley-IEEE Computer Society Press (ISBN: 978-0-470-08457-1).](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119134671)
+
 * The State of AI in Critical Infrastructure, FBI Artificial Intelligence Cross Sector Council (Infragard AI-CSC) research initiative (Infragard 2025)
 
 ### Technical Reports about Spacecraft (NASA JPL)
@@ -153,7 +154,7 @@
 
 * [NASA/CR-2002-211703 New Tools for Diagnostic Modeling Environment (DME). NASA Ames Research Center.](https://ntrs.nasa.gov/api/citations/20020045346/downloads/20020045346.pdf)
 
-* NASA/CR-2002-211709 Verification & Validation of Neural Networks for Aerospace Systems. NASA Armstrong Flight Research Center.
+* [NASA/CR-2002-211709 Verification & Validation of Neural Networks for Aerospace Systems. NASA Armstrong Flight Research Center.](https://ntrs.nasa.gov/citations/20020079427)
 
 * [NASA/CR-2003-212806 Certification Processes for Safety-Critical and Mission-Critical Aerospace Software. NASA Ames Research Center.](https://ntrs.nasa.gov/api/citations/20040014965/downloads/20040014965_Update.pdf)
 
