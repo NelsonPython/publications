@@ -1,4 +1,6 @@
+[THE ORANGE COUNTY CHAPTER OF THE PROJECT MANAGEMENT INSTITUTE presents...](https://www.pmi.org/)
 
+## AI Team Member
 
 [Website](html/01_ai.md)
 
