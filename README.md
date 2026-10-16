@@ -5,7 +5,7 @@
 
 * [4 Ways to Repel Cyber Warfare-related Malware (TXOne Networks Blog 2022).](4%20Ways%20to%20Repel%20Cyber%20Warfare-related%20Malware%20TXOne%20Networks.pdf)
 
-* [Best Practices for Pharmaceutical Manufacturers: Trend Micro Portable Security™ 3 (TXOne Networks 202009)]
+* [Best Practices for Pharmaceutical Manufacturers: Trend Micro Portable Security™ 3 (TXOne Networks 202009)](TMPS3-Best-Practices-for-Pharmaceutical-Manufacturers-TXOne-202009.pdf)
 
 * [Cyber Criminals Hack the Hops (TXOne Networks Blog 2022)](Cyber%20Criminals%20Hack%20the%20Hops.pdf)
 
@@ -31,13 +31,13 @@
 
 * [Securing Autonomous Mobile Robots (TXOne Networks WP 2021)](Securing-Autonomous-Mobile-Robots-TXOne-WP-202110.pdf)
 
-* SEMI E187 Compliance Reference Guide – The Asset Security Life Cycle (TXOne Networks 2022)
+* [SEMI E187 Compliance Reference Guide – The Asset Security Life Cycle (TXOne Networks 2022)](SEMI-E187-Compliance-Reference-Guide.pdf)
 
 * [Supply Chain Security: Are SBOMs Ready? (TXOne Networks 2022)](TXOne00322-SBOMs-White-Paper-Design_00422_230522.pdf)
 
-* The OT Zero Trust Handbook (TXOne Networks 202205)
+* [The OT Zero Trust Handbook (TXOne Networks 202205)](The-OT-Zero-Trust-Handbook-TXOne-Networks-202205.pdf)
 
-* To Secure Oil and Gas Critical Infrastructure, Nordics Shall Strengthen Defenses in Cyberspace (TXOne Networks Blog 2022)
+* [To Secure Oil and Gas Critical Infrastructure, Nordics Shall Strengthen Defenses in Cyberspace (TXOne Networks Blog 2022)](ToSecureOil_GasCriticalInfrastructure_NordicsShallStrengthenDefensesinCyberspace.pdf)
 
 ### Intel® processor tuning guides
 * [Deep Learning Boost on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
