@@ -6,7 +6,7 @@
 <div class="w3-half w3-container">
    <div class="w3-card-4 white" align="center">
     <br><br>
-    <img src="images/03-truck.png" width="400">
+    <img src="html/images/03-truck.png" width="400">
     <br><br>
     Due to difficult working conditions, there is a shortage of long-haul truckers.
     <br>To meet demand, TuSimple is developing AI so that long-haul, heavy-duty 
@@ -18,7 +18,7 @@
 <div class="w3-half w3-container">
    <div class="w3-card-4 white" align="center">
     <br><br>
-    <img src="images/03-ai.png" width="500">
+    <img src="html/images/03-ai.png" width="500">
     <br><br>AI sees other cars on the freeway in bounding boxes.  
     <br>A human rides in the driver's seat during test drives
     <br><br>
