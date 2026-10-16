@@ -242,11 +242,7 @@
 
 * [Toward V&V of Neural Network Based Controllers. November 2002 presented at WOSS USA.](https://dl.acm.org/doi/10.1145/582128.582141)
 
-* V&V Guidelines for Learning Systems.
-
 * [Verification & Validation of Adaptive Neural Networks for Aerospace Systems. NASA Dryden (Armstrong) Flight Research Center 2002.](https://ntrs.nasa.gov/citations/20020079427)
-
-* Verification and Validation of Adaptive Control Systems Flight Control Software.
 
 * [Verification and Validation of Neural Networks for Aerospace Systems](https://ntrs.nasa.gov/citations/20020079427)
   
