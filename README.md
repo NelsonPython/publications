@@ -112,7 +112,7 @@
 * General Purpose GPU Programming (Amazon in-house 2023)
 * How to Schedule and Manage Jobs on HPC Clusters (On-premises and AWS Cloud) (Amazon in-house 2023)
 * Introduction to Git/GitHub and Git Best Practices for Software Developers (Amazon in-house 2023)
-* IOTA Documentation – Version 1.0 (https://docs.iota.org)
+* [IOTA Documentation – Version 1.0](https://docs.iota.org)
 * Managing Data Science Experiments for Autonomous Systems (Amazon in-house 2023)
 * QA and Software Release Management for Managers (Amazon in-house 2023)
 * Setting up a Development Environment with Virtual Machines (Amazon in-house 2023)
