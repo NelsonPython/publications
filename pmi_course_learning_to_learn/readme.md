@@ -6,4 +6,6 @@
 ## Website
 * [Learning to Learn](01_outline.md)
 
+## Attendees
+* [For PDU verification](PMI_ATS.png)
   
