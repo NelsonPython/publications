@@ -6,4 +6,3 @@
 
 My favorite project was testing AI at NASA.
 
-![Speaker Introduction](images/01_speaker_introduction.png)
