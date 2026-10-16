@@ -232,7 +232,7 @@
 
 * [NASA/CR-2002-211701 Survey of NASA V&V Processes/Methods. NASA Ames Research Center.](https://ntrs.nasa.gov/citations/20020044103)
 
-* [NASA/CR-2002-211703 New Tools for Diagnostic Modeling Environment (DME). NASA Ames Research Center.](https://ntrs.nasa.gov/api/citations/20020045346/downloads/20020045346.pdf)
+* [NASA/CR-2002-211703 New V and V Tools for Diagnostic Modeling Environment (DME). NASA Ames Research Center.](https://ntrs.nasa.gov/api/citations/20020045346/downloads/20020045346.pdf)
 
 * [NASA/CR-2002-211709 Verification & Validation of Neural Networks for Aerospace Systems. NASA Armstrong Flight Research Center.](https://ntrs.nasa.gov/citations/20020079427)
 
