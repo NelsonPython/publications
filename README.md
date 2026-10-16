@@ -1,7 +1,7 @@
 ## Technical Guides
 
 ### Cybersecurity guidance
-* 3 OT Zero Trust Defenses for SMB Manufacturing (TXOne Networks White Paper Design 4p 180722)
+* [3 OT Zero Trust Defenses for SMB Manufacturing (TXOne Networks White Paper Design 4p 180722)](https://media.txone.com/prod/uploads/2022/08/3-OT-Zero-Trust-Defenses-for-SMB-Manufacturing-TXOne-WP-2208.pdf)
 * 4 Ways to Repel Cyber Warfare-related Malware (TXOne Networks Blog 2022)
 * Best Practices for Pharmaceutical Manufacturers: Trend Micro Portable Security™ 3 (TXOne Networks 202009)
 * Cyber Criminals Hack the Hops (TXOne Networks Blog 2022)
@@ -13,7 +13,7 @@
 * OT Digital Safety (TXOne Networks 2022)
 * OT Zero Trust Drives Automobile Quality (TXOne Networks Blog 2022)
 * OT Zero Trust Ready for European Union NIS 2 Directive (TXOne Networks Blog 2022)
-* OTZT – KO Cyber Threats with OT Zero Trust (TXOne Networks 2022)
+* [OTZT – KO Cyber Threats with OT Zero Trust (TXOne Networks 2022)](https://www.txone.com/resources/blog/ot-zero-trust-risk-assessment/)
 * Secure the Nordic Lights with OT Zero Trust (TXOne Networks Blog 2022)
 * Securing Autonomous Mobile Robots (TXOne Networks WP 2021)
 * SEMI E187 Compliance Reference Guide – The Asset Security Life Cycle (TXOne Networks 2022)
@@ -22,22 +22,22 @@
 * To Secure Oil and Gas Critical Infrastructure, Nordics Shall Strengthen Defenses in Cyberspace (TXOne Networks Blog 2022)
 
 ### Intel® processor tuning guides
-(https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html, 2026)
-* Deep Learning Boost on 3rd Generation Intel® Xeon® Scalable Processors
-* Intel® Distribution of OpenVINO™ Toolkit Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors Based Platform
+(https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+* [Deep Learning Boost on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+* [Intel® Distribution of OpenVINO™ Toolkit Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors Based Platform](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
 * La Guía para optimizar Intel® Select Solutions for Genomics Analytics en la Plataforma de Procesadores Escalables Intel®️ Xeon®️ de 3a Generación
 * La Guía para optimizar el LAMMPS en la Plataforma de Procesadores Escalables Intel®️ Xeon®️ de 3a Generación
 * La Guía para optimizar el WordPress* en la Plataforma de Procesadores Escalables Intel® Xeon® de 3 a Generación
-* LAMMPS Tuning Guide on Platforms using 3rd Generation Intel® Xeon® Scalable Processors
-* Microsoft® SQL Server® Tuning Guide for Online Transaction Processing workload on 3rd Generation Intel® Xeon® Scalable Processors Based Platform
-* Open-Source Database Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors
-* Tuning Guide for Deep Learning with Intel® AVX512 and Intel® Deep Learning Boost on 3rd Generation Intel® Xeon® Scalable Processors
-* Tuning Guide for Intel® Select Solutions for Genomics Analytics
-* Tuning Guides for 3rd Generation Intel® Xeon® Scalable Processor Based Systems
-* WordPress* Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors
+* [LAMMPS Tuning Guide on Platforms using 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+* [Microsoft® SQL Server® Tuning Guide for Online Transaction Processing workload on 3rd Generation Intel® Xeon® Scalable Processors Based Platform](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+*  [Open-Source Database Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+* [Tuning Guide for Deep Learning with Intel® AVX512 and Intel® Deep Learning Boost on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+* [Tuning Guide for Intel® Select Solutions for Genomics Analytics](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+* [Tuning Guides for 3rd Generation Intel® Xeon® Scalable Processor Based Systems](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+* [WordPress* Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
 
 ### Project management guidance
-* It’s Chinese to Me, the PMP® (Project Management Institute 2016) https://www.projectmanagement.com/articles/356283/it-s-chinese-to-me--the-pmp-sup----sup-#_
+* [It’s Chinese to Me, the PMP® (Project Management Institute 2016)](https://www.projectmanagement.com/articles/356283/it-s-chinese-to-me--the-pmp-sup----sup-#_)
 * Applying PMI Project Management Framework to Software Validation of LC/MS Systems (PMI Pharmaceutical Community of Practice Case Study 2011)
 * Applying PMI Project Management Framework to Software Validation for GLP Laboratories (PMI Pharmaceutical Community of Practice Case Study)
 
