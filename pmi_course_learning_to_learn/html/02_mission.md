@@ -11,4 +11,4 @@ Practice your new learning skills by learning how to build your project team.  S
 
 *Sciex Mass Spectrometer Lab Equipment - robotic arm loads samples*
 
-[Outline](01_outline.htm) &nbsp; [Next](02a_info_wisdom_understanding.htm)
+[Outline](01_outline.md) &nbsp; [Next](02a_info_wisdom_understanding.md)
