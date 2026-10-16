@@ -23,17 +23,28 @@
 
 ### Intel® processor tuning guides
 * [Deep Learning Boost on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
 * [Intel® Distribution of OpenVINO™ Toolkit Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors Based Platform](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
-* La Guía para optimizar Intel® Select Solutions for Genomics Analytics en la Plataforma de Procesadores Escalables Intel®️ Xeon®️ de 3a Generación
-* La Guía para optimizar el LAMMPS en la Plataforma de Procesadores Escalables Intel®️ Xeon®️ de 3a Generación
-* La Guía para optimizar el WordPress* en la Plataforma de Procesadores Escalables Intel® Xeon® de 3 a Generación
+
 * [LAMMPS Tuning Guide on Platforms using 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
 * [Microsoft® SQL Server® Tuning Guide for Online Transaction Processing workload on 3rd Generation Intel® Xeon® Scalable Processors Based Platform](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
 *  [Open-Source Database Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
 * [Tuning Guide for Deep Learning with Intel® AVX512 and Intel® Deep Learning Boost on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
 * [Tuning Guide for Intel® Select Solutions for Genomics Analytics](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
 * [Tuning Guides for 3rd Generation Intel® Xeon® Scalable Processor Based Systems](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
 * [WordPress* Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
+* La Guía para optimizar Intel® Select Solutions for Genomics Analytics en la Plataforma de Procesadores Escalables Intel®️ Xeon®️ de 3a Generación
+
+* La Guía para optimizar el LAMMPS en la Plataforma de Procesadores Escalables Intel®️ Xeon®️ de 3a Generación
+
+* La Guía para optimizar el WordPress* en la Plataforma de Procesadores Escalables Intel® Xeon® de 3 a Generación
 
 ### Project management guidance
 * [It’s Chinese to Me, the PMP® (Project Management Institute 2016)](https://www.projectmanagement.com/articles/356283/it-s-chinese-to-me--the-pmp-sup----sup-#_)
