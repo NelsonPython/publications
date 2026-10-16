@@ -74,7 +74,7 @@
 
 * [It’s Chinese to Me, the PMP® (Project Management Institute 2016)](https://www.projectmanagement.com/articles/356283/it-s-chinese-to-me--the-pmp-sup----sup-#_)
 
-* [Applying PMI Project Management Framework to Software Validation of LC/MS Systems (PMI Pharmaceutical Community of Practice Case Study 2011)
+* [Applying PMI Project Management Framework to Software Validation of LC/MS Systems (PMI Pharmaceutical Community of Practice Case Study 2011)(published/applying_pmi_project_management_framework_to_software_validation_of_lc_ms_systems.pdf)
 
 * Applying PMI Project Management Framework to Software Validation for GLP Laboratories (PMI Pharmaceutical Community of Practice Case Study)
 
