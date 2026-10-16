@@ -1,6 +1,6 @@
 # Technical Publications
 
-by Stacy "Cy" Nelson
+Written by Stacy D. Nelson (nickname "Cy")
 
 ## Technical Guides
 
