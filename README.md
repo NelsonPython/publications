@@ -121,7 +121,7 @@
 ## Technical Reports – NASA
 
 ### Technical Advisory
-* Guidance for the Verification and Validation of Neural Networks, published in March 2007 by Wiley-IEEE Computer Society Press (ISBN: 978-0-470-08457-1).
+* [Guidance for the Verification and Validation of Neural Networks, published in March 2007 by Wiley-IEEE Computer Society Press (ISBN: 978-0-470-08457-1).](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119134671)
 * The State of AI in Critical Infrastructure, FBI Artificial Intelligence Cross Sector Council (Infragard AI-CSC) research initiative (Infragard 2025)
 
 ### Technical Reports about Spacecraft (NASA JPL)
