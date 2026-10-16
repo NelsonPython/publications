@@ -1,4 +1,5 @@
 ![Cute image of a clock with robot arms and legs representing an AI scheduling bot](html/images/01_schedule_bubble.png)
+
 *Note:  Under Construction - expect broken links*
 
 [THE ORANGE COUNTY CHAPTER OF THE PROJECT MANAGEMENT INSTITUTE presents...](https://www.pmi.org/)
