@@ -251,20 +251,18 @@ Written by Stacy D. Nelson (nickname "Cy")
 
 * [Verification & Validation of Adaptive Neural Networks for Aerospace Systems. NASA Dryden (Armstrong) Flight Research Center 2002.](https://ntrs.nasa.gov/citations/20020079427)
 
-* [Verification and Validation of Neural Networks for Aerospace Systems](https://ntrs.nasa.gov/citations/20020079427)
+* [Verification and Validation of Neural Networks for Aerospace Systems](https://ntrs.nasa.gov/search?title=Verification%20and%20Validation%20of%20Neural%20Networks%20for%20Aerospace%20Systems&author=Nelson,%20Stacy&page=%7B%22from%22:0,%22size%22:25%7D)
   
 * [NASA/CR-2002-211702 V and V of Advanced Systems at NASA. NASA Ames Research Center.](https://www.researchgate.net/publication/24324636_V_and_V_of_Advanced_Systems_at_NASA)
 
-* [Survey of NASA V and V Processes and Methods](https://www.researchgate.net/publication/24324436_Survey_of_NASA_V_and_V_ProcessesMethods)
-
 * [Formal Verification for a Next Generation Space Shuttle](https://www.researchgate.net/publication/221106041_Formal_Verification_for_a_Next-Generation_Space_Shuttle?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUifX0)
 
-  
+
 ### Technical Reports about Autonomous Drones (NASA)
 
 * Challenges Communicating via WiFi with UAVs In-Flight. NASA Ames Research Center. Presented at NASA OSMA SAS 05, USA.
 
-* [Identifying Contingency Requirements Using Obstacle Analysis on an Un-piloted Aerial Vehicle. NASA Ames Research Center. Presented at 13th IEEE International Requirements Engineering Conference 2005, Paris, France.](https://www.researchgate.net/publication/220428004_Using_obstacle_analysis_to_identify_contingency_requirements_on_an_unpiloted_aerial_vehicle)
+* [Identifying Contingency Requirements Using Obstacle Analysis on an Un-piloted Aerial Vehicle. NASA Ames Research Center. Presented at 13th IEEE International Requirements Engineering Conference 2005, Paris, France.](https://ntrs.nasa.gov/search?title=Identifying%20Contingency%20Requirements%20using%20Obstacle%20Analysis%20on%20an%20Unpiloted%20Aerial%20Vehicle&author=Nelson,%20Stacy&page=%7B%22from%22:0,%22size%22:25%7D)
 
 * [NASA/CR-2003-212281 Towards FAA Certification of UAVs.](https://ntrs.nasa.gov/api/citations/20040014961/downloads/20040014961.pdf)
   
@@ -364,3 +362,4 @@ Written by Stacy D. Nelson (nickname "Cy")
 * Developed Python scripts to generate daily URL link checks for >700 URLS embedded in Intel Tuning Guides (2021)
 
 * Developed Python scripts to generate Cybersecurity Maturity Model Certification (CMMC 2.0) compliance templates (Crane Aerospace 2022). CMMC provided guidance for compliance with 32 CFR Part 2002, DFARS 252.204-7012, and DoDI 5200.48 in the implementation of National Institute of Standards and Technology (NIST) SP 800-171. The US Department of War suspended CMMC II in 2026.
+
