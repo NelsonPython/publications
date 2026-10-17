@@ -1,19 +1,26 @@
 [THE ORANGE COUNTY CHAPTER OF THE PROJECT MANAGEMENT INSTITUTE presents...](https://www.pmi.org/)
 
-### HUMAN AND MACHINE COLLABORATION
+### INTERSECTIONS OF HUMAN AND MACHINE LEARNING
 
-![Robot Handshake](images/RobotHandshake.jpg)
+Discuss in breakout rooms. Based on what you've learned so far, do you agree or disagree with these observations:
 
-Using the skills you learned, decide which tasks will be performed by AI
+* Humans process images quickly and efficiently.
+  Machines process numbers quickly and efficiently.
 
-Which onboarding techniques will you use to train your team?
+* Humans communicate via a shared language.
+  Machines communicate via protocols such as XML or JSON. Protocols could be considered a very simple language.
 
-What is your ongoing training plan?
+* Humans schedule communication events called, meetings, by using a calendar.
+  Machines can schedule communication events using scheduling software similar to a calendar.
 
-What kind of AI will you choose?
+* Humans chose when to be available to listen.
+  Machines can listen all the time. A programmer can open a [port](https://www.techopedia.com/definition/3659/computer-port) or publish an [API (Application Programming Interface)](https://en.wikipedia.org/wiki/API).
 
-How will you test your AI to make sure it performs as expected?
+* Humans retain knowledge while they use it.
+  Machines retain data while they have electricity. This data can be organized to reflect knowledge.
 
-How will you evaluate performance and check milestones?
+* Humans learn through experience and machines learn through statistical analysis. Both methods have bias:
+  Humans perceive situations through the lens of their culture.
+  Machines are agnostic but humans perceive what machines learn through the lens of their culture.
 
-[Outline](01_outline.md)
+[Outline](readme.htm)

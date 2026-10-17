@@ -27,4 +27,4 @@ Here are good resources for learning more about data science: W3 Schools, Toward
 
 * [Exploring how Intel powers AI](https://software.intel.com/content/www/us/en/develop/articles/xeon-performance-tuning-and-solution-guides.html#gs.as9xte)
 
-[Outline](01_outline.md) &nbsp; [Data](08_data.md)
+[Outline](readme.md) &nbsp; [Data](08_data.md)

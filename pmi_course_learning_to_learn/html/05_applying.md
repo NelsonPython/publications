@@ -37,4 +37,4 @@ For each task on the project plan, identify where it falls in the governance mod
 * **Standard Operating Procedures for Analyst Software** to ensure the lab equipment continues to function properly *(Knowledge)*
 * **Standard Operating Procedures for GLP Lab Cybersecurity** to ensure the safety of the lab *(Knowledge)*
 
-[Outline](01_outline.md) &nbsp; [Next](06_which_tasks.md)
+[Outline](readme.md) &nbsp; [Next](06_which_tasks.md)

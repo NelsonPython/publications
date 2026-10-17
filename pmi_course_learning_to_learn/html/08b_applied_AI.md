@@ -71,4 +71,5 @@ slope, intercept, r, p, std_err = stats.linregress(days, c)
 # days is a numpy array listing values from 1-21
 
 # c is a numpy array with the number of cases or deaths
+```
 

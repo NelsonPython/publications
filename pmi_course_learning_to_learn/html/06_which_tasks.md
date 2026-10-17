@@ -34,4 +34,4 @@ What would AI reflect from analyzing the Code for Federal Regulations or reputab
 In my opinion, discussions about AI and consciousness are intriguing and important.  
 At this time, I am not aware of any AI products that could reason about and develop a plan to test whether lab equipment works properly so that scientists can invent better medicine. But there are many AI tools that can evaluate data and provide valuable insights to support this goal.
 
-[Outline](01_outline.md)
+[Outline](readme.md)

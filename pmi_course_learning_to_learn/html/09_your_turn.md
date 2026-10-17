@@ -16,4 +16,4 @@ How will you test your AI to make sure it performs as expected?
 
 How will you evaluate performance and check milestones?
 
-[Outline](01_outline.md)
+[Outline](readme.md)

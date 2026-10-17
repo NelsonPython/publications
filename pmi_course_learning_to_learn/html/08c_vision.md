@@ -15,4 +15,4 @@ Accenture teamed up with technology and industry partners to use smart cameras t
 
 [Raise the reef: AI helps power coral reef restoration](https://www.accenture.com/us-en/case-studies/applied-intelligence/ai-helps-power-coral-reef-restoration)
 
-[Outline](01_outline.md) &nbsp; [Data](08_data.md)
+[Outline](readme.md) &nbsp; [Data](08_data.md)
