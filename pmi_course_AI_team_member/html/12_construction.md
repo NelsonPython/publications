@@ -20,10 +20,11 @@ Sensors provide better situational awareness to reduce waste, emissions, and noi
 
 #### Predictive maintenance
 ![Predictive Maintenance](images/12_defects.png)  
+
+
 * Tracking defects can help forecast project risk
 * Monitoring equipment and materials can limit downtime by reducing inspections
 
----
 
 ![Autonomous Crane 2](images/12_crane_2.png)  
 Devices such as the autonomous crane are safer because they can be monitored by crane operators from an office  
