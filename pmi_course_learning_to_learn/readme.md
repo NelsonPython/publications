@@ -8,7 +8,7 @@
 
 | Course Begin | Schedule End | Activity |
 | :--- | :--- | :--- |
-| **8:00** | **8:55** | **[How humans learn (PDF)](PMI_OC_Sept_2021_ATS_Learning_to_Learn_Part_1_How_Humans_Learn.pdf)**<br><br>**Objectives:**<br>1. Understand techniques for individual and team learning<br>2. Understand techniques for machine learning<br>3. Gain hands-on experience applying learning techniques to your project |
+| **8:00** | **8:55** | **[How humans learn (PDF)](html/PMI_OC_Sept_2021_ATS_Learning_to_Learn_Part_1_How_Humans_Learn.pdf)**<br><br>**Objectives:**<br>1. Understand techniques for individual and team learning<br>2. Understand techniques for machine learning<br>3. Gain hands-on experience applying learning techniques to your project |
 | **8:55** | **9:00** | *Break* |
 | **9:00** | **9:40** | **[Group learning (PDF)](PMI_OC_Sept_2021_ATS_Learning_to_Learn_Part_2_Group_Learning.pdf)**<br>**[AI Powers Up Digital Learning (PDF)](AI_Power_Up_Digital_Learning.pdf)**<br><br>*AI search engines and micro-learning assets help your team find answers to questions or learn how to do tasks.* |
 | **9:40** | **10:00** | **[50 AI Terms](https://hai.stanford.edu/ai-definitions)**<br>Avoiding project management "gotchas" with machine learning<br>[What is machine learning?](08_data.md)<br>[Intersections of human and machine learning](10_intersections.md) |
