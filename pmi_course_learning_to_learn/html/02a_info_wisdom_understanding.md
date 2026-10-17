@@ -10,7 +10,7 @@ The following concept is inspired by Dr. Nick Stavros, founder of Jackrabbit Con
 
 Consider how leaders define expectations, grant power, and verify performance.
 
-Consider how leaders define expectations, grant power, and verify performance.  They use [goverance](https://www.omgwiki.org/dido/doku.php?id=dido:public:ra:xapend:xapend.j_gov_model:start).  In the governance model, defining expectations is called regulation.  Granting power is called execution.  Verifying performance is called compliance.
+Consider how leaders define expectations, grant power, and verify performance.  They use [governance](https://www.omgwiki.org/dido/doku.php?id=dido:public:ra:xapend:xapend.j_gov_model:start).  In the governance model, defining expectations is called regulation.  Granting power is called execution.  Verifying performance is called compliance.
 
 ![Governance Model](images/governance_model.png)
 
