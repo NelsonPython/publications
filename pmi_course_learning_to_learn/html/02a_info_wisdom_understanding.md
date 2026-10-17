@@ -8,7 +8,12 @@ Take a look at [AI job replacement projections](https://www.w3schools.com/ai/ai_
 Can we build a system where AI can be the project manager?  
 The following concept is inspired by Dr. Nick Stavros, founder of Jackrabbit Consulting and a thought leader for the Object Management Group, a software standards development organization.
 
-Consider how leaders define expectations, grant power, and verify performance. Leaders use governance.  In the governance model, defining expectations is called regulation.  Granting power is called execution.  Verifying performance is called compliance.
+Consider how leaders define expectations, grant power, and verify performance.
+
+Consider how leaders define expectations, grant power, and verify performance.
+
+Leaders use [goverance](a href="https://www.omgwiki.org/dido/doku.php?id=dido:public:ra:xapend:xapend.j_gov_model")
+In the governance model, defining expectations is called regulation.  Granting power is called execution.  Verifying performance is called compliance.
 
 ![Governance Model](images/governance_model.png)
 
