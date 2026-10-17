@@ -18,5 +18,5 @@
 | **11:05** | **11:45** | **[Roomba AI avoids dog poop](https://www.cnn.com/2021/09/09/tech/roomba-ai-avoids-dog-poop/index.mdl)**<br>[Human and machine collaborative learning](09_your_turn.md)<br>**[ServiceNow Infogram](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/infographic/ai-infographic-layout.pdf)**<br>**[AI and HVAC](https://www.brainboxai.com/)**<br>**[AI and Salesforce](https://www.salesforce.com/products/einstein/overview/)** |
 | **11:45** | **12:00** | Recap and participant survey |
 
-## Attendees
-* [For PDU verification](PMI_ATS.png)
+## PDU Verification
+* [Attendees](PMI_ATS.png)
