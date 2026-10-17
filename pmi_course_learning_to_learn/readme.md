@@ -15,7 +15,7 @@
 | **10:00** | **10:05** | *Break* |
 | **10:05** | **11:00** | [Learning how to assign tasks to AI](html/02_mission.md)<br>[Can you delegate project management to AI?](html/02a_info_wisdom_understanding.md)<br>[A governance model for assigning tasks to AI](html/03_governance.md)<br>[Applying a governance model to a project plan](html/05_applying.md)<br>[Which tasks can AI undertake?](html/06_which_tasks.md) |
 | **11:00** | **11:05** | *Break* |
-| **11:05** | **11:45** | **[Roomba AI avoids dog poop](https://www.cnn.com/2021/09/09/tech/roomba-ai-avoids-dog-poop/index.mdl)**<br>[Human and machine collaborative learning](html/09_your_turn.md)<br>**[ServiceNow Infogram](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/infographic/ai-infographic-layout.pdf)**<br>**[AI and HVAC](https://www.brainboxai.com/)**<br>**[AI and Salesforce](https://www.salesforce.com/products/einstein/overview/)** |
+| **11:05** | **11:45** | [Human and machine collaborative learning](html/09_your_turn.md)<br>**[ServiceNow Infogram](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/infographic/ai-infographic-layout.pdf)<br>[AI and HVAC](https://www.brainboxai.com/)<br>[AI and Salesforce](https://www.salesforce.com/products/einstein/overview/)|
 | **11:45** | **12:00** | Recap and participant survey |
 
 
