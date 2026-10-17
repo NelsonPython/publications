@@ -18,7 +18,7 @@ Project managers left with a comprehensive AI Risk Register highlighting risks s
 | 10:00 | 10:10 | 10 minute break |
 | 10:10 | 11:00 | [Discover other types of AI](html/07_other_ai.md)<br>[Learn 4 Ways AI will Change Project Management](html/10_trends.md)<br>[See AI Transforming Project Management](html/11_transform_PM.md)<br>[Learn how AI improves Construction Project Management](html/12_construction.md)<br>[Learn how AI went awry on Twitter](html/8_twitter.md)<br>[Introduce AI ethics adopted by the USA DoD](html/09_introduce_DoD.md) |
 | 11:00 | 11:10 | 10 minute break |
-| 11:10 | 11:45 | [Potential legal issues when managing AI](https://blog.capterra.com/ai-legal-issues/)<br>[Propose best practices for AI project management](html/ai_pmbok.php)<br>[Group review of best practices for AI project management](html/19_review.md) |
+| 11:10 | 11:45 | [Potential legal issues when managing AI](https://blog.capterra.com/ai-legal-issues/)<br>Propose best practices for AI project management<br>[Group review of best practices for AI project management](html/19_review.md) |
 | 11:45 | 12:00 | [Recap and student survey](html/20_recap.md) |
 
 ## PDU Verification
