@@ -16,7 +16,7 @@ Review the material below then make a list of questions based on what you observ
 - Take a look at maps and graphs from March 2021. The colors were changed to make it easier to see the data reporting inconsistencies. How would you explain this to your stakeholders?
 
 #### 2020
-![2020 Yearly USA Confirmed](../DataTutorial-Covid-19/2020/2020_yearly_usa_confirmed.svg)
+![2020 Yearly USA Confirmed](images/2020_yearly_usa_confirmed.svg)
 
 [Observations about USA political policies in 2020](../DataTutorial-Covid-19/2020/ranked.php?D=2021-06-04)
 
