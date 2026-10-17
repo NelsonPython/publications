@@ -1,4 +1,4 @@
-### [Review the article  
+### Review the article  
   
 How AI Is Transforming Project Management](https://mymanagementguide.com/how-ai-is-transforming-project-management/)
 
