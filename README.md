@@ -251,7 +251,7 @@ Written by Stacy D. Nelson (nickname "Cy")
 
 * [Verification & Validation of Adaptive Neural Networks for Aerospace Systems. NASA Dryden (Armstrong) Flight Research Center 2002.](https://ntrs.nasa.gov/citations/20020079427)
 
-* [Verification and Validation of Neural Networks for Aerospace Systems](https://ntrs.nasa.gov/search?title=Verification%20and%20Validation%20of%20Neural%20Networks%20for%20Aerospace%20Systems&author=Nelson,%20Stacy&page=%7B%22from%22:0,%22size%22:25%7D)
+* [Verification and Validation of Neural Networks for Aerospace Systems (NTRS Document 20020079427)](https://ntrs.nasa.gov/search?title=Verification%20and%20Validation%20of%20Neural%20Networks%20for%20Aerospace%20Systems&author=Nelson,%20Stacy&page=%7B%22from%22:0,%22size%22:25%7D)
   
 * [NASA/CR-2002-211702 V and V of Advanced Systems at NASA. NASA Ames Research Center.](https://www.researchgate.net/publication/24324636_V_and_V_of_Advanced_Systems_at_NASA)
 
