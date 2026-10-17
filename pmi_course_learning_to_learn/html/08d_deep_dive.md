@@ -4,7 +4,7 @@
 
 Screen captures from the free [Coursera Machine Learning course by Professor Andrew Ng at Stanford University](https://www.coursera.org/learn/machine-learning?utm_source=bg&utm_medium=sem&utm_campaign=37-SAS-Programmer-US&utm_content=37-SAS-Programmer-US&campaignid=415059034&adgroupid=1222657396088318&device=c&keyword=coursera%20programming&matchtype=p&network=o&devicemodel=&adpostion=&creativeid=&hide_mobile_promo=&msclkid=5b0b37a97831116ec2165776c49ff0c0&utm_term=coursera%20programming) shown without express permission but with a recommendation to take his course.
 
-![Housing Price](html/MachineLibrary/HousingPrice.png)
+![Housing Price](MachineLearning/HousingPrice.png)
 
 Suppose larger houses cost more. The price of a house depends on the square footage. You can map all the price points and see linear (magenta) and non-linear (blue) trends. This is an example of supervised learning because you know the price. You can use regression because the price has a continuous relationship with the square footage because in this example larger houses cost more.
 
