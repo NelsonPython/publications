@@ -15,11 +15,3 @@ Learn more by reading *The Age of Living Machines: How Biology Will Build the Ne
 by Susan Hockfield, MIT
 
 ---
-
-[5 Biggest Project Management Trends](https://blog.capterra.com/5-biggest-project-management-trends-shaping-2017/)
-
-[How Businesses are using Machine Learning and AI](https://blog.capterra.com/how-businesses-are-using-machine-learning-and-ai-in-2017/)
-
-[40 Amazing Artificial Intelligence Facts Worth Tweeting About](https://blog.capterra.com/40-amazing-artificial-intelligence-facts-worth-tweeting-about/)
-
-[The Potential Legal Issues of AI (And Why You Should Care)](https://blog.capterra.com/ai-legal-issues/)
