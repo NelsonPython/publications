@@ -6,4 +6,4 @@
 
 My favorite project was testing AI at NASA.
 
-![Robot holding a phone](images/01_speaker_introduction.png)
+![Robot holding a phone](images/speaker.png)
