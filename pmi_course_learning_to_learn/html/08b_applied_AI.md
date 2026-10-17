@@ -5,7 +5,7 @@
 The objective of this exercise is to discover the types of questions a project manager should ask when evaluating data produced by machine learning or AI.  
 
 The data and examples for this exercise are from a data engineering project that used simple linear regression.  
-The [Civics & Covid-19 project](https://robothot.ai/DataTutorial-Covid-19/ranked.php?D=2021-09-12%2000:00:00) was undertaken because Covid-19 has been perceived and managed differently across the United States.  
+The Civics & Covid-19 project was undertaken because Covid-19 has been perceived and managed differently across the United States.  
 The aim has been to provide data to support research for understanding which political policies best protect the health of USA citizens.
 
 Review the material below then make a list of questions based on what you observe:    
