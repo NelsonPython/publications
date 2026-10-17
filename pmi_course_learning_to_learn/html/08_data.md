@@ -19,4 +19,3 @@ Testing the AI software is critical to making sure it performs within normal bou
 
 [Smart Cameras](08c_vision.md)
 
-[Outline](readme.md)

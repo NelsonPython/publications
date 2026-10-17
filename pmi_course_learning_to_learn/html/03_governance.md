@@ -43,4 +43,3 @@ Which layers of this model do you believe AI could complete successfully?
 
 Hint: [AI Job Replacement Projections](https://www.w3schools.com/ai/ai_job_replacement.asp)
 
-[Outline](readme.md) &nbsp; [Next](04_sample.md)

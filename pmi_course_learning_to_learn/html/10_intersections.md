@@ -23,4 +23,3 @@ Discuss in breakout rooms. Based on what you've learned so far, do you agree or 
   Humans perceive situations through the lens of their culture.
   Machines are agnostic but humans perceive what machines learn through the lens of their culture.
 
-[Outline](readme.htm)

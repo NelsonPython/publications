@@ -44,8 +44,6 @@ Based on this model, where can AI be most helpful?
 2. Compliance - AI can ensure compliance with regulations
 3. Execution - AI can complete tasks
 
-[Outline](readme.md) &nbsp; [Next](03_governance.md)
-
 ---
 *1) Stavros, Robert W. and Albrant, Jeremiah; Engineering Governance, SPAWAR, October 9, 2007*  
 *2) Adapted from Wikipedia: Governance; accessed 9 July 2007*  

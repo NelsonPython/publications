@@ -29,4 +29,3 @@ Section 13 Stakeholder Management
 
 Look at your PMBOK. What other sections could pertain to human learning and AI?
 
-[Outline](readme.md)

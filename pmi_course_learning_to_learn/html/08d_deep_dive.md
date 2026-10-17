@@ -31,4 +31,3 @@ Cost functions iterate through different combinations of values until they conve
 
 ![Housing Gradient Descent 2](MachineLearning/Housing_Gradient_descent_2.png)
 
-[Outline](readme.md) &nbsp; [Next](08_data.md)

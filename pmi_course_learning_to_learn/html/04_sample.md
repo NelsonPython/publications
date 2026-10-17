@@ -58,4 +58,3 @@ Which tasks or sub-tasks can be automated? Where can AI be used to find solution
 * Write the Standard Operating Procedures for Analyst Software
 * Write the Standard Operating Procedures for GLP Lab Cybersecurity
 
-[Outline](readme.md) &nbsp; [Next](05_applying.md)
