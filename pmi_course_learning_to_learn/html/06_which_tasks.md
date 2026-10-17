@@ -28,7 +28,7 @@ Yes, legislators across the USA focused on bills related to the issues surroundi
 I verified that, as of June 2021, 25 states propose banning transgender girls from girl's sports.  
 Putting aside any personal bias or opinion about this controversial topic, we see that AI is reflecting the values of elected officials in the USA.
 
-What would AI reflect from analyzing social media? Take a look at [Microsoft's Twitterbot experiment](https://robothot.ai/Course-AI_Teammember/08_twitter.htm).  
+What would AI reflect from analyzing social media? Take a look at [Microsoft's Twitterbot experiment(https://github.com/NelsonPython/publications/blob/main/pmi_course_AI_team_member/html/08_twitter.md).  
 What would AI reflect from analyzing the Code for Federal Regulations or reputable newsfeeds or some other source of data?
 
 In my opinion, discussions about AI and consciousness are intriguing and important.  
