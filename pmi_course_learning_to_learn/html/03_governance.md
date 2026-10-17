@@ -4,7 +4,7 @@
 
 Rather than relying solely on AI or humans suppose we find a way for them to work together?
 
-Here is a model that may help guide your decisions. It is a governance model that was developed by the US Navy SPAWAR. Dr. Stravos explains it [here](https://www.omgwiki.org/dido/doku.php?id=dido:public:ra:xapend:xapend.j_gov_model). This [governance model](https://www.omgwiki.org/dido/doku.php?id=dido:public:ra:xapend:xapend.i_cog_model) includes five levels: wisdom, understanding, knowledge, information, and data. Take a look at [an example](https://www.omgwiki.org/dido/doku.php?id=dido:public:ra:1.4_req:00_aboutreq:04_combexmpmdl).
+Here is a model that may help guide your decisions. It is a governance model that was developed by the US Navy SPAWAR. Dr. Stravos explains it [here](https://www.omgwiki.org/dido/doku.php?id=dido:public:ra:xapend:xapend.j_gov_model). This governance model includes five levels: wisdom, understanding, knowledge, information, and data. Take a look at [an example](https://www.omgwiki.org/dido/doku.php?id=dido:public:ra:1.4_req:00_aboutreq:04_combexmpmdl).
 
 ![Cognitive Model](images/CognitiveModel.png)  
 *Image used with permission from Dr. Nick Stravos*
