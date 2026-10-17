@@ -27,5 +27,7 @@ Sensors provide better situational awareness to reduce waste, emissions, and noi
 
 
 ![Autonomous Crane 2](images/12_crane_2.png)  
+
 Devices such as the autonomous crane are safer because they can be monitored by crane operators from an office  
+
 ![Autonomous Crane 1](images/12_crane_1.png)
