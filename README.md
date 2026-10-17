@@ -237,13 +237,13 @@ Written by Stacy D. Nelson (nickname "Cy")
 
 * *Guidance for the Independent Verification and Validation of Neural Networks*. NASA Ames Research Center IVVNN-Guidance-D001-Unclass-072705.
 
-* [NASA/CR-2002-211701 Survey of NASA V&V Processes/Methods. NASA Ames Research Center.](https://ntrs.nasa.gov/citations/20020044103)
+* [NASA/CR-2002-211701 Survey of NASA V&V Processes/Methods. NASA Ames Research Center.](https://ntrs.nasa.gov/search?title=Survey%20of%20NASA%20V%20and%20V%20Processes%2FMethods&author=Nelson,%20Stacy&page=%7B%22from%22:0,%22size%22:25%7D)
 
-* [NASA/CR-2002-211703 New V and V Tools for Diagnostic Modeling Environment (DME). NASA Ames Research Center.](https://ntrs.nasa.gov/api/citations/20020045346/downloads/20020045346.pdf)
+* [NASA/CR-2002-211703 New V and V Tools for Diagnostic Modeling Environment (DME). NASA Ames Research Center.](https://ntrs.nasa.gov/search?title=New%20V%20and%20V%20Tools%20for%20Diagnostic%20Modeling%20Environment%20(DME)&author=Nelson,%20Stacy&page=%7B%22from%22:0,%22size%22:25%7D)
 
-* [NASA/CR-2002-211709 Verification & Validation of Neural Networks for Aerospace Systems. NASA Armstrong Flight Research Center.](https://ntrs.nasa.gov/citations/20020079427)
+* [NASA/CR-2002-211709 Verification & Validation of Neural Networks for Aerospace Systems. NASA Armstrong Flight Research Center.](https://ntrs.nasa.gov/search?title=Verification%20and%20Validation%20of%20Neural%20Networks%20for%20Aerospace%20Systems&author=Nelson,%20Stacy&page=%7B%22from%22:0,%22size%22:25%7D)
 
-* [NASA/CR-2003-212806 Certification Processes for Safety-Critical and Mission-Critical Aerospace Software. NASA Ames Research Center.](https://ntrs.nasa.gov/api/citations/20040014965/downloads/20040014965_Update.pdf)
+* [NASA/CR-2003-212806 Certification Processes for Safety-Critical and Mission-Critical Aerospace Software. NASA Ames Research Center.](https://ntrs.nasa.gov/search?title=Certification%20Processes%20for%20Safety-Critical%20and%20Mission-Critial%20Aerospace%20Software&author=Nelson,%20Stacy&page=%7B%22from%22:0,%22size%22:25%7D)
 
 * [On Verification & Validation of Neural Network Based Controllers. Presented at Engineering Applications of Neural Networks EANN, Costa del Sol, Spain.](https://www.researchgate.net/publication/228820224_On_verification_validation_of_neural_network_based_controllers)
 
@@ -257,23 +257,25 @@ Written by Stacy D. Nelson (nickname "Cy")
 
 * [Formal Verification for a Next Generation Space Shuttle](https://www.researchgate.net/publication/221106041_Formal_Verification_for_a_Next-Generation_Space_Shuttle?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUifX0)
 
-
 ### Technical Reports about Autonomous Drones (NASA)
 
 * Challenges Communicating via WiFi with UAVs In-Flight. NASA Ames Research Center. Presented at NASA OSMA SAS 05, USA.
 
 * [Identifying Contingency Requirements Using Obstacle Analysis on an Un-piloted Aerial Vehicle. NASA Ames Research Center. Presented at 13th IEEE International Requirements Engineering Conference 2005, Paris, France.](https://ntrs.nasa.gov/search?title=Identifying%20Contingency%20Requirements%20using%20Obstacle%20Analysis%20on%20an%20Unpiloted%20Aerial%20Vehicle&author=Nelson,%20Stacy&page=%7B%22from%22:0,%22size%22:25%7D)
 
-* [NASA/CR-2003-212281 Towards FAA Certification of UAVs.](https://ntrs.nasa.gov/api/citations/20040014961/downloads/20040014961.pdf)
+* [NASA/CR-2003-212281 Towards FAA Certification of UAVs.](https://ntrs.nasa.gov/search?title=Towards%20FAA%20Certification%20of%20UAVs&author=Nelson,%20Stacy&page=%7B%22from%22:0,%22size%22:25%7D)
   
 * [Software Contingencies for Safe Autonomous Flight. NASA Ames Research Center. Presented at NASA OSMA SAS04](https://ntrs.nasa.gov/citations/20060043792)
 
+* [Contingency Software in Autonomous Systems](https://ntrs.nasa.gov/search?title=Contingency%20software%20in%20autonomous%20systems&author=Nelson,%20Stacy&page=%7B%22from%22:0,%22size%22:25%7D)
+
 ### Technical Reports about Software Quality (NASA)
+                                                                     
 * [From Research to Industry: The Role of Software Engineering Standards. Tutorial presented at the 17th IEEE International Conference in Automated Software Engineering Conference in Edinburgh, Scotland.](https://www.se.cs.uni-saarland.de/conferences/ASE/ase2002/tutorials.html)
 
-* [NASA/CR-2004-212819 Product-oriented Software Certification Process for Software Synthesis. NASA Ames Research Center.](https://ntrs.nasa.gov/api/citations/20040034049/downloads/20040034049.pdf)
+* [NASA/CR-2004-212819 Product-oriented Software Certification Process for Software Synthesis. NASA Ames Research Center.](https://ntrs.nasa.gov/search?title=Product-oriented%20Software%20Certification%20Process%20for%20Software%20Synthesis&author=Nelson,%20Stacy&page=%7B%22from%22:0,%22size%22:25%7D)
 
-* [NASA/TR 2004-212805 Survey of Software Assurance Techniques for Highly Reliable Systems. NASA Ames Research Center.](https://ntrs.nasa.gov/citations/20040034185)
+* [NASA/TR 2004-212805 Survey of Software Assurance Techniques for Highly Reliable Systems. NASA Ames Research Center.](https://ntrs.nasa.gov/search?title=Survey%20of%20Software%20Assurance%20Techniques%20for%20Highly%20Reliable%20Systems&author=Nelson,%20Stacy&page=%7B%22from%22:0,%22size%22:25%7D)
 
 * [What Makes Code Review Trustworthy? Nelson and Schumann, Hawaii International Conference On System Sciences, HICSS 04.](https://ui.adsabs.harvard.edu/abs/2004hics.conf..594N/abstract)
 
@@ -362,4 +364,3 @@ Written by Stacy D. Nelson (nickname "Cy")
 * Developed Python scripts to generate daily URL link checks for >700 URLS embedded in Intel Tuning Guides (2021)
 
 * Developed Python scripts to generate Cybersecurity Maturity Model Certification (CMMC 2.0) compliance templates (Crane Aerospace 2022). CMMC provided guidance for compliance with 32 CFR Part 2002, DFARS 252.204-7012, and DoDI 5200.48 in the implementation of National Institute of Standards and Technology (NIST) SP 800-171. The US Department of War suspended CMMC II in 2026.
-
