@@ -1,7 +1,6 @@
-### [Read the article  
+### Read the article  
   
-How AI and IoT Provide Value in Construction](https://www.iotforall.com/ai-iot-construction/)
-<br><br>
+[How AI and IoT Provide Value in Construction](https://www.iotforall.com/ai-iot-construction/)
 
 ---
 
