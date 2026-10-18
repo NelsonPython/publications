@@ -365,6 +365,6 @@ Written by Stacy D. Nelson (nickname "Cy")
 
 * Developed Python scripts to generate [Cybersecurity Maturity Model Certification (CMMC 2.0) compliance templates](code_to_docs/CMMC/readme.md) for Crane Aerospace in 2022.
 
-* Kaggle.com hosts data and notebooks for data science projects.  See copies of selected [Kaggle Notebooks](code_to_docs/ipynb/readme.md).  View [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
+* Kaggle.com hosts notebooks with interactive documentation.  See copies of selected [Kaggle Notebooks](code_to_docs/ipynb/readme.md).  View [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
 
   
