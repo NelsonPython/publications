@@ -19,7 +19,7 @@ Sophia
 
 In October 2017, Sophia became a Saudi Arabian citizen, the first robot to receive citizenship of any country.
 
-[In November 2017, Sophia was named the United Nations Development Programme's first Innovation Champion, and is the first non-human to be given any United Nation title](https://en.wikipedia.org/wiki/Sophia_(robot))
+In November 2017, Sophia was named the United Nations Development Programme's first Innovation Champion, and is the first non-human to be given any United Nation title. [Sophia (Robot) wiki](https://en.wikipedia.org/wiki/Sophia_(robot))
 
 ---
 
