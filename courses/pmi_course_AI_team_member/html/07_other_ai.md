@@ -14,7 +14,7 @@ Asian service robots create a new experience
 Pepper detects emotions by analyzing expressions and voice tones. It was recently donated to schools in Boston, San Francisco, and Vancouver.  
 Cost: $30,000
 
-[![Sophia](images/07_sophia.png)](https://www.forbes.com/sites/zarastone/2017/11/07/everything-you-need-to-know-about-sophia-the-worlds-first-robot-citizen/#6c4ced9346fa)  
+[![Sophia](images/07_sophia.png)](https://en.wikipedia.org/wiki/Sophia_(robot))  
 Sophia
 
 In October 2017, Sophia became a Saudi Arabian citizen, the first robot to receive citizenship of any country.
