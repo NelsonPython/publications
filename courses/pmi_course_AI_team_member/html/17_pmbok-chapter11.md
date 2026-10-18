@@ -11,5 +11,6 @@
 ### What could possibly go wrong with an AI?
 
 [![Boeing Diagram](images/17_boeingDiagram.png)](https://www.bbc.com/news/world-us-canada-43604440)  
-![Boeing](images/17_boeing.png)  
-The MCAS investigation is not finished
+
+ 
+The MCAS investigation was not finished in 2023.  Update:  [Boeing 737 Max Investigation](https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation)
