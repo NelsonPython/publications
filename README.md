@@ -359,7 +359,7 @@ Written by Stacy D. Nelson (nickname "Cy")
 
 * Zero Trust Philosophy Demystified (NIST SP 800-207 explained) (TXOne Networks 2024)
 
-## Automated Documentation
+## Code To Docs
 
 * Developed Python scripts to generate daily URL link checks for >700 URLS embedded in Intel® Tuning Guides.  
 
