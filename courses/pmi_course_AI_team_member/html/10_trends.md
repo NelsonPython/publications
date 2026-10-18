@@ -1,12 +1,3 @@
-### [Read the article  
-  
-4 Ways AI will Change Project Management: Trends in 2019 and the Future](https://bigdata-madesimple.com/ai-project-management-2019-trends/)
-
-<p align="center">Sep 12, 2019 Vartika Kashyap</p>
-<br><br>
-
----
-
 #### Trends
 
 According to Gartner, AI is generating $2.9 trillion in business value by 2021. The stages of evolution of AI in project management may be:
