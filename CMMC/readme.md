@@ -4,7 +4,6 @@ CMMC provided guidance for compliance with 32 CFR Part 2002, DFARS 252.204-7012,
 
 
 ![CMMC Assessment Guide](cmmc_guide.png) 
-*The US Department of War suspended CMMC II in 2026.*
 
 Automated generation of Cybersecurity Maturity Model Certification (CMMC 2.0) compliance templates improves accuracy and completeness.  This easy-to-read user interface enables quick access to each template.
 
@@ -16,3 +15,5 @@ Example of accessing the Access Control assessment
 ![Access Control list](access_control.png)
 
 ![Access Control template](ac_template.png)
+
+*The US Department of War suspended CMMC II in 2026.*
