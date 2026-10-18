@@ -365,6 +365,6 @@ Written by Stacy D. Nelson (nickname "Cy")
 
 * Developed Python scripts to generate Cybersecurity Maturity Model Certification (CMMC 2.0) compliance templates (Crane Aerospace 2022). CMMC provided guidance for compliance with 32 CFR Part 2002, DFARS 252.204-7012, and DoDI 5200.48 in the implementation of National Institute of Standards and Technology (NIST) SP 800-171. The US Department of War suspended CMMC II in 2026.
 
-* Copies of selected (Kaggle Notebooks)[ipynb/readme.md].  [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
+* Copies of selected [Kaggle Notebooks](ipynb/readme.md).  [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
 
   
