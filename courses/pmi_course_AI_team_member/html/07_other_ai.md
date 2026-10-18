@@ -29,4 +29,4 @@ USA service robots by SoftBank Boston Dynamics
 ![Anime Robot](images/07_anime.png)  
 ![Asian Dino Robot](images/07_asianDino.png)  
 
-[Digital AI Workforce](https://www.ipsoft.com/digitalworkforce/)
+[Japan's Robot Hotel](https://www.youtube.com/watch?v=uEC6q7l_zdQ)
