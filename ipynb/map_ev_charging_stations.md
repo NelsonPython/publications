@@ -24,6 +24,8 @@ The following code was used to compute these statistics. Comments are included e
 
 ### Pandas and Folium
 
+This code ran in 2025.  Check [OpenStreetMap](https://www.openstreetmap.org) for current code requirements.
+
 ```
 # import Pandas to process the data and Folium for drawing maps
 
