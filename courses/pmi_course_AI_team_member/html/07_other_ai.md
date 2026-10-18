@@ -11,8 +11,7 @@ Asian service robots create a new experience
 ---
 
 [![Pepper Robot](images/07_pepper.png)](https://spectrum.ieee.org/automaton/robotics/humanoids/softbank-pepper-next-gen-roboticists)  
-Pepper detects emotions by analyzing expressions and voice tones. It was recently donated to schools in Boston, San Francisco, and Vancouver.  
-Cost: $30,000
+Pepper detects emotions by analyzing expressions and voice tones. It was recently donated to schools in Boston, San Francisco, and Vancouver.  Cost in 2021: $30,000
 
 ![Sophia](images/07_sophia.png)  
 Sophia
