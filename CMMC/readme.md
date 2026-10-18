@@ -4,7 +4,7 @@ CMMC provided guidance for compliance with 32 CFR Part 2002, DFARS 252.204-7012,
 
 ![CMMC Assessment Guide](cmmc_guide.png) 
 
-<img src="cmmc_guide.png" width="300" height="200" alt="Description">
+<img src="cmmc_guide.png" width="500" alt="Description">
 
 
 Automated generation of Cybersecurity Maturity Model Certification (CMMC 2.0) compliance templates improves accuracy and completeness.  This easy-to-read user interface enables quick access to each template.
