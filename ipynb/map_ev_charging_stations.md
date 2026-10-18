@@ -25,6 +25,7 @@ The following code was used to compute these statistics. Comments are included e
 ### Pandas and Folium
 
 This code ran in 2025.  Check [OpenStreetMap](https://www.openstreetmap.org) for current code requirements.
+View the [Map EV Charging Stations on Highway I-5 Kaggle Notebook](https://www.kaggle.com/code/nelsondata/map-ev-charging-stations-on-highway-i-5).
 
 ```
 # import Pandas to process the data and Folium for drawing maps
