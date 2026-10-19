@@ -1,6 +1,6 @@
 # PORTFOLIO:  Technical Publications
 
-Written by Stacy D. Nelson (nickname "Cy")
+by Stacy D. Nelson (nickname "Cy")
 
 ## Technical Guides
 
