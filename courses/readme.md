@@ -1,4 +1,4 @@
-# Continuing education courses
+# Continuing Education Courses
 
 * [2023 PMI PDU course: Can AI be a Member of Your Team?](pmi_course_AI_team_member/readme.md)
 
