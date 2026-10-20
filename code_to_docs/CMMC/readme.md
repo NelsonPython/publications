@@ -14,7 +14,7 @@ Users click on a piece of the CMMC pie to drill down to a list of templates, the
 
 <img src="ac_template.png" width="600" alt="CMMC Access Control Template">
 
-Because the template contained precise verbiage from the guide, the team did not have to flip back and forth when questions arose about requirements.
+Because the template contained precise verbiage from the guide, the team did not have to flip back and forth to the guide when questions arose about requirements.
 
 *CMMC 2.0 was scheduled to begin in November 2026, but it has been suspended while a comprehensive review of the program is undertaken [1].* 
 
