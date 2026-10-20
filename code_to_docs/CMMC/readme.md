@@ -12,7 +12,7 @@ Users click on a piece of the CMMC pie to drill down to the requirements.  Then,
 
 <img src="access_control.png" width="600" alt="CMMC Access Controls">
 
-<img src="ac_template.png" width="600" alt="CMMC Access Control Template" border=1>
+<img src="ac_template.png" width="600" alt="CMMC Access Control Template">
 
 
 *CMMC 2.0 was scheduled to begin in November 2026, but it has been suspended while a comprehensive review of the program is undertaken [1].* 
