@@ -8,7 +8,7 @@ About the same time, I was working on another project called "Gearing up for Com
 
 <img src="cmmc_circle.png" width="600" alt="CMMC User Interface">
 
-Users click on a piece of the CMMC pie to drill down to the requirements.  Then, click on a link to select a template.
+Users click on a piece of the CMMC pie to drill down to a list of templates, then, click on a link to select a template.
 
 <img src="access_control.png" width="600" alt="CMMC Access Controls">
 
