@@ -1,6 +1,6 @@
 ## Cybersecurity Maturity Model Certification (CMMC) Compliance Templates
 
-As a technical writer, I was tasked with writing compliance documentation for each requirement in [CMMC Assessment Guide Level 2](https://dodcio.defense.gov/Portals/0/Documents/CMMC/AssessmentGuideL2v2.pdf).  
+As a technical writer, I was tasked with writing compliance documentation for each requirement in the [CMMC Assessment Guide Level 2](https://dodcio.defense.gov/Portals/0/Documents/CMMC/AssessmentGuideL2v2.pdf).  
 
 When I read the guide, I realized that the content had been standardized so that each section was organized first by domain and then by individual security requirements.  Furthermore, the description of each requirement contained the same elements.  This made it possible for me to write a python script to parse the content from the guide and generate templates in HTML format.  Not only did this save hours of re-typing information from the guide, it ensured accuracy and completeness.
 
