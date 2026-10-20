@@ -1,6 +1,6 @@
 ## Cybersecurity Maturity Model Certification (CMMC)
 
-The CMMC Assessment Guide Level 2 was issued in September 2024 and government contractors, such as Crane Aerospace, began compliance projects.  As a technical writer, I was tasked with developing templates for documenting compliance with each requirement.  
+The [CMMC Assessment Guide Level 2](https://dodcio.defense.gov/Portals/0/Documents/CMMC/AssessmentGuideL2v2.pdf) was issued in September 2024 and government contractors, such as Crane Aerospace, began compliance projects.  As a technical writer, I was tasked with developing templates for documenting compliance with each requirement.  
 
 When I read the guide, I realized that the content had been standardized so that each section was organized first by domain and then by individual security requirements.  The description of each requirement contained the same elements.  This made it possible for me to write a python script that parsed the content and generated templates in HTML format.  Not only did this save time, it improved accuracy and completeness.  
 
