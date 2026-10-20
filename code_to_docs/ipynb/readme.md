@@ -1,4 +1,4 @@
-# Notebooks
+# Jupyter Notebooks for Interactive Documentation
 
 A [Jupyter Notebook](https://jupyter.org) is an open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text.  They are commonly used for data science and machine learning research and documentation.
 
