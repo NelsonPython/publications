@@ -6,11 +6,11 @@ The role of technical writer is moving away from writing traditional documents t
 
 # Code The Docs
 
-* Auto-generated [Cybersecurity Maturity Model Certification (CMMC 2.0) compliance templates](code_to_docs/CMMC/readme.md)
+* Auto-generated [Cybersecurity Maturity Model Certification (CMMC 2.0)](code_to_docs/CMMC/readme.md) compliance templates
 
-* [Jupyter Notebooks with interactive documentation](code_to_docs/ipynb/readme.md).  View [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
+* [Jupyter Notebooks](code_to_docs/ipynb/readme.md) with interactive documentation.  View [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
 
-* [Scripts to check URL links in webpages](https://github.com/NelsonPython/ai_prompts/blob/main/articles/curl_check_links.md)
+* [Broken link reporter](https://github.com/NelsonPython/ai_prompts/blob/main/articles/curl_check_links.md)
 
 * [BLOG:  The AI Prompt Investigator](https://github.com/NelsonPython/ai_prompts) 
 
