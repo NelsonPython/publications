@@ -1,20 +1,21 @@
-# PORTFOLIO:  Technical Documentation
+# PORTFOLIO:  Technical Publications
 
 by Stacy D. Nelson (nickname "Cy Nelson")
 
 The role of technical writer is moving away from writing traditional documents to generating documentation and editing for accuracy.  This portfolio showcases my extensive history of technical publications, as well as new projects where I code the docs.
 
-# Code The Docs
+### Code The Docs
+
+* [BLOG:  The AI Prompt Investigator](https://github.com/NelsonPython/ai_prompts) 
+
+* [Broken link reporter](https://github.com/NelsonPython/ai_prompts/blob/main/articles/curl_check_links.md)
 
 * Auto-generated [Cybersecurity Maturity Model Certification (CMMC 2.0)](code_to_docs/CMMC/readme.md) compliance templates
 
 * [Jupyter Notebooks](code_to_docs/ipynb/readme.md) with interactive documentation.  View [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
 
-* [Broken link reporter](https://github.com/NelsonPython/ai_prompts/blob/main/articles/curl_check_links.md)
 
-* [BLOG:  The AI Prompt Investigator](https://github.com/NelsonPython/ai_prompts) 
-
-# Technical Publications
+# Publications
 
 ## Technical Guides
 
