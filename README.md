@@ -2,6 +2,20 @@
 
 by Stacy D. Nelson (nickname "Cy")
 
+This portfolio includes two key sections, Code To Docs and Technical Publications.  
+
+# Code To Docs
+
+* Auto-generated [Cybersecurity Maturity Model Certification (CMMC 2.0) compliance templates](code_to_docs/CMMC/readme.md)
+
+* [Jupyter Notebooks with interactive documentation](code_to_docs/ipynb/readme.md).  View [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
+
+* [Scripts to check URL links in webpages](https://github.com/NelsonPython/ai_prompts/blob/main/articles/curl_check_links.md)
+
+* []() 
+
+# Technical Publications
+
 ## Technical Guides
 
 ### Cybersecurity guidance
@@ -358,13 +372,6 @@ by Stacy D. Nelson (nickname "Cy")
 
 * Zero Trust Philosophy Demystified (NIST SP 800-207 explained) (TXOne Networks 2024)
 
-## Code To Docs
-
-* Auto-generated [Cybersecurity Maturity Model Certification (CMMC 2.0) compliance templates](code_to_docs/CMMC/readme.md)
-
-* [Jupyter Notebooks with interactive documentation](code_to_docs/ipynb/readme.md).  View [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
-
-* [Scripts to check URL links in webpages](https://github.com/NelsonPython/ai_prompts/blob/main/articles/curl_check_links.md)
 
 
 
