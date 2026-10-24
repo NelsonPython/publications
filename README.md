@@ -2,7 +2,7 @@
 
 by Stacy D. Nelson (nickname "Cy")
 
-The role of technical writer is moving away from writing traditional documents to generating documentation and editing for accuracy.  My portfolio showcases my extensive history of technical publications, as well as now projects generating documentation.
+The role of technical writer is moving away from writing traditional documents to generating documentation and editing for accuracy.  This portfolio showcases my extensive history of technical publications, as well as now projects generating documentation.
 
 # Code To Docs
 
