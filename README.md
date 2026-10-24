@@ -1,4 +1,4 @@
-# PORTFOLIO:  Technical Publications
+# PORTFOLIO:  Communicating Technical Content
 
 by Stacy D. Nelson (nickname "Cy")
 
@@ -12,7 +12,7 @@ This portfolio includes two key sections, Code To Docs and Technical Publication
 
 * [Scripts to check URL links in webpages](https://github.com/NelsonPython/ai_prompts/blob/main/articles/curl_check_links.md)
 
-* []() 
+* [BLOG:  The AI Prompt Investigator](https://github.com/NelsonPython/ai_prompts) 
 
 # Technical Publications
 
