@@ -1,6 +1,6 @@
 # PORTFOLIO:  Technical Documentation
 
-by Stacy D. Nelson (nickname "Cy")
+by Stacy D. Nelson (nickname "Cy Nelson")
 
 The role of technical writer is moving away from writing traditional documents to generating documentation and editing for accuracy.  This portfolio showcases my extensive history of technical publications, as well as new projects where I code the docs.
 
