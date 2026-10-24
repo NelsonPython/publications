@@ -2,9 +2,9 @@
 
 by Stacy D. Nelson (nickname "Cy")
 
-The role of technical writer is moving away from writing traditional documents to generating documentation and editing for accuracy.  This portfolio showcases my extensive history of technical publications, as well as now projects generating documentation.
+The role of technical writer is moving away from writing traditional documents to generating documentation and editing for accuracy.  This portfolio showcases my extensive history of technical publications, as well as new projects where I code the docs.
 
-# Code To Docs
+# Code The Docs
 
 * Auto-generated [Cybersecurity Maturity Model Certification (CMMC 2.0) compliance templates](code_to_docs/CMMC/readme.md)
 
