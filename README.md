@@ -14,6 +14,8 @@ The role of technical writer is moving away from writing traditional documents t
 
 * [Jupyter Notebooks](code_to_docs/ipynb/readme.md) with interactive documentation.  View [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
 
+* [Towards Agentic AI Coding the Docs](code_to_docs/agentic_docs/readme.md)
+
 
 # Publications
 
