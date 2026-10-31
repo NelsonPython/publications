@@ -1,0 +1,39 @@
+# Agentic Job Search
+
+This Agentic Job Search app showcases a code-the-docs pipeline for generating cover letters and custom resumes tailored for job applications.
+
+## 1. Job Description
+
+To begin, feed a job description into the pipeline.  Job descriptions can be found by using an API to download descriptions from a job board or by a simple copy-paste.
+
+A Python script launches an AI prompt to evaluate the target job to skip it if a security clearance is required.  Another AI prompt is used to summarize long job postings.  A third AI prompt is used to write a brief summary to head the resume and the last AI prompt generates a cover letter.
+
+## 2. AI Prompts
+
+There is a prompt template for each category of the resume, including Core Competencies, Education, and Professional Experience.  A Python script automates prompt generation by combining each template with the job requirements and the appropriate section of the resume.
+
+## 3.  Gemini Prompt
+
+Because Gemini is much more powerful that the Ollama models installed on the local virtual machine, AI compiles a special prompt to be pasted into Gemini's Where Should We Start? entry box.
+
+## 4.  Ollama Prompts
+
+The output from each Ollama prompt is gathered and results are combined into a json file.  The dates of the selected professional experience are sorted and any missing dates are reported.  The final resume is converted from json to text, markdown, or Word.
+
+## 5. Review
+
+The new resume can be edited using special tools for adding or removing resume sections and publications.
+
+## 6. Submit Application
+
+Currently, the final cover letter and resume are then submitted manually.
+
+
+
+
+
+
+
+
+
+
