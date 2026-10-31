@@ -6,5 +6,5 @@
 
 * [Scripts to check URL links in webpages](https://github.com/NelsonPython/ai_prompts/blob/main/articles/curl_check_links.md)
   
-* [Towards Agentic AI Code the Docs](code_to_docs/agentic_docs) 
+* [Towards Agentic AI Code the Docs](agentic_docs/readme.md) 
 
