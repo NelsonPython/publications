@@ -8,7 +8,7 @@ This script processes job descriptions saved in the `job_desc/` folder. It evalu
 ### 2. Dependencies
 - Python 3.x
 - Requests
-- Ollama (API)
+- Ollama
 - `argparse` for command-line arguments
 
 ### 3. Installation
@@ -17,7 +17,7 @@ This script processes job descriptions saved in the `job_desc/` folder. It evalu
    pip install requests
    ```
 
-2. Download the Ollama model files from the [official Ollama repository](https://github.com/ollama/ollama) and place them in the appropriate directories (usually in `models/`).
+2. Download the Ollama model files from the [official Ollama repository](https://github.com/ollama/ollama).
 
 ### 4. Running the Script
 To run the script, use the following command:
