@@ -24,7 +24,7 @@ This Agentic Job Search app showcases a code-the-docs pipeline for generating co
 
 To begin, feed a job description into the pipeline.  Job descriptions can be found by using an API to download descriptions from a job board or by a simple copy-paste.
 
-A Python script launches an AI prompt to evaluate the target job to skip it if a security clearance is required.  Another AI prompt is used to summarize long job postings.  A third AI prompt is used to write a brief summary to head the resume and the last AI prompt generates a cover letter.
+A Python script launches an AI prompt for evaluating and filtering target jobs.  Another prompt is used to summarize long job postings.  A third AI prompt is used to write a brief summary to head the resume and the last AI prompt generates a cover letter.
 
 ## 2. AI Prompts
 
