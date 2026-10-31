@@ -3,7 +3,7 @@
 ## Step-by-Step Documentation
 
 ### 1. Script Overview
-This script processes job descriptions saved in the `job_desc/` folder. It evaluates whether the job requires a security clearance, uses both keyword searching and LLM via Ollama, summarizes key requirements into target categories, and saves the summarized job description to an output file.
+This script processes job descriptions saved in the `job_desc/` folder.  Using both keyword searching and LLM via Ollama, it evaluates whether the job requires a security clearance.  It also summarizes key requirements into target categories and saves the summarized job description to an output file.
 
 ### 2. Dependencies
 - Python 3.x
