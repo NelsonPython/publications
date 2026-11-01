@@ -51,7 +51,7 @@ Currently, the final cover letter and resume are then submitted manually.
 
 ## 7.  In Progress
 
-In order for the pipeline to function autonomously, the AI Prompts must yield clear and consistent results that have been validated.  Currently, the AI Prompts are written in text format.  A more structured format may prevent hallucinations because the model cannot consistently differentiate requirements from resume text.  Part 1:  Validating AI Prompts shows examples of hallucinations.
+In order for the pipeline to function autonomously, the AI Prompts must yield clear and consistent results that have been validated.  Currently, the AI Prompts are written in text format.  A more structured format may prevent hallucinations because the model cannot consistently differentiate requirements from resume text.  [Part 1:  Validating AI Prompts](https://github.com/NelsonPython/ai_prompts/blob/main/articles/validating_prompt_output.md) shows examples of hallucinations.
 
 
 
