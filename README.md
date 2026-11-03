@@ -2,7 +2,7 @@
 
 by Stacy D. Nelson (nickname "Cy Nelson")
 
-The role of technical writer is moving away from writing traditional documents to generating documentation and editing for accuracy.  This portfolio showcases my extensive history of technical publications, as well as new projects where I code the docs.
+*I approach technical writing through a modern lens, focusing on human-AI co-authoring.  By combining my background in software validation and linguistics with practical AI prompt engineering, I don't just write faster.  I build optimized prompting workflows that unlock a much deeper, more comprehensive research base. This allows me to accelerate documentation timelines while elevating the overall precision and quality of the final output.*
 
 ### BLOG
 
