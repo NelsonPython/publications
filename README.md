@@ -126,7 +126,7 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 
 ### Software validation guides
 
-* My methodology relies upon deep technical immersion:  I don't just interview developers, I collaborate with subject matter experts to stand up sandboxes and independently test software to map out every variable while gathering screen captures or making videos.  This exhaustive research and hands-on validation allows me to strip away ambiguity and deliver succinct, accurate, and meaningful how-to guides and training videos.*
+*My methodology relies upon deep technical immersion:  I don't just interview developers, I collaborate with subject matter experts to stand up sandboxes and independently test software to map out every variable while gathering screen captures or making videos.  This exhaustive research and hands-on validation allows me to strip away ambiguity and deliver succinct, accurate, and meaningful how-to guides and training videos.*
 
 * Answers to Software Validation Questions for Every GLP Lab. MassSpectator Magazine Issue 5 (SCIEX 2014)
 
