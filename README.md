@@ -16,9 +16,9 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 
 * [Jupyter Notebooks](code_to_docs/ipynb/readme.md) with interactive documentation.  More at [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
 
-* [Web Content Maintenance:  Can AI uncover broken links in your website?](https://github.com/NelsonPython/ai_prompts/blob/main/articles/part_1_can_ai_uncover_broken_links.md)
+* [Maintaining Web Links:  Can AI uncover broken links in your website?](https://github.com/NelsonPython/ai_prompts/blob/main/articles/part_1_can_ai_uncover_broken_links.md)
 
-* [Web Content Maintenance: HTTP Status Codes 403 and 405 Cause Automation Roadblocks](https://github.com/NelsonPython/ai_prompts/blob/main/articles/part_2_ai_advice_for_handling_http_403_405.md)
+* [Maintaining Web Links: How AI Helps Handle 403 and 405 Errors](https://github.com/NelsonPython/ai_prompts/blob/main/articles/part_2_ai_advice_for_handling_http_403_405.md)
 
 # Publications
 
