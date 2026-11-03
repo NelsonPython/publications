@@ -22,9 +22,86 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 
 *Throughout my career, from NASA to PromptMelodic, I have focused on translating high-consequence technical systems into high-impact documentation. My technical reports have directly secured industry awards and competitive funding.  My regulatory packages have passed every compliance audit without exception.*
 
-## Technical Guides
+## Software Training Courses
 
-### Cybersecurity guidance
+*My methodology relies upon deep technical immersion:  I don't just interview developers, I collaborate with subject matter experts to stand up sandboxes and independently test software to map out every variable while gathering screen captures or making videos.  This exhaustive research and hands-on validation allows me to strip away ambiguity and deliver succinct, accurate, and meaningful how-to guides and training videos.*
+
+* [IOTA Documentation – Version 1.0](https://docs.iota.org)
+
+* Code Style and Code Navigation (Amazon in-house 2023)
+
+* General Purpose GPU Programming (Amazon in-house 2023)
+
+* How to Schedule and Manage Jobs on HPC Clusters (On-premises and AWS Cloud) (Amazon in-house 2023)
+
+* Introduction to Git/GitHub and Git Best Practices for Software Developers (Amazon in-house 2023)
+
+* Managing Data Science Experiments for Autonomous Systems (Amazon in-house 2023)
+
+* QA and Software Release Management for Managers (Amazon in-house 2023)
+
+* Setting up a Development Environment with Virtual Machines (Amazon in-house 2023)
+
+* Train the Trainer: Developing Text and Video Training for Hybrid Workplaces (Amazon in-house 2023)
+
+### API documentation
+
+* [IOTA JSON-RPC Reference Version 1.0](https://docs.iota.org/iota-api-ref)
+
+### Blockchain training materials
+
+* [Connecting an IoT Device to I3 and IOTA.](https://blog.iota.org/connecting-an-iot-device-to-i3-and-iota-ddb724f2a662/)
+
+* [Introduction to IoT, I3, and IOTA.](https://blog.iota.org/intro-to-iot-i3-iota-633c1a2f0125/)
+
+* [USC Trojan Blockchain Society 2019 Speaker Event featuring the IOTA Coffee Supply Chain with the IOTA Data Marketplace](https://github.com/NelsonPython/USCTrojanBlockchainSocietyApr2019Meetup)
+
+### Capture The Flag (CTF) challenges
+
+* Challenges for forensic analysis of Modbus network traffic (2025)
+
+### Continuing education courses
+
+* [2023 PMI PDU course: Can AI be a Member of Your Team?](courses/pmi_course_AI_team_member/readme.md)
+
+* [2021 PMI PDU course: Learning to Learn: How Techniques for Human and Machine-Learning Can Accelerate Project Team Growth](courses/pmi_course_learning_to_learn/readme.md)
+
+---
+
+
+## System Guides for Intel® 
+
+* Intel® System Health Inspector User Guide. Intel® Customer Guide (2022)
+
+
+## Intel® Processor Tuning Guides
+
+* [Deep Learning Boost on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
+* [Intel® Distribution of OpenVINO™ Toolkit Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors Based Platform](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
+* [LAMMPS Tuning Guide on Platforms using 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
+* [Microsoft® SQL Server® Tuning Guide for Online Transaction Processing workload on 3rd Generation Intel® Xeon® Scalable Processors Based Platform](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
+*  [Open-Source Database Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
+* [Tuning Guide for Deep Learning with Intel® AVX512 and Intel® Deep Learning Boost on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
+* [Tuning Guide for Intel® Select Solutions for Genomics Analytics](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
+* [Tuning Guides for 3rd Generation Intel® Xeon® Scalable Processor Based Systems](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
+* [WordPress* Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
+
+* [La Guía para optimizar Intel® Select Solutions for Genomics Analytics en la Plataforma de Procesadores Escalables Intel® Xeon® de 3a Generación](espanol/la_guia_para_optimizar_genomics.pdf)
+
+* [La Guía para optimizar el LAMMPS en la Plataforma de Procesadores Escalables Intel® Xeon® de 3a Generación](espanol/la_guia_para_optimizar_LAMMPS.pdf)
+
+* [La Guía para optimizar el WordPress* en la Plataforma de Procesadores Escalables Intel® Xeon® de 3 a Generación](espanol/la_guia_para_optimizar_WordPress.pdf)
+
+
+## Cybersecurity Guides
 
 * [3 OT Zero Trust Defenses for SMB Manufacturing (TXOne Networks White Paper Design 4p 180722)](https://media.txone.com/prod/uploads/2022/08/3-OT-Zero-Trust-Defenses-for-SMB-Manufacturing-TXOne-WP-2208.pdf)
 
@@ -68,33 +145,8 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 
 * [To Secure Oil and Gas Critical Infrastructure, Nordics Shall Strengthen Defenses in Cyberspace (TXOne Networks Blog 2022)](published/ToSecureOil_GasCriticalInfrastructure_NordicsShallStrengthenDefensesinCyberspace.pdf)
 
-### Intel® processor tuning guides
 
-* [Deep Learning Boost on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
-
-* [Intel® Distribution of OpenVINO™ Toolkit Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors Based Platform](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
-
-* [LAMMPS Tuning Guide on Platforms using 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
-
-* [Microsoft® SQL Server® Tuning Guide for Online Transaction Processing workload on 3rd Generation Intel® Xeon® Scalable Processors Based Platform](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
-
-*  [Open-Source Database Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
-
-* [Tuning Guide for Deep Learning with Intel® AVX512 and Intel® Deep Learning Boost on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
-
-* [Tuning Guide for Intel® Select Solutions for Genomics Analytics](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
-
-* [Tuning Guides for 3rd Generation Intel® Xeon® Scalable Processor Based Systems](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
-
-* [WordPress* Tuning Guide on 3rd Generation Intel® Xeon® Scalable Processors](https://www.intel.com/content/www/us/en/developer/articles/guide/xeon-performance-tuning-and-solution-guides.html)
-
-* [La Guía para optimizar Intel® Select Solutions for Genomics Analytics en la Plataforma de Procesadores Escalables Intel® Xeon® de 3a Generación](espanol/la_guia_para_optimizar_genomics.pdf)
-
-* [La Guía para optimizar el LAMMPS en la Plataforma de Procesadores Escalables Intel® Xeon® de 3a Generación](espanol/la_guia_para_optimizar_LAMMPS.pdf)
-
-* [La Guía para optimizar el WordPress* en la Plataforma de Procesadores Escalables Intel® Xeon® de 3 a Generación](espanol/la_guia_para_optimizar_WordPress.pdf)
-
-### Project management guidance
+## Project Management Guidance
 
 * [It’s Chinese to Me, the PMP® (Project Management Institute 2016)](https://www.projectmanagement.com/articles/356283/it-s-chinese-to-me--the-pmp-sup----sup-#_)
 
@@ -102,7 +154,9 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 
 * Applying PMI Project Management Framework to Software Validation for GLP Laboratories (PMI Pharmaceutical Community of Practice Case Study)
 
-### Regulatory compliance guides
+---
+
+## Regulatory Compliance Guides
 
 * [Comparison of Global GLP Regulations Pertaining to LC/MS Instrument Software Validation. SCIEX Whitepaper (SCIEX 2013)](published/comparison_of_global_glp_regulations_pertaining_to_lc_ms_instrument_software_validation.pdf)
   
@@ -120,11 +174,11 @@ by Stacy D. Nelson (nickname "Cy Nelson")
   
 * The OT Zero Trust Guide to Compliance with the NIS Regulations (TXOne Networks 2022)
 
-### Risk assessment guidance
+### Risk Assessment Guidance
 
 * Fibonacci Sequences Improve GAMP 5® Risk Assessment for GLP Computerized Systems (SCIEX 2013)
 
-### Software validation guides
+### Software Validation Guides
 
 * Answers to Software Validation Questions for Every GLP Lab. MassSpectator Magazine Issue 5 (SCIEX 2014)
 
@@ -134,11 +188,8 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 
 * [Managing Security for the Analyst® Software on Stand Alone Windows 7 Workstations](published/managing_security_for_the_analyst_software_on_stand_alone_windows_7_workstations.pdf)
 
-### System guides for Intel® customers
 
-* Intel® System Health Inspector User Guide. Intel® Customer Guide (2022)
-
-### GLP software validation documentation
+### GLP Software Validation Documentation
 
 * SCIEX Analyst® Software Risk Assessment
 
@@ -162,6 +213,7 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 
 * Cybersecurity Policy and Procedure Recommendations for the GLP Laboratory
 
+
 ### Standard Operating Procedures
 
 * Standard Operating Procedures for Analyst® Software
@@ -169,6 +221,7 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 * Standard Operating Procedures for GLP Lab Cybersecurity
 
 * ISMS Mobile SOP for Mobile Device Security Template
+
 
 ### ISO/IEC 27001 Information Security Management System (ISMS) for Mobile Devices
 
@@ -190,51 +243,7 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 
 * Overview ISMS for Mobile Devices – presentation
 
-## Training Courses
-
-### API documentation
-
-* [IOTA JSON-RPC Reference Version 1.0](https://docs.iota.org/iota-api-ref)
-
-### Blockchain training materials
-
-* [Connecting an IoT Device to I3 and IOTA.](https://blog.iota.org/connecting-an-iot-device-to-i3-and-iota-ddb724f2a662/)
-
-* [Introduction to IoT, I3, and IOTA.](https://blog.iota.org/intro-to-iot-i3-iota-633c1a2f0125/)
-
-* [USC Trojan Blockchain Society 2019 Speaker Event featuring the IOTA Coffee Supply Chain with the IOTA Data Marketplace](https://github.com/NelsonPython/USCTrojanBlockchainSocietyApr2019Meetup)
-
-### Capture The Flag (CTF) challenges
-
-* Challenges for forensic analysis of Modbus network traffic (2025)
-
-### Continuing education courses
-
-* [2023 PMI PDU course: Can AI be a Member of Your Team?](courses/pmi_course_AI_team_member/readme.md)
-
-* [2021 PMI PDU course: Learning to Learn: How Techniques for Human and Machine-Learning Can Accelerate Project Team Growth](courses/pmi_course_learning_to_learn/readme.md)
-
-### Software training courses
-
-*My methodology relies upon deep technical immersion:  I don't just interview developers, I collaborate with subject matter experts to stand up sandboxes and independently test software to map out every variable while gathering screen captures or making videos.  This exhaustive research and hands-on validation allows me to strip away ambiguity and deliver succinct, accurate, and meaningful how-to guides and training videos.*
-
-* [IOTA Documentation – Version 1.0](https://docs.iota.org)
-
-* Code Style and Code Navigation (Amazon in-house 2023)
-
-* General Purpose GPU Programming (Amazon in-house 2023)
-
-* How to Schedule and Manage Jobs on HPC Clusters (On-premises and AWS Cloud) (Amazon in-house 2023)
-
-* Introduction to Git/GitHub and Git Best Practices for Software Developers (Amazon in-house 2023)
-
-* Managing Data Science Experiments for Autonomous Systems (Amazon in-house 2023)
-
-* QA and Software Release Management for Managers (Amazon in-house 2023)
-
-* Setting up a Development Environment with Virtual Machines (Amazon in-house 2023)
-
-* Train the Trainer: Developing Text and Video Training for Hybrid Workplaces (Amazon in-house 2023)
+---
 
 ## Technical Reports – NASA
 
@@ -299,6 +308,8 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 * [NASA/TR 2004-212805 Survey of Software Assurance Techniques for Highly Reliable Systems. NASA Ames Research Center.](https://ntrs.nasa.gov/search?title=Survey%20of%20Software%20Assurance%20Techniques%20for%20Highly%20Reliable%20Systems&author=Nelson,%20Stacy&page=%7B%22from%22:0,%22size%22:25%7D)
 
 * [What Makes Code Review Trustworthy? Nelson and Schumann, Hawaii International Conference On System Sciences, HICSS 04.](https://ui.adsabs.harvard.edu/abs/2004hics.conf..594N/abstract)
+
+---
 
 ## Marketing Research and Sales Support Documentation
 
@@ -379,8 +390,3 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 * What are Cyber Threats and Vulnerabilities? (TXOne Networks 2024)
 
 * Zero Trust Philosophy Demystified (NIST SP 800-207 explained) (TXOne Networks 2024)
-
-
-
-
-  
