@@ -2,7 +2,7 @@
 
 # Agentic Job Search Experiments
 
-Goal:  Build an AI-powered resume & cover letter pipeline.
+**Goal:**  Build an AI-powered resume & cover letter pipeline.
 
 ## 1. Job Description Ingestion & Filtering
 
