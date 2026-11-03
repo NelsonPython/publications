@@ -12,7 +12,7 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 
 * Auto-generated [Cybersecurity Maturity Model Certification (CMMC 2.0)](code_to_docs/CMMC/readme.md) compliance templates
 
-* [Broken Link Reporter](https://github.com/NelsonPython/ai_prompts/blob/main/articles/curl_check_links.md)
+* [Web Content Maintenance:  Broken Link Reporter](https://github.com/NelsonPython/ai_prompts/blob/main/articles/curl_check_links.md)
 
 * [From Code to Docs](code_to_docs/agentic_docs/readme.md)
 
