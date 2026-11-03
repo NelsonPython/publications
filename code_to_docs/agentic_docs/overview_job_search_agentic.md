@@ -1,4 +1,6 @@
-# Agentic Job Search: Building an AI-Powered Resume & Cover Letter Pipeline
+# Agentic Job Search 
+
+Building an AI-Powered Resume & Cover Letter Pipeline.
 
 ## 1. Job Description Ingestion & Filtering
 
