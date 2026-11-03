@@ -1,10 +1,9 @@
-# Code To Docs
+### Code The Docs
 
-* Auto-generated [Cybersecurity Maturity Model Certification (CMMC 2.0) compliance templates](CMMC/readme.md)
+* Auto-generated [Cybersecurity Maturity Model Certification (CMMC 2.0)](CMMC/readme.md) compliance templates
 
-* [Jupyter Notebooks with interactive documentation](ipynb/readme.md).  View [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
+* [Web Content Maintenance:  Broken Link Reporter](https://github.com/NelsonPython/ai_prompts/blob/main/articles/curl_check_links.md)
 
-* [Scripts to check URL links in webpages](https://github.com/NelsonPython/ai_prompts/blob/main/articles/curl_check_links.md)
-  
-* [Towards Agentic AI Coding the Docs](agentic_docs/readme.md) 
+* [AI Prompt Engineering for Code to Docs](agentic_docs/readme.md)
 
+* [Jupyter Notebooks](ipynb/readme.md) with interactive documentation.  More at [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
