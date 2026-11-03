@@ -28,9 +28,13 @@ See [Part 2: Validating AI Prompts](https://github.com/NelsonPython/ai_prompts/b
 
 Outputs from each prompt are matched against sections of the master resume to ensure validated content. The new resume data is stored in **JSON**.  The dates of relevant Professional Experience are automatically sorted and any missing dates are flagged. The new resume is compiled into text, Markdown, or Word formats.
 
+#### Approach 3:
+
+The output from the RAG pipeline contained well-formatted json so the gathering script retrofitted it to the existing pipeline.  If Approach 3 proves reliable, the gathering script and downstream processing will be updated.
+
 ## 4. Review & Custom Management Tools
 
-While human review remains essential, traditional manual editing in Word is time-consuming and error-prone. To streamline this, a specialized tool allows for adding or removing resume sections interactively and saving changes directly back into the JSON structure.
+While human review remains essential, manually editing Word documents is time-consuming and error-prone. To streamline this, a specialized tool allows for adding or removing resume sections interactively and saving changes directly back into the JSON structure.
 
 ## 5. Submission
 
@@ -38,9 +42,9 @@ The final, polished cover letter and resume are submitted manually to ensure com
 
 ## 6. Current Horizon: Conquering Hallucinations
 
-For the pipeline to achieve full autonomy, AI prompts must consistently deliver clear, validated results. Results achieved using Approach 1 have been disappointing.  Models often hallucinate matching skills rather than accurately finding skills in the resume.  See [Part 1: Validating AI Prompts](https://github.com/NelsonPython/ai_prompts/blob/main/articles/part_1_validating_ai_prompt.md) for details.
+The first step towards full autonomy are AI prompts that consistently deliver clear, validated results. Results achieved using Approach 1 have been disappointing.  Models often hallucinate matching skills rather than accurately finding skills in the resume.  See [Part 1: Validating AI Prompts](https://github.com/NelsonPython/ai_prompts/blob/main/articles/part_1_validating_ai_prompt.md) for details.
 
-Approach 3 aims to improve accuracy by transitioning to more structured prompts. See [Part 2: Validating AI Prompts](https://github.com/NelsonPython/ai_prompts/blob/main/articles/part_2_validating_ai_prompt.md) for details.
+Approach 3 aims to improve accuracy by transitioning to more structured prompts. See [Part 2: Validating AI Prompts](https://github.com/NelsonPython/ai_prompts/blob/main/articles/part_2_validating_ai_prompt.md) for details.  *To be continued...*
 
 
 
