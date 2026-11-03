@@ -16,7 +16,7 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 
 * [From Code to Docs](code_to_docs/agentic_docs/readme.md)
 
-* [Jupyter Notebooks](code_to_docs/ipynb/readme.md) with interactive documentation.  View [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
+* [Jupyter Notebooks](code_to_docs/ipynb/readme.md) with interactive documentation.  More at [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
 
 # Publications
 
