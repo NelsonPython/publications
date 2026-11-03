@@ -14,7 +14,7 @@ Rather than treating a resume as a single monolithic block of text, the system u
 
 #### Approach 2: The Gemini Prompt
 
-Because cloud models like Gemini significantly outperform local Ollama models running on a virtual machine, the pipeline compiles a specialized prompt for Gemini’s input box. The resulting output is pasted back into a full resume model and parsed cleanly into structured sections.
+Because cloud models like Gemini significantly outperform local Ollama models running on a virtual machine, the pipeline compiles a specialized prompt for Gemini’s input box. The resulting output is pasted into the `Gemini Prompt Parser` and parsed cleanly into structured sections.
 
 #### Approach 3:  Vector database
 
