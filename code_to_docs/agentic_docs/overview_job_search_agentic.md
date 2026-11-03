@@ -1,3 +1,5 @@
+<img src="images/agent_code_docs.jpg" width=1000 height=250>
+
 # Agentic Job Search Experiments
 
 Goal:  Build an AI-powered resume & cover letter pipeline.
