@@ -2,7 +2,7 @@
 
 # Agentic Job Search Experiments
 
-**Goal:**  Build an AI Agent that matches skills to job openings and generates tailored cover letters and resumes. 
+**Goal:**  Build an Agentic AI pipeline that matches skills to job openings and generates tailored cover letters and resumes. 
 
 ## 1. Job Description Ingestion & Filtering
 
