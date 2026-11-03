@@ -2,7 +2,7 @@
 
 by Stacy D. Nelson (nickname "Cy Nelson")
 
-*I approach technical writing through a modern lens, focusing on human-AI co-authoring.  By combining my background in software validation and linguistics with practical AI prompt engineering, I don't just write faster.  I build optimized prompting workflows that unlock a much deeper, more comprehensive research base. This allows me to accelerate documentation timelines while elevating the overall precision and quality of the final output.*
+*I approach technical writing through a modern lens, focusing on Human-AI co-authoring.  By combining my background in software validation and linguistics with practical AI prompt engineering, I don't just write faster.  I build optimized prompting workflows that unlock a much deeper, more comprehensive research base. This allows me to accelerate documentation timelines while elevating the overall precision and quality of the final output.*
 
 ### BLOG
 
