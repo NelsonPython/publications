@@ -14,13 +14,13 @@ Rather than treating a resume as a single monolithic block of text, the system u
 
 #### Approach 2: The Gemini Prompt
 
-Because cloud models like Gemini significantly outperform local Ollama models running on a virtual machine, the pipeline compiles a specialized prompt for Gemini’s input box. The resulting output is pasted into the `Gemini Prompt Parser` and parsed cleanly into structured sections.
+Because cloud models like Gemini significantly outperform local Ollama models running on a virtual machine, the pipeline compiles a specialized prompt for Gemini’s input box. The resulting output is pasted into the `Gemini Prompt Parser` and parsed cleanly into structured sections ready for Step 3. Gathering, Sorting, and Formatting.
 
 #### Approach 3:  Vector database
 
 See [Part 2: Validating AI Prompts](https://github.com/NelsonPython/ai_prompts/blob/main/articles/part_2_validating_ai_prompt.md) for details.
 
-## 3. Gathering, Sorting, & JSON Validation
+## 3. Gathering, Sorting, & Formatting
 
 #### Approach 1:
 
