@@ -73,7 +73,7 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 
 ## System Guides for Intel® 
 
-* Intel® System Health Inspector User Guide. Intel® Customer Guide (2022)
+* *Intel® System Health Inspector User Guide*. Intel® Customer Guide (2022)
 
 
 ## Intel® Processor Tuning Guides
