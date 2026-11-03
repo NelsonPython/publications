@@ -18,6 +18,8 @@ Because cloud models like Gemini significantly outperform local Ollama models ru
 
 #### Approach 3:  Vector database
 
+See [Part 2: Validating AI Prompts](https://github.com/NelsonPython/ai_prompts/blob/main/articles/part_2_validating_ai_prompt.md) for details.
+
 ## 3. Gathering, Sorting, & JSON Validation
 
 #### Approach 1:
@@ -36,9 +38,9 @@ Currently, the final, polished cover letter and resume are submitted manually to
 
 For the pipeline to achieve full autonomy, AI prompts must consistently deliver clear, validated results. 
 
-Results achieved using Approach 1 have been disappointing.  Models often hallucinate skills that match requirements rather than accurately matching skills from the resume.
+Results achieved using Approach 1 have been disappointing.  Models often hallucinate skills that match requirements rather than accurately matching skills from the resume.  [Part 1: Validating AI Prompts](https://github.com/NelsonPython/ai_prompts/blob/main/articles/part_1_validating_ai_prompt.md) for details.
 
-Approach 3 aims to improve accuracy by transitioning to more structured prompts. See [Part 1: Validating AI Prompts](https://github.com/NelsonPython/ai_prompts/blob/main/articles/validating_prompt_output.md) for details.
+Approach 3 aims to improve accuracy by transitioning to more structured prompts. See [Part 2: Validating AI Prompts](https://github.com/NelsonPython/ai_prompts/blob/main/articles/part_2_validating_ai_prompt.md) for details.
 
 
 
