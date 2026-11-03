@@ -20,6 +20,8 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 
 # Publications
 
+*Throughout my career, from NASA to PromptMelodic, I have focused on translating high-consequence technical systems into high-impact documentation. My technical reports have directly secured industry awards and competitive funding.  My regulatory packages have passed every compliance audit without exception.*
+
 ## Technical Guides
 
 ### Cybersecurity guidance
@@ -123,6 +125,8 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 * Fibonacci Sequences Improve GAMP 5® Risk Assessment for GLP Computerized Systems (SCIEX 2013)
 
 ### Software validation guides
+
+* My methodology relies upon deep technical immersion:  I don't just interview developers, I collaborate with subject matter experts to stand up sandboxes and independently test software to map out every variable while gathering screen captures or making videos.  This exhaustive research and hands-on validation allows me to strip away ambiguity and deliver succinct, accurate, and meaningful how-to guides and training videos.*
 
 * Answers to Software Validation Questions for Every GLP Lab. MassSpectator Magazine Issue 5 (SCIEX 2014)
 
