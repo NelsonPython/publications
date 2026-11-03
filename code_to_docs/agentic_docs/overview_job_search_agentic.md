@@ -1,4 +1,4 @@
-# Agentic Job Search 
+# Agentic Job Search Experiments
 
 Building an AI-Powered Resume & Cover Letter Pipeline.
 
