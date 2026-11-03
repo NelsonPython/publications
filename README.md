@@ -14,7 +14,7 @@ by Stacy D. Nelson (nickname "Cy Nelson")
 
 * [Web Content Maintenance:  Broken Link Reporter](https://github.com/NelsonPython/ai_prompts/blob/main/articles/curl_check_links.md)
 
-* [From Code to Docs](code_to_docs/agentic_docs/readme.md)
+* [AI Prompt Engineering for Code to Docs](code_to_docs/agentic_docs/readme.md)
 
 * [Jupyter Notebooks](code_to_docs/ipynb/readme.md) with interactive documentation.  More at [NelsonData Kaggle Notebooks](https://www.kaggle.com/nelsondata)
 
