@@ -6,7 +6,7 @@ This script is a FastMCP server designed to handle various job-related inquiries
 
 ### keyword_clearance_search
 
-This tool performs a fast keyword search for explicit security clearance terms in the job text.
+This tool performs a fast keyword search for specific security clearance terms found in the job text.
 
 ```python
 mcp.tool()
@@ -145,5 +145,3 @@ Format requirements:
     except Exception as e:
         return json.dumps({"error": f"Failed to summarize job description: {e}"})
 ```
-
-search, semantic clearance evaluation, and summarizing job requirements.
