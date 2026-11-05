@@ -16,7 +16,7 @@ Software documentation for the **[Agentic Job Search](overview_job_search_agenti
 
 ## Software User Guides
 
-[formulate_cover_summary.py](formulate_cover_summary.md)
+[formulate_cover_summary.py](formulate_cover_summary.md) - writes a summary for the resume header and a cover letter
 
 [formulate_job_desc.py](formulate_job_desc.md) - filters and summarizes a job description
 
