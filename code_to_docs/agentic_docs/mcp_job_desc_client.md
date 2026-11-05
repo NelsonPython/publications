@@ -20,11 +20,13 @@ async def run_pipeline():
 
 #### 3. Configure MCP Server Subprocess
 
+[mcp_job_desc_server.py](mcp_job_desc_server.py) runs as a subprocess.
+
 ```python
     # 1. Configure the MCP server subprocess
     server_params = StdioServerParameters(
         command=sys.executable,
-        args=["test_mcp_formulate_server.py"],
+        args=["mcp_job_desc_server.py"],
     )
 ```
 
