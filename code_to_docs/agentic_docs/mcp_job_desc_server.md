@@ -1,87 +1,92 @@
 # mcp_job_desc_server.py
 
 ## Overview
+This script implements a FastMCP server for job description analysis, enabling the execution of various tools to assess and prioritize security clearance requirements within job descriptions.
 
-This Python script provides a FastMCP instance for processing job descriptions using various tools and techniques. The FastMCP is designed to handle complex tasks such as keyword clearance search, semantic LLM-based evaluation, and job requirement summarization.
+## Dependencies
+- **FastMCP**: A library for implementing machine learning models using FastAPI.
+- **json**: Python's built-in JSON module for handling JSON data.
+- **urllib.request**: Python's built-in library for making HTTP requests.
 
-## Installation
-
-To run this script, you need to have the FastMCP library installed. You can install it using pip:
-
+## Running the Script
+To run the script, ensure you have the following dependencies installed:
 ```bash
 pip install fastmcp
 ```
 
-## Usage
-
-### Setting Up the FastMCP Server
-
-First, you need to set up the FastMCP server. You can do this by running the following command:
-
-```bash
-mcp --setup
-```
-
-This command initializes the FastMCP server and sets up the necessary components.
-
-### Running the Script
-
-To run the script, you can use the following command:
-
+Then, execute the script using:
 ```bash
 python mcp_job_desc_server.py
 ```
 
-This command starts the FastMCP server, which will listen for incoming requests and process the job descriptions accordingly.
+## Script Documentation
+### `keyword_clearance_search`
+**Description**: Performs a fast keyword search for explicit security clearance terms in the job text.
 
-### Tools and Techniques
+**Arguments**:
+- `job_text`: The job description text to be analyzed.
 
-#### Keyword Clearance Search
+**Returns**:
+- A JSON object with:
+  - `pursue`: A boolean indicating whether to pursue the clearance requirement (false if a keyword is found, true otherwise).
+  - `method`: The method used to determine the clearance requirement.
+  - `reason`: A string explaining the reason for pursuing the clearance requirement.
 
-The `keyword_clearance_search` tool performs a fast keyword search for explicit security clearance terms in the job text. It checks for terms like "classified", "top secret", "secret clearance", and "dod" and returns whether a security clearance is required.
-
-#### Semantic Clearance Search
-
-The `semantic_clearance_search` tool performs a semantic LLM-based evaluation using Ollama to check if a security clearance is required. It uses the specified model to analyze the job text and determine if a security clearance is necessary.
-
-#### Summarize Job Requirements
-
-The `summarize_job_requirements` tool summarizes key job requirements and skills into streamlined categories. It categorizes each requirement under one of the specified category keys and formats the output as JSON.
-
-### Example Usage
-
-Here's an example of how to use the `summarize_job_requirements` tool:
-
-```python
-from fastmcp import FastMCP
-
-mcp = FastMCP("Job Processing Server")
-
-job_description = """
-Must hold an active Secret Clearance.
-Must have a dedicated home office and pass a background check.
-Citizenship required.
-Public trust is preferred.
-"""
-
-summary = mcp.summarize_job_requirements(job_description)
-
-print(summary)
+**Example**:
+```json
+{
+  "pursue": false,
+  "method": "keyword",
+  "reason": "Found explicit clearance keywords: ['classified', 'secret clearance']"
+}
 ```
 
-This will output the summarized job requirements and skills as JSON.
+### `semantic_clearance_search`
+**Description**: Performs a semantic LLM-based evaluation using Ollama to check if a security clearance is required.
 
-## API Endpoints
+**Arguments**:
+- `job_text`: The job description text to be analyzed.
+- `model`: The name of the Ollama model to use (default is "llama3.2:latest").
 
-The FastMCP server provides the following API endpoints:
+**Returns**:
+- A JSON object with:
+  - `pursue`: A boolean indicating whether to pursue the clearance requirement (false if no explicit keyword is found, true otherwise).
+  - `method`: The method used to determine the clearance requirement.
+  - `reason`: A string explaining the reason for pursuing the clearance requirement.
 
-- **GET /api/prompt**: Get a prompt definition for a specific tool.
-- **POST /api/job_desc**: Process a job description using the FastMCP server.
+**Example**:
+```json
+{
+  "pursue": true,
+  "method": "semantic",
+  "reason": "No secret clearance keywords found via keyword search"
+}
+```
 
-### Prompt Definitions
+### `summarize_job_requirements`
+**Description**: Summarizes key job requirements and skills into streamlined categories.
 
-The FastMCP server provides prompt definitions for each tool using the `keyword_clearance_search`, `semantic_clearance_search`, and `summarize_job_requirements` functions. These prompt definitions are defined in the script and can be customized as needed.
+**Arguments**:
+- `job_text`: The job description text to be analyzed.
+- `model`: The name of the Qwen model to use (default is "qwen2.5-coder:1.5b").
 
-## Conclusion
+**Returns**:
+- A string containing the categorized requirements in JSON format.
 
-The `mcp_job_desc_server.py` script provides a comprehensive solution for processing job descriptions using various tools and techniques. With its fast keyword search, semantic LLM-based evaluation, and job requirement summarization capabilities, it can be used to automate the job description processing process and improve efficiency.
+**Example**:
+```json
+[
+  "must_haves",
+  "nice_to_haves",
+  "core_responsibilities",
+  "tech_stack"
+]
+```
+
+### Running the Server
+To run the server, execute the script using:
+```bash
+python mcp_job_desc_server.py
+```
+
+This server will listen on the default port and provide endpoints for each of the tools defined in the script.
