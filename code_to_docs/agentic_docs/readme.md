@@ -1,6 +1,6 @@
 <img src="images/agent_code_docs.jpg" width=1000 height=250>
 
-## AI Prompt Engineering for Code to Docs
+## AI Prompt Engineering for Code-to-Docs
 
 Software documentation for **[Agentic Job Search](overview_job_search_agentic.md)** is generated automatically via this structured prompt processed by a local Ollama model, `qwen2.5-coder:1.5b`.  Using the Model Context Protocol (MCP) streamlines the workflow.
 
@@ -23,9 +23,9 @@ Software documentation for **[Agentic Job Search](overview_job_search_agentic.md
 [mcp_job_desc_server.md](mcp_job_desc_server.md) - filters and summarizes a job description
 
 
-## Agentic AI Code to Docs Pipeline Overview
+## Agentic AI Code-to-Docs Pipeline
 
-When a Python script is checked into Github, the documentation for the script is generated and stored in the repo docs folder as markdown so the commit uploads both the code and the documentation in a single step.  Reviewers have immediate access to the documentation when reviewing the code before approving the pull request.  
+The Agentic AI code-to-docs pipeline is essentially the same as checking in code with the added benefit of auto-generated documentation.  For example, write a Python script, generate the documentation, stage changes, commit changes, push changes, open a pull request. 
 
 **Disclaimer:**  Sample code designed to show an Agentic AI code to docs pipeline.
 
