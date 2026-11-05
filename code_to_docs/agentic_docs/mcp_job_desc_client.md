@@ -132,6 +132,35 @@ SUMMARY:
 The `mcp_job_desc_client.py` script is designed to process a job description using an MCP server. It explicitly calls keyword and semantic clearance searches to filter out non-applicable job descriptions. After passing the clearance checks, it uses a summarization tool to generate a concise summary of the job requirements. The summary is then optionally saved to a file. The script handles the MCP server subprocess and ensures that the MCP session is properly initialized and closed.
 ```
 
+```
+
+ ╭──────────────────────────────────────────────────────────────────────────────╮ 
+ │                                                                              │ 
+ │                                                                              │ 
+ │                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │ 
+ │                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │ 
+ │                                                                              │ 
+ │                                                                              │ 
+ │                                                                              │ 
+ │                                FastMCP 4.1.6                                 │ 
+ │                            https://gofastmcp.com                             │ 
+ │                                                                              │ 
+ │                 🖥  Server:      Job Processing Server, 4.1.6                 │ 
+ │                 🚀 Deploy free: https://horizon.prefect.io                   │ 
+ │                                                                              │ 
+ ╰──────────────────────────────────────────────────────────────────────────────╯ 
+
+
+[11/05/26 04:01:15] INFO     Starting MCP server 'Job Processing  transport.py:241
+                             Server' with transport 'stdio'                       
+Processing job description...
+
+-> Running keyword clearance search...
+-> Running semantic clearance search...
+[REJECTED via Semantic]: Requires active Secret Clearance
+
+```
+
 
 
 
