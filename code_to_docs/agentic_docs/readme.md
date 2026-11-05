@@ -20,4 +20,9 @@ Software documentation for the **[Agentic Job Search](overview_job_search_agenti
 
 [formulate_cover_summary.py](formulate_cover_summary.md)
 
+[mcp_job_desc_client.md](mcp_job_desc_client.md)
+
+[mcp_job_desc_server.md](mcp_job_desc_server.md)
+
+
 
