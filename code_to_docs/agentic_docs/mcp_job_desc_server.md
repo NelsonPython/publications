@@ -1,6 +1,6 @@
 # mcp_job_desc_server.py
 
-This script is a FastMCP server designed to handle various job-related inquiries. The server includes tools for keyword clearance search, semantic clearance evaluation using Ollama, and summarizing job requirements into streamlined categories.  This script is run as a subprocess of [mcp_job_desc_client.py]([mcp_job_desc_client.md)
+This script is a FastMCP server designed to handle various job-related inquiries. The server includes tools for keyword clearance search, semantic clearance evaluation using Ollama, and summarizing job requirements into streamlined categories.  This script is run as a subprocess of [mcp_job_desc_client.py](mcp_job_desc_client.md)
 
 ## Tools
 
