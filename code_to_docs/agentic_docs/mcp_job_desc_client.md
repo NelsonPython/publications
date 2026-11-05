@@ -20,7 +20,7 @@ async def run_pipeline():
 
 #### 3. Configure MCP Server Subprocess
 
-[mcp_job_desc_server.py](mcp_job_desc_server.py) runs as a subprocess.
+[mcp_job_desc_server.py](mcp_job_desc_server.md) runs as a subprocess.
 
 ```python
     # 1. Configure the MCP server subprocess
