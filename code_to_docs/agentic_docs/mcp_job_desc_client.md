@@ -66,7 +66,7 @@ async def run_pipeline():
             summary_output = summary_result.content[0].text
 ```
 
-#### 9. Report with the Requested SUMMARY: Prefix
+#### 9. Report with Job Description Summary
 
 ```python
             # Report with the requested SUMMARY: prefix
