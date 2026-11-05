@@ -24,7 +24,7 @@ async def run_pipeline():
     # 1. Configure the MCP server subprocess
     server_params = StdioServerParameters(
         command=sys.executable,
-        args=["test_mcp_formulate_server.py"], # Make sure this matches your server script name
+        args=["test_mcp_formulate_server.py"],
     )
 ```
 
