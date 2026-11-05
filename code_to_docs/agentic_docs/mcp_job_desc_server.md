@@ -4,26 +4,6 @@
 
 This Python script provides a FastMCP instance for processing job descriptions using various tools and techniques. The FastMCP is designed to handle complex tasks such as keyword clearance search, semantic LLM-based evaluation, and job requirement summarization.
 
-## Installation
-
-To run this script, you need to have the FastMCP library installed. You can install it using pip:
-
-```bash
-pip install fastmcp
-```
-
-## Usage
-
-### Setting Up the FastMCP Server
-
-First, you need to set up the FastMCP server. You can do this by running the following command:
-
-```bash
-mcp --setup
-```
-
-This command initializes the FastMCP server and sets up the necessary components.
-
 ### Running the Script
 
 To run the script, you can use the following command:
