@@ -23,4 +23,9 @@ Software documentation for **[Agentic Job Search](overview_job_search_agentic.md
 [mcp_job_desc_server.md](mcp_job_desc_server.md) - filters and summarizes a job description
 
 
+## Agentic AI Code to Docs Pipeline Overview
+
+When a Python script is checked into Github, the documentation for the script is generated and stored in the repo docs folder as markdown so the commit uploads both the code and the documentation in a single step.  Reviewers have immediate access to the documentation when reviewing the code before approving the pull request.  
+
+**Disclaimer:**  Sample code designed to show an Agentic AI code to docs pipeline.
 
