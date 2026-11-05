@@ -86,6 +86,48 @@ if __name__ == "__main__":
     asyncio.run(run_pipeline())
 ```
 
+## Example - No Secret Clearance Required
+
+ ╭──────────────────────────────────────────────────────────────────────────────╮ 
+ │                                                                              │ 
+ │                                                                              │ 
+ │                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │ 
+ │                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │ 
+ │                                                                              │ 
+ │                                                                              │ 
+ │                                                                              │ 
+ │                                FastMCP 4.1.6                                 │ 
+ │                            https://gofastmcp.com                             │ 
+ │                                                                              │ 
+ │                 🖥  Server:      Job Processing Server, 4.1.6                 │ 
+ │                 🚀 Deploy free: https://horizon.prefect.io                   │ 
+ │                                                                              │ 
+ ╰──────────────────────────────────────────────────────────────────────────────╯ 
+
+
+[11/05/26 03:53:35] INFO     Starting MCP server 'Job Processing  transport.py:241
+                             Server' with transport 'stdio'                       
+Processing job description...
+
+-> Running keyword clearance search...
+-> Running semantic clearance search...
+[APPROVED]: Clearance check passed.
+
+-> Running requirement summarization...
+
+SUMMARY:
+{
+  "must_haves": ["Python"],
+  "nice_to_haves": ["MCP", "RAG"],
+  "tech_stack": ["Python"],
+  "core_responsibilities": ["Develop AI agents for reading and summarizing Slack channel conversations", "Utilize Python for coding and machine learning", "Work with MCP and RAG technologies", "Ensure efficient coding and problem-solving skills"]
+}
+
+[SAVED]: Summary written to job_desc/sample.job
+
+
 ### Summary
 
 The `mcp_job_desc_client.py` script is designed to process a job description using an MCP server. It explicitly calls keyword and semantic clearance searches to filter out non-applicable job descriptions. After passing the clearance checks, it uses a summarization tool to generate a concise summary of the job requirements. The summary is then optionally saved to a file. The script handles the MCP server subprocess and ensures that the MCP session is properly initialized and closed.
+
+
