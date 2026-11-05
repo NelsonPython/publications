@@ -16,13 +16,13 @@ Software documentation for the **[Agentic Job Search](overview_job_search_agenti
 
 ## Software User Guides
 
-[formulate_job_desc.py](formulate_job_desc.md)
-
 [formulate_cover_summary.py](formulate_cover_summary.md)
 
-[mcp_job_desc_client.md](mcp_job_desc_client.md)
+[formulate_job_desc.py](formulate_job_desc.md) - filters and summarizes a job description
 
-[mcp_job_desc_server.md](mcp_job_desc_server.md)
+[mcp_job_desc_client.md](mcp_job_desc_client.md) - uses MCP to send a job description to mcp_job_desc_server.py for processing
+
+[mcp_job_desc_server.md](mcp_job_desc_server.md) - filters and summarizes a job description
 
 
 
