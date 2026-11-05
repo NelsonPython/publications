@@ -19,7 +19,7 @@ Software documentation for **[Agentic Job Search](overview_job_search_agentic.md
 
 ## Agentic AI Code-to-Docs Pipeline
 
-The Agentic AI code-to-docs pipeline is essentially the same as checking in code with the added benefit of auto-generated documentation.  For example, write a Python script, generate the documentation, and push changes, then open a pull request. Using the Model Context Protocol (MCP) streamlines documentation generation. 
+The pipeline is essentially the same as checking in code to GitHub with the added benefit of auto-generated documentation.  For example, suppose you write a Python script.  To generate documentation, run the docs_gen.py script to ingest the code and output a step-by-step user guide.  When you push changes and open a pull request, both the script and the docs will be reviewed.  Using the AI Prompt is a workable method for coding the docs, but using the Model Context Protocol (MCP) streamlines the generation process. 
 
 [mcp_job_desc_client.py](mcp_job_desc_client.md) - uses MCP to send a job description to mcp_job_desc_server.py for processing
 
