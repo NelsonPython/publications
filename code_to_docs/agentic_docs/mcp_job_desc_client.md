@@ -86,9 +86,12 @@ if __name__ == "__main__":
     asyncio.run(run_pipeline())
 ```
 
-## Example - No Secret Clearance Required
+### Example - No Secret Clearance Required
+
+job_text = "We are looking for a Senior AI Engineer to develop an AI agent for summarizing Slack channel threads.  Must have Python.  MCP and RAG, a plus."
 
 ```
+
  ╭──────────────────────────────────────────────────────────────────────────────╮ 
  │                                                                              │ 
  │                                                                              │ 
@@ -106,7 +109,7 @@ if __name__ == "__main__":
  ╰──────────────────────────────────────────────────────────────────────────────╯ 
 
 
-[11/05/26 03:53:35] INFO     Starting MCP server 'Job Processing  transport.py:241
+[11/05/26 04:03:03] INFO     Starting MCP server 'Job Processing  transport.py:241
                              Server' with transport 'stdio'                       
 Processing job description...
 
@@ -118,19 +121,28 @@ Processing job description...
 
 SUMMARY:
 {
-  "must_haves": ["Python"],
-  "nice_to_haves": ["MCP", "RAG"],
-  "tech_stack": ["Python"],
-  "core_responsibilities": ["Develop AI agents for reading and summarizing Slack channel conversations", "Utilize Python for coding and machine learning", "Work with MCP and RAG technologies", "Ensure efficient coding and problem-solving skills"]
+  "core_responsibilities": [
+    "Develop an AI agent for summarizing Slack channel threads",
+    "Contribute to the development and optimization of AI models",
+    "Utilize Python and other relevant technologies"
+  ],
+  "must_haves": [
+    "Python proficiency",
+    "Knowledge of MCP and RAG (Machine-Centric Querying and Retrieval)",
+    "Experience with AI development frameworks and libraries"
+  ],
+  "nice_to_haves": [
+    "Knowledge of machine learning and natural language processing",
+    "Experience with AI ethical guidelines and considerations",
+    "Ability to work with distributed and scalable systems"
+  ]
 }
 
 [SAVED]: Summary written to job_desc/sample.job
-
-
-### Summary
-
-The `mcp_job_desc_client.py` script is designed to process a job description using an MCP server. It explicitly calls keyword and semantic clearance searches to filter out non-applicable job descriptions. After passing the clearance checks, it uses a summarization tool to generate a concise summary of the job requirements. The summary is then optionally saved to a file. The script handles the MCP server subprocess and ensures that the MCP session is properly initialized and closed.
 ```
+### Example - Secret Clearance Required
+
+job_text = "We are looking for a Senior AI Engineer for a confidential government project.  Must have Python."
 
 ```
 
