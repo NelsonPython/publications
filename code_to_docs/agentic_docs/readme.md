@@ -2,7 +2,7 @@
 
 ## AI Prompt Engineering for Code to Docs
 
-Software documentation for **[Agentic Job Search](overview_job_search_agentic.md)** is generated automatically via this structured prompt processed by a local Ollama model, `qwen2.5-coder:1.5b`.
+Software documentation for **[Agentic Job Search](overview_job_search_agentic.md)** is generated automatically via this structured prompt processed by a local Ollama model, `qwen2.5-coder:1.5b`.  Using the Model Context Protocol streamlines the workflow.
 
 ```
     prompt = (
@@ -17,10 +17,6 @@ Software documentation for **[Agentic Job Search](overview_job_search_agentic.md
 [formulate_cover_summary.py](formulate_cover_summary.md) - writes a summary for the resume header and a cover letter
 
 [formulate_job_desc.py](formulate_job_desc.md) - filters and summarizes a job description
-
-## Model Context Protocol (MCP)
-
-Using MCP streamlines the workflow
 
 [mcp_job_desc_client.md](mcp_job_desc_client.md) - uses MCP to send a job description to mcp_job_desc_server.py for processing
 
