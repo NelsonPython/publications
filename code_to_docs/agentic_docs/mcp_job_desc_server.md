@@ -2,22 +2,6 @@
 
 This script is a FastMCP server designed to handle various job-related inquiries. The server includes tools for keyword clearance search, semantic clearance evaluation using Ollama, and summarizing job requirements into streamlined categories.
 
-## Installation
-
-To install the FastMCP server, ensure you have Python installed and then run the following command:
-
-```bash
-pip install fastmcp
-```
-
-## Running the Server
-
-To run the server, execute the following command:
-
-```bash
-python mcp_job_desc_server.py
-```
-
 ## Tools
 
 ### keyword_clearance_search
@@ -162,12 +146,4 @@ Format requirements:
         return json.dumps({"error": f"Failed to summarize job description: {e}"})
 ```
 
-## Running the Server
-
-To run the server, execute the following command:
-
-```bash
-python mcp_job_desc_server.py
-```
-
-This script utilizes the FastMCP framework to provide a robust and efficient solution for handling various job-related inquiries, including keyword clearance search, semantic clearance evaluation, and summarizing job requirements.
+search, semantic clearance evaluation, and summarizing job requirements.
