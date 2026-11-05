@@ -88,6 +88,7 @@ if __name__ == "__main__":
 
 ## Example - No Secret Clearance Required
 
+```
  ╭──────────────────────────────────────────────────────────────────────────────╮ 
  │                                                                              │ 
  │                                                                              │ 
@@ -129,5 +130,9 @@ SUMMARY:
 ### Summary
 
 The `mcp_job_desc_client.py` script is designed to process a job description using an MCP server. It explicitly calls keyword and semantic clearance searches to filter out non-applicable job descriptions. After passing the clearance checks, it uses a summarization tool to generate a concise summary of the job requirements. The summary is then optionally saved to a file. The script handles the MCP server subprocess and ensures that the MCP session is properly initialized and closed.
+```
+
+
+
 
 
