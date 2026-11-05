@@ -1,6 +1,6 @@
 # PORTFOLIO:  Technical Publications
 
-by Stacy D. Nelson (nickname "Cy Nelson")
+by Stacy D. Nelson (nickname "Cy, the Hat Guy")
 
 *I approach technical writing through a modern lens, focusing on Human-AI co-authoring.  By combining my background in software validation and linguistics with practical AI prompt engineering, I don't just write faster.  I work with optimized prompting workflows that unlock a much deeper, more comprehensive research base. This allows me to accelerate documentation timelines while elevating the overall precision and quality of the final output.*
 
