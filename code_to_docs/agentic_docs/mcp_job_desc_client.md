@@ -86,7 +86,7 @@ if __name__ == "__main__":
     asyncio.run(run_pipeline())
 ```
 
-### Example - No Secret Clearance Required
+#### Example Output - No Secret Clearance Required
 
 job_text = "We are looking for a Senior AI Engineer to develop an AI agent for summarizing Slack channel threads.  Must have Python.  MCP and RAG, a plus."
 
@@ -140,12 +140,11 @@ SUMMARY:
 
 [SAVED]: Summary written to job_desc/sample.job
 ```
-### Example - Secret Clearance Required
+#### Example Output - Secret Clearance Required
 
 job_text = "We are looking for a Senior AI Engineer for a confidential government project.  Must have Python."
 
 ```
-
  ╭──────────────────────────────────────────────────────────────────────────────╮ 
  │                                                                              │ 
  │                                                                              │ 
