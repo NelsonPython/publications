@@ -16,7 +16,7 @@ Rather than treating a resume as a single monolithic block of text, the system u
 
 #### Approach 2: The Gemini Prompt
 
-Because cloud models like Gemini outperforms local Ollama models, the pipeline compiles a specialized prompt for Gemini’s input box. The resulting output is pasted into the `Gemini Prompt Parser` and parsed cleanly into structured sections ready for Step 3. Gathering, Sorting, and Formatting.
+Because cloud models like Gemini outperforms local Ollama models, the pipeline compiles a specialized prompt for Gemini’s input box. The resulting output is pasted into the `Gemini Prompt Parser` and parsed cleanly into structured sections ready for Step 3. Gathering, Sorting, & Formatting.
 
 #### Approach 3:  RAG (Retrieval-Augmented Generation) with a vector database
 
