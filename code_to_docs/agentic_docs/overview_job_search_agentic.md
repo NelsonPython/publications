@@ -26,7 +26,7 @@ See [Part 2: Validating AI Prompts](https://github.com/NelsonPython/ai_prompts/b
 
 #### Approach 1:
 
-Outputs from each prompt are matched against sections of the master resume to ensure validated content. The new resume data is stored in **JSON**.  The dates of relevant Professional Experience are automatically sorted and any missing dates are flagged. The new resume is compiled into text, Markdown, or Word formats.
+Outputs from each prompt are matched against sections of the master resume to ensure validated content. The new resume data is stored in **JSON**.  The dates of relevant Professional Experience are automatically sorted and any missing dates are flagged. The new resume is compiled into text, markdown, or Word formats.
 
 #### Approach 3:
 
