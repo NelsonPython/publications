@@ -2,7 +2,7 @@
 
 ## AI Prompt Engineering for Code-to-Docs
 
-Software documentation for **[Agentic Job Search](overview_job_search_agentic.md)** is generated automatically via this structured prompt processed by a local Ollama model, `qwen2.5-coder:1.5b`.  
+To demonstrate how AI Prompt Engineering speeds up code to docs.  This prompt was used to draft selected software documentation for Python scripts used in the **[Agentic Job Search](overview_job_search_agentic.md)**.  Docs are processed locally by an Ollama model, `qwen2.5-coder:1.5b` tailored for generating code.  
 ```
     prompt = (
         f"Read the python script and write step-by-step documentation in markdown format. "
