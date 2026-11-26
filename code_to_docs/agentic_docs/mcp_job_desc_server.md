@@ -31,7 +31,7 @@ def keyword_clearance_search(job_text: str) -> str:
 
 ### semantic_clearance_search
 
-This tool performs a semantic LLM-based evaluation using Ollama to check if a security clearance is required.
+This tool performs a semantic evaluation to check whether a security clearance is required.
 
 ```python
 mcp.tool()
