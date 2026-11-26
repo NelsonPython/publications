@@ -113,7 +113,6 @@ Format requirements:
 2. Do not invent new category keys outside of this list.
 3. Keep summaries clear, concise, and deduplicated.
     """
-
     payload = {
         "model": model,
         "messages": [
@@ -121,8 +120,8 @@ Format requirements:
             {"role": "user", "content": job_text},
         ],
         "options": {
-            "num_ctx": 2048,
-            "num_predict": 2048,
+            "num_ctx": 4096,
+            "num_predict": 4096,
             "num_thread": 4,
         },
         "format": "json",
