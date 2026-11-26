@@ -25,7 +25,7 @@ Examples:
 
 ## Code-to-Docs Pipeline for GitHub
 
-Suppose you write a new Python script.  Before pushing to GitHub, run `docs_gen.py`.  This code ingests your script and outputs a step-by-step user guide.  Now your pull request includes both code and docs.
+This prompt can be wrapped in a Python script called `docs_gen.py` so that it runs when you add a new script to your local copy of a GitHub repo.  It ingests your code and outputs a step-by-step developer guide.  When you issue a pull request, it includes both code and user guide.
 
 ## Model Context Protocol (MCP)
 
