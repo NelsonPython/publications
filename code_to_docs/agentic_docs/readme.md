@@ -19,9 +19,9 @@ Models such as the Ollama model `qwen2.5-coder:1.5b` have been designed to gener
 
 Examples:
 
-[formulate_cover_summary.py](formulate_cover_summary.md) - moving towards drafting a cover letter and summary
+[formulate_cover_summary.py](formulate_cover_summary.md) - moving towards AI drafting a cover letter and summary
 
-[formulate_job_desc.py](formulate_job_desc.md) - moving towards filtering and summarizing a job description
+[formulate_job_desc.py](formulate_job_desc.md) - moving towards AI filtering and summarizing a job description
 
 ## Code-to-Docs Pipeline for GitHub
 
