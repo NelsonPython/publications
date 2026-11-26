@@ -27,9 +27,9 @@ Examples:
 
 This code-to-docs pipeline leverages GitHub with the added benefit of auto-generated documentation.  Suppose you write a new Python script.  Before pushing to GitHub, run `docs_gen.py` to ingest your script and output a step-by-step user guide.  Having docs with your script, can make pull request review easier and faster.
 
-## MCP Streamlines Generating Docs
+## Model Context Protocol (MCP)
 
-Using the Model Context Protocol (MCP) streamlines the generation process. 
+MCP standardizes how AI models and local or remote data sources and tools talk to each other.  
 
 [mcp_job_desc_client.py](mcp_job_desc_client.md) - uses MCP to send a job description to mcp_job_desc_server.py for processing
 
