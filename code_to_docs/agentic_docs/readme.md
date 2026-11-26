@@ -19,7 +19,7 @@ Models such as the Ollama model `qwen2.5-coder:1.5b` have been designed to gener
 
 Examples:
 
-[formulate_cover_summary.py](formulate_cover_summary.md) - writes a cover letter and a summary for the resume header
+[formulate_cover_summary.py](formulate_cover_summary.md) - drafts a cover letter and summary
 
 [formulate_job_desc.py](formulate_job_desc.md) - filters and summarizes a job description
 
