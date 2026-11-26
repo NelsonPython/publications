@@ -38,5 +38,5 @@ Using the Model Context Protocol (MCP) streamlines the generation process.
 
 ---
 
-***Disclaimer:**  This demonstration code was developed by Gemini for the purpose of discussing a code-to-docs pipeline leveraging Agentic AI.*
+***Disclaimer:** This is demonstration code developed by Gemini for the purpose of discussing a code-to-docs pipeline leveraging Agentic AI.*
 
