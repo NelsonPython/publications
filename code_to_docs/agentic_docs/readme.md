@@ -25,7 +25,7 @@ Examples:
 
 ## Agentic AI Code-to-Docs Pipeline
 
-This code-to-docs pipeline leverages GitHub with the added benefit of auto-generated documentation.  Suppose you write a new Python script.  Before pushing to GitHub, run `docs_gen.py` to ingest your script and output a step-by-step user guide.  Having docs with the script, can make pull request review easier and faster.
+This code-to-docs pipeline leverages GitHub with the added benefit of auto-generated documentation.  Suppose you write a new Python script.  Before pushing to GitHub, run `docs_gen.py` to ingest your script and output a step-by-step user guide.  Having docs with your script, can make pull request review easier and faster.
 
 ## MCP Streamlines Generating Docs
 
