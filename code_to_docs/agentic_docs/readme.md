@@ -2,9 +2,9 @@
 
 ## AI Prompt Engineering for Code-to-Docs
 
-Models such as the Ollama model `qwen2.5-coder:1.5b` have been designed to generate code.  They can also write software user guides.  One may argue that software user guides are obsolete now that interactive AI chats that can guide developers with real-time feedback and even write code.  While this is true, in regulated environments where code can impact human safety, a software user guide may still be needed for audit and certification.  Flight control software used to fly airplanes and code used to run medical devices are two examples of safety-critical software.  
+Models such as the Ollama model `qwen2.5-coder:1.5b` have been designed to generate code.  They can also write software user guides.  One may argue that software user guides are obsolete now that interactive AI chats that can guide developers with real-time feedback and even write code.  While this is true, in regulated environments where code can impact human safety, a software user guide may still be needed for audit and certification.  Flight control software used to fly airplanes and code used to run medical devices are two examples of safety-critical software.  Software user guides may be valuable in non-regulated environments for conveying best practices and coding standards.
 
-AI Prompt Engineering can speed up code to docs.  This prompt was used to draft selected software documentation for Python scripts used in the **[Agentic Job Search](overview_job_search_agentic.md)**.  Docs were processed locally by an Ollama model tailored for generating code `qwen2.5-coder:1.5b`.  
+This example demonstrates AI Prompt Engineering as part of the code-the-docs pipeline for the **[Agentic Job Search](overview_job_search_agentic.md)**.  Docs are processed locally by giving `qwen2.5-coder:1.5b` the following prompt:  
 
 ```
     prompt = (
@@ -18,6 +18,8 @@ AI Prompt Engineering can speed up code to docs.  This prompt was used to draft 
         f"```"
     )
 ```
+
+Examples:
 
 [formulate_cover_summary.py](formulate_cover_summary.md) - writes a cover letter and a summary for the resume header
 
