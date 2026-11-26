@@ -86,7 +86,7 @@ NOW EVALUATE THIS JOB DESCRIPTION:
 
 ### summarize_job_requirements
 
-This tool summarizes key job requirements and skills into streamlined categories.
+This tool summarizes key job requirements and skills into target categories.
 
 ```python
 mcp.tool()
