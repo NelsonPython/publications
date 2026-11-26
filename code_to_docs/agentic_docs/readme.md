@@ -3,13 +3,17 @@
 ## AI Prompt Engineering for Code-to-Docs
 
 To demonstrate how AI Prompt Engineering speeds up code to docs.  This prompt was used to draft selected software documentation for Python scripts used in the **[Agentic Job Search](overview_job_search_agentic.md)**.  Docs were processed locally by an Ollama model tailored for generating code `qwen2.5-coder:1.5b`.  
+
 ```
     prompt = (
-        f"Read the python script and write step-by-step documentation in markdown format. "
-        f"The first line of your output must be the name of the script.\n\n"
-        f"Script Name: {script_name}\n\n"
-        f"Include code snippets for running prompts and the prompt definition"
-        f"```python\n{script_content}\n```"
+        f"# Instructions\n"
+        f"Read the Python script provided below and write comprehensive, step-by-step documentation in Markdown format.\n"
+        f"- The very first line of your output must be the name of the script: {script_name}\n"
+        f"- Include an overview, key functions, and code snippets describing how the script works, plus a one line instruction for running this script.\n\n"
+        f"# Python Script: {script_name}\n"
+        f"```python\n"
+        f"{script_content}\n"
+        f"```"
     )
 ```
 
