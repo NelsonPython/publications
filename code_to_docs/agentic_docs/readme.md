@@ -31,7 +31,7 @@ This prompt can be wrapped in a Python script called `docs_gen.py` so that it ru
 
 MCP standardizes how AI models and local or remote data sources and tools talk to each other.  
 
-[mcp_job_desc_client.py](mcp_job_desc_client.md) - uses MCP to send a job description to mcp_job_desc_server.py for processing
+[mcp_job_desc_client.py](mcp_job_desc_client.md) - using MCP to send a job description to mcp_job_desc_server.py for processing
 
 [mcp_job_desc_server.py](mcp_job_desc_server.md) - filters and summarizes a job description
 
