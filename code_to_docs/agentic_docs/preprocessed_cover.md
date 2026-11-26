@@ -19,7 +19,7 @@ import json
 ```python
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(
-        description="Evaluate job description and output json resume snippets for new resume"
+        description="Evaluate job description and output json snippets for new resume"
     )
     ap.add_argument(
         "-j", "--job_desc",
@@ -125,7 +125,7 @@ if __name__ == "__main__":
         for d in draft:
             fo.write(d)
 
-    print(F"\n{outpath}")
+    print(f"\n{outpath}")
 ```
 
 - Iterate through the `cover_letter_nos` and `filenames` to load the corresponding cover letter templates.
@@ -135,7 +135,7 @@ if __name__ == "__main__":
 ### 7. Exit with Success
 
 ```python
-    print(F"\n{outpath}")
+    print(f"\n{outpath}")
 ```
 
 - Print a message indicating the completion of the process.
