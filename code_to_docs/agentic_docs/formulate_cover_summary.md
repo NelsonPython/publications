@@ -37,8 +37,8 @@ def call_ollama(model, system_prompt, user_content, url="http://localhost:11434/
             {"role": "user", "content": user_content},
         ],
         "options": {
-            "num_ctx": 2048,
-            "num_predict": 2048,
+            "num_ctx": 4096,
+            "num_predict": 4096,
             "num_thread": 4,
             "low_vram": False,
         },
