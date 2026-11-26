@@ -23,9 +23,9 @@ Examples:
 
 [formulate_job_desc.py](formulate_job_desc.md) - filters and summarizes a job description
 
-## Agentic AI Code-to-Docs Pipeline
+## Code-to-Docs Pipeline for GitHub
 
-This code-to-docs pipeline leverages GitHub with the added benefit of auto-generated documentation.  Suppose you write a new Python script.  Before pushing to GitHub, run `docs_gen.py` to ingest your script and output a step-by-step user guide.  Having docs with your script, can make pull request review easier and faster.
+Suppose you write a new Python script.  Before pushing to GitHub, run `docs_gen.py`.  This code ingests your script and outputs a step-by-step user guide.  Now your pull request includes both code and docs.
 
 ## Model Context Protocol (MCP)
 
